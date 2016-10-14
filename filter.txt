@@ -60,11 +60,9 @@ www.tabnak.ir##.home_adv_height.padd_home_right.visible-md.visible-lg.col-md-5
 ||niniban.com/files/adv/$image
 ||roozno.com/files/adv/$image
 ||sobhanehonline.com/files/adv/$image
-||static0.ilna.ir/serve/*/*/*$object
-||storage.beytoote.com/images/banners/$image
-||storage.beytoote.com/images/banners/*.*$image
-||www.asriran.com/files/adv/*$image
-||www.asriran.com/files/adv/*.swf$object
+||*.ilna.ir/serve/*/*/*$object
+||storage.beytoote.com/images/banners/
+||*.asriran.com/files/adv/
 ||www.boursenews.ir/files/adv/$image
 ||www.entekhab.ir/files/adv/*$image
 ||www.fardanews.com/files/adv/*$image
