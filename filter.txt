@@ -1,0 +1,10 @@
+||cdn.isna.ir/d/*/*/*/*/*.gif$image
+||cdn.isna.ir/d/*/*/*/*/*.swf$object
+||cdn.yjc.ir/files/adv/*$image
+||cinematicket.org/images/a-d/*$image
+||static0.ilna.ir/serve/*/*/*$object
+||cdn.tabnak.ir/files/adv/*$image
+||cdn.fararu.com/files/adv/*$image
+||*.ilna.ir/serve/*/*/*$image
+||*.aftabir.com/campaigns/adv_images/*$image
+||cdn.mashreghnews.ir/files/adv/*$image
