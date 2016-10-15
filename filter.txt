@@ -19,12 +19,19 @@
 *.shia-news.com##.txt_adv_content
 *.tabnak.ir##.cycle_adv_news
 *.tabnak.ir##.home_adv_height.padd_home_right.visible-md.visible-lg.col-md-5
+/ads/files/
 /files/adv/
 aftabnews.ir##.adv_l_inner5
+itna.ir###advertise_div2
+itresan.com###fsml_ff
+itresan.com##.ADTUBE
 noandish.com##.adv
 noandish.com##.adv_inner
 roozno.com###next1-740
 roozno.com##.adv
+www.isna.ir###box109
+www.isna.ir###box114 > div > ul
+www.isna.ir###box32
 ||*.*.adnegah.net/$subdocument
 ||*.598.ir/files/adv/
 ||*.ad.adtube.ir/*$subdocument
@@ -59,7 +66,10 @@ roozno.com##.adv
 ||cinematicket.org/images/a-d/*$image
 ||farhangban.com/images/banners/$image
 ||images.khabaronline.ir/system/menus/*/*
+||itresan.com/banner/
+||itresan.com/wp-content/uploads/*/*/*.gif$image
 ||javanonline.ir/files/adv/
+||media.farsnews.com/Uploaded/Files/Documents/*/*/*/*$image
 ||media.mehrnews.com/d/*/*/*/*/*.gif$image
 ||niniban.com/files/adv/
 ||noandish.com/files/adv/
