@@ -65,6 +65,7 @@ www.isna.ir###box32
 ||cdn.yjc.ir/files/adv/
 ||cinematicket.org/images/a-d/*$image
 ||farhangban.com/images/banners/$image
+||ictna.ir/ads/files/
 ||images.khabaronline.ir/system/menus/*/*
 ||itresan.com/banner/
 ||itresan.com/wp-content/uploads/*/*/*.gif$image
