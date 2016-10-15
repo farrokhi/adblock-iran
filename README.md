@@ -1,5 +1,5 @@
 # adblock-iran
-Ad blocking rules for iranian/persian websites.  Works with [adblock][https://adblockplus.org/] and [uBlock][https://github.com/gorhill/uBlock] plugins.
+Ad blocking rules for iranian/persian websites.  Works with [adblock](https://adblockplus.org/) and [uBlock](https://github.com/gorhill/uBlock) plugins.
 
 ## Installation
 
