@@ -5,12 +5,14 @@
 *.bartarinha.ir##.padd_home_r.col-md-6
 *.beytoote.com###adsx
 *.beytoote.com##.slides
+*.blogsky.com###fesnq
 *.bultannews.com##.adv
 *.bultannews.com##.parent_txt_adv_container2
 *.entekhab.ir##.col-xs-36.attention
 *.entekhab.ir##.col-xs-36.news-web
 *.farsnews.com##.advertisement
 *.farsnews.com##.col-md-2.ads-tile
+*.favanews.com###adpress_widget-2
 *.khabaronline.ir##.advContainer.advCon
 *.khabaronline.ir##.advContainer.margin-b-md.row
 *.khabaronline.ir##.banner
@@ -19,6 +21,7 @@
 *.shia-news.com##.txt_adv_content
 *.tabnak.ir##.cycle_adv_news
 *.tabnak.ir##.home_adv_height.padd_home_right.visible-md.visible-lg.col-md-5
+.persianblog.ir###divADV
 /ads/files/
 /files/adv/
 aftabnews.ir##.adv_l_inner5
@@ -45,6 +48,7 @@ www.isna.ir###box32
 ||*.entekhab.ir/files/adv/
 ||*.fararu.com/files/adv/
 ||*.fardanews.com/files/adv/
+||*.favanews.com/other/*$object
 ||*.ilna.ir/serve/*/*/*$image
 ||*.ilna.ir/serve/*/*/*$object
 ||*.iribnews.ir/files/adv/
@@ -56,6 +60,8 @@ www.isna.ir###box32
 ||*.shahrekhabar.com/swf/$image
 ||*.shia-news.com/files/adv/$image
 ||*.yjc.ir/files/adv/$object
+||*.zoomit.ir/*/banners/
+||*.zoomit.ir/banners/
 ||aftabnews.ir/files/adv/
 ||aghigh.ir/files/adv/
 ||cdn.isna.ir/d/*/*/*/*/*.gif$image
@@ -64,6 +70,7 @@ www.isna.ir###box32
 ||cdn.tabnak.ir/files/adv/
 ||cdn.yjc.ir/files/adv/
 ||cinematicket.org/images/a-d/*$image
+||digiato.com/wp-content/uploads/*/*/*.gif$image
 ||farhangban.com/images/banners/$image
 ||ictna.ir/ads/files/
 ||images.khabaronline.ir/system/menus/*/*
@@ -78,3 +85,4 @@ www.isna.ir###box32
 ||roozno.com/files/adv/
 ||sobhanehonline.com/files/adv/
 ||storage.beytoote.com/images/banners/
+||www.elmefarda.com/wp-content/uploads/*/*/ad*$image
