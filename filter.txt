@@ -30,8 +30,11 @@ itresan.com###fsml_ff
 itresan.com##.ADTUBE
 noandish.com##.adv
 noandish.com##.adv_inner
+p30download.com###main-content > .tabliq-468:nth-of-type(2)
 roozno.com###next1-740
 roozno.com##.adv
+tebyan.net##.theiaStickySidebar
+www.beytoote.com###adsx
 www.isna.ir###box109
 www.isna.ir###box114 > div > ul
 www.isna.ir###box32
@@ -62,6 +65,8 @@ www.isna.ir###box32
 ||*.yjc.ir/files/adv/$object
 ||*.zoomit.ir/*/banners/
 ||*.zoomit.ir/banners/
+||1varzesh.com/images/banners/
+||ad.utop.ir/b/$image
 ||aftabnews.ir/files/adv/
 ||aghigh.ir/files/adv/
 ||cdn.isna.ir/d/*/*/*/*/*.gif$image
@@ -74,6 +79,7 @@ www.isna.ir###box32
 ||farhangban.com/images/banners/$image
 ||ictna.ir/ads/files/
 ||images.khabaronline.ir/system/menus/*/*
+||img.soft98.ir/*.gif$image
 ||itresan.com/banner/
 ||itresan.com/wp-content/uploads/*/*/*.gif$image
 ||javanonline.ir/files/adv/
@@ -84,6 +90,8 @@ www.isna.ir###box32
 ||media.mehrnews.com/d/*/*/*/*/*.gif$image
 ||niniban.com/files/adv/
 ||noandish.com/files/adv/
+||p30download.com/agahi/
+||p30download.com/tabliq
 ||roozno.com/files/adv/
 ||sobhanehonline.com/files/adv/
 ||storage.beytoote.com/images/banners/
