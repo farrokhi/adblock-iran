@@ -24,6 +24,7 @@
 .persianblog.ir###divADV
 /ads/files/
 /files/adv/
+1pezeshk.com##.ADTUBE
 aftabnews.ir##.adv_l_inner5
 itna.ir###advertise_div2
 itresan.com###fsml_ff
@@ -65,6 +66,7 @@ www.isna.ir###box32
 ||*.yjc.ir/files/adv/$object
 ||*.zoomit.ir/*/banners/
 ||*.zoomit.ir/banners/
+||1pezeshk.com/wp-content/uploads/*/*/*.gif$image
 ||1varzesh.com/images/banners/
 ||ad.utop.ir/b/$image
 ||aftabnews.ir/files/adv/
@@ -96,7 +98,9 @@ www.isna.ir###box32
 ||sobhanehonline.com/files/adv/
 ||storage.beytoote.com/images/banners/
 ||widgets.takhfifan.com/pics/$image
+||www.ammarname.ir/sites/default/files/templateLogo/Baner/$object
 ||www.elmefarda.com/wp-content/uploads/*/*/ad*$image
 ||www.iranjib.ir/uploads/*.gif$image
 ||www.iranjib.ir/uploads/*.swf$object
 ||www.newsair.ir/wp-content/uploads/*/*/*.gif$image
+||www.rooyeshnews.com/static/files/images/banners/
