@@ -51,9 +51,11 @@ www.downloadha.com###main > .main-container > .maincontent > .topbanners468
 www.film2movie.biz##.middle > .right-main > .main > .box:nth-of-type(3)
 www.ictna.ir###sidebar > .clearfix.sidebar-header-ad
 www.ictna.ir###sidebar > .margint10.clearfix.squer.sidebar-footer-ad
+www.isna.ir###box108
 www.isna.ir###box109
 www.isna.ir###box114 > div > ul
 www.isna.ir###box32
+www.parsnaz.ir##.ads-head
 ||*.*.adnegah.net/$subdocument
 ||*.20script.com/banner/$image
 ||*.20script.ir/banner/$image
@@ -82,6 +84,7 @@ www.isna.ir###box32
 ||*.nex1network.com/*$subdocument
 ||*.nextads.ir/$subdocument
 ||*.parsine.com/files/adv/
+||*.parsnaz.ir/ads/
 ||*.patoghu.com/tabligh/
 ||*.picofile.com/file/*/*.gif$image
 ||*.poolnews.ir/files/adv/
@@ -132,6 +135,7 @@ www.isna.ir###box32
 ||p30download.com/agahi/
 ||p30download.com/tabliq
 ||paperhub.ir/*.gif$image
+||parsnaz.ir/ads/
 ||roozno.com/files/adv/
 ||sobhanehonline.com/files/adv/
 ||storage.beytoote.com/images/banners/
