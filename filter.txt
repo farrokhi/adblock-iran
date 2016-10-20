@@ -49,6 +49,8 @@ www.apktops.ir##.widgetwrap
 www.beytoote.com###adsx
 www.downloadha.com###main > .main-container > .maincontent > .topbanners468
 www.film2movie.biz##.middle > .right-main > .main > .box:nth-of-type(3)
+www.ictna.ir###sidebar > .clearfix.sidebar-header-ad
+www.ictna.ir###sidebar > .margint10.clearfix.squer.sidebar-footer-ad
 www.isna.ir###box109
 www.isna.ir###box114 > div > ul
 www.isna.ir###box32
@@ -107,6 +109,7 @@ www.isna.ir###box32
 ||cdn.yjc.ir/files/adv/
 ||cinematicket.org/images/a-d/*$image
 ||digiato.com/wp-content/uploads/*/*/*.gif$image
+||donya-e-eqtesad.com/Images/Bitrix//BannerFile/$image
 ||download.ir/wp-content/uploads/*/*/*.gif$image
 ||download.ir/wp-content/uploads/*/*/ads*$image
 ||farhangban.com/images/banners/$image
@@ -138,7 +141,9 @@ www.isna.ir###box32
 ||www.ammarname.ir/sites/default/files/templateLogo/Baner/$object
 ||www.androidha.com/wp-content/uploads/*/*/*.gif$image
 ||www.apktops.ir/wp-content/uppic/*.gif$image
+||www.appleapps.ir/wp-content/uploads/*/*/*.gif$image
 ||www.elmefarda.com/wp-content/uploads/*/*/ad*$image
+||www.ictna.ir/ads/
 ||www.iranjib.ir/uploads/*.gif$image
 ||www.iranjib.ir/uploads/*.swf$object
 ||www.mygame.ir/image/*.gif$image
