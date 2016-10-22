@@ -31,20 +31,29 @@ barato.ir##.ads.block
 barmandownload.ir##.content > .left-menu > .block-content:nth-of-type(1)
 barmandownload.ir##.content > .right-menu > .block-content:nth-of-type(1)
 biafun.com###apanet_ads_bottom_left_125
+digiato.com##.global-wrap > .margin-top-80.paged.guttered.fixed-width.digi-container > .white.paper > .row.no-bg.home-sec > .sticky-side.right-sidebar.main-sidebar.home-col.columns.show-for-medium.large-pull-6.medium-4.large-3 > .theiaStickySidebar > .sidebar-widget:nth-of-type(6)
 itna.ir###advertise_div2
 itresan.com###fsml_ff
 itresan.com##.ADTUBE
+ladin.ir###sidebar-left > .sidebar-left > .ads.sidebar-box:nth-of-type(1)
+ladin.ir###sidebar-right > .sidebar-right > .ads.sidebar-box
+movie.downloadfreenewa.com###varoone_ads_top_right_540
 noandish.com##.adv
 noandish.com##.adv_inner
 p30download.com###main-content > .tabliq-468:nth-of-type(2)
 roozno.com###next1-740
 roozno.com##.adv
+skinak.ir###dis_ads > .dadsd
+skinak.ir##.bg > center > .dadsd:nth-of-type(2)
+skinak.ir##header > .ads
 tebyan.net##.theiaStickySidebar
 www.4dah.ir##.wrap > .warpper > .head2-ads
 www.alamto.com###adnFloatbr
 www.alamto.com###b130
+www.androidha.com###container > .banners.litebox
 www.androidha.com##.app-inside-post
 www.androidha.com##.widget_banner_ads
+www.androidha.com##a[href^="http://www.eligasht.com/"]
 www.apktops.ir##.widgetwrap
 www.beytoote.com###adsx
 www.downloadha.com###main > .main-container > .maincontent > .topbanners468
@@ -55,6 +64,8 @@ www.isna.ir###box108
 www.isna.ir###box109
 www.isna.ir###box114 > div > ul
 www.isna.ir###box32
+www.new4android.ir###nex1network-PB
+www.new4android.ir##body > div:nth-of-type(3) > .external
 www.parsnaz.ir##.ads-head
 ||*.*.adnegah.net/$subdocument
 ||*.20script.com/banner/$image
@@ -69,6 +80,7 @@ www.parsnaz.ir##.ads-head
 ||*.boursenews.ir/files/adv/
 ||*.bultannews.com/files/adv/
 ||*.camp.sabavision.com/*$subdocument
+||*.cccamiran.net/images/*.gif$image
 ||*.entekhab.ir/files/adv/
 ||*.famo.ir/ad/
 ||*.fararu.com/files/adv/
@@ -79,6 +91,7 @@ www.parsnaz.ir##.ads-head
 ||*.freescript.ir/wp-content/uploads/*/*/*.gif$image
 ||*.ilna.ir/serve/*/*/*$image
 ||*.ilna.ir/serve/*/*/*$object
+||*.img7.ir/*.gif$image
 ||*.iribnews.ir/files/adv/
 ||*.kazeroonnema.ir/files/adv/
 ||*.nex1network.com/*$subdocument
@@ -105,6 +118,7 @@ www.parsnaz.ir##.ads-head
 ||aftabnews.ir/files/adv/
 ||aghigh.ir/files/adv/
 ||androidina.net/images/*.gif$image
+||androidineh.com/wp-content/uploads/*.gif$image
 ||cdn.isna.ir/d/*/*/*/*/*.gif$image
 ||cdn.isna.ir/d/*/*/*/*/*.swf$object
 ||cdn.mashreghnews.ir/files/adv/
@@ -112,6 +126,8 @@ www.parsnaz.ir##.ads-head
 ||cdn.yjc.ir/files/adv/
 ||cinematicket.org/images/a-d/*$image
 ||digiato.com/wp-content/uploads/*/*/*.gif$image
+||digiato.com/wp-content/uploads/*/*/290-165.jpg$image
+||digiato.com/wp-content/uploads/*/*/digiato7-do.jpg$image
 ||donya-e-eqtesad.com/Images/Bitrix//BannerFile/$image
 ||download.ir/wp-content/uploads/*/*/*.gif$image
 ||download.ir/wp-content/uploads/*/*/ads*$image
@@ -137,9 +153,12 @@ www.parsnaz.ir##.ads-head
 ||paperhub.ir/*.gif$image
 ||parsnaz.ir/ads/
 ||roozno.com/files/adv/
+||sarasat95.tk/images/ehsan-pixell/pixell_rangh/images/*.gif$image
 ||sobhanehonline.com/files/adv/
 ||storage.beytoote.com/images/banners/
+||up.skinak.ir/up/skinak/temps/forum/v3/images/bg.jpg$image
 ||widgets.takhfifan.com/pics/$image
+||wimaxnews.ir/images/main/null.gif$image
 ||www.8pic.ir/images/*.gif$image
 ||www.alamto.com/wp-content/uploads/*/*/*.gif$image
 ||www.ammarname.ir/sites/default/files/templateLogo/Baner/$object
@@ -150,7 +169,10 @@ www.parsnaz.ir##.ads-head
 ||www.ictna.ir/ads/
 ||www.iranjib.ir/uploads/*.gif$image
 ||www.iranjib.ir/uploads/*.swf$object
+||www.javanmobile.com/wp-content/uploads/*/*/*.gif$image
 ||www.mygame.ir/image/*.gif$image
+||www.new4android.ir/wp-content/uploads/*/*/*.gif$image
 ||www.newsair.ir/wp-content/uploads/*/*/*.gif$image
+||www.p30world.com/wp/wp-content/uploads/*/*/*.gif$image
 ||www.rahnama.com/pub/img/SiteAdvert/
 ||www.rooyeshnews.com/static/files/images/banners/
