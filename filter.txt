@@ -13,6 +13,8 @@
 *.farsnews.com##.advertisement
 *.farsnews.com##.col-md-2.ads-tile
 *.favanews.com###adpress_widget-2
+*.irannsr.org###block53896
+*.irannsr.org###block57722
 *.khabaronline.ir##.advContainer.advCon
 *.khabaronline.ir##.advContainer.margin-b-md.row
 *.khabaronline.ir##.banner
@@ -40,6 +42,8 @@ ladin.ir###sidebar-right > .sidebar-right > .ads.sidebar-box
 movie.downloadfreenewa.com###varoone_ads_top_right_540
 noandish.com##.adv
 noandish.com##.adv_inner
+omidiraniannewspaper.ir###\34 6
+omidiraniannewspaper.ir###\35 0
 p30download.com###main-content > .tabliq-468:nth-of-type(2)
 roozno.com###next1-740
 roozno.com##.adv
@@ -57,6 +61,8 @@ www.androidha.com##a[href^="http://www.eligasht.com/"]
 www.apktops.ir##.widgetwrap
 www.beytoote.com###adsx
 www.downloadha.com###main > .main-container > .maincontent > .topbanners468
+www.faaltarin.com##body > div:nth-of-type(2) > div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(3)
+www.farsnews.com##.container > .mainframe > .hidden-xs.pull-right.col-lg-4.col-md-4.col-sm-3.leftcolumn > .col-lg-5.col-md-5.hidden-sm.adscolumn > .advertisement
 www.film2movie.biz##.middle > .right-main > .main > .box:nth-of-type(3)
 www.ictna.ir###sidebar > .clearfix.sidebar-header-ad
 www.ictna.ir###sidebar > .margint10.clearfix.squer.sidebar-footer-ad
@@ -64,6 +70,7 @@ www.isna.ir###box108
 www.isna.ir###box109
 www.isna.ir###box114 > div > ul
 www.isna.ir###box32
+www.mehrnews.com###ad97_558
 www.new4android.ir###nex1network-PB
 www.new4android.ir##body > div:nth-of-type(3) > .external
 www.parsnaz.ir##.ads-head
@@ -82,6 +89,8 @@ www.parsnaz.ir##.ads-head
 ||*.camp.sabavision.com/*$subdocument
 ||*.cccamiran.net/images/*.gif$image
 ||*.entekhab.ir/files/adv/
+||*.faaltarin.com/images/*.gif$image
+||*.faaltarin.com/images/*.swf$object
 ||*.famo.ir/ad/
 ||*.fararu.com/files/adv/
 ||*.fardanews.com/files/adv/
@@ -119,6 +128,7 @@ www.parsnaz.ir##.ads-head
 ||aghigh.ir/files/adv/
 ||androidina.net/images/*.gif$image
 ||androidineh.com/wp-content/uploads/*.gif$image
+||badigi.com/wp-content/uploads/*/*/*.gif$image
 ||cdn.isna.ir/d/*/*/*/*/*.gif$image
 ||cdn.isna.ir/d/*/*/*/*/*.swf$object
 ||cdn.mashreghnews.ir/files/adv/
@@ -148,6 +158,7 @@ www.parsnaz.ir##.ads-head
 ||mihandownload.com/wp-content/uploads/*.gif$image
 ||niniban.com/files/adv/
 ||noandish.com/files/adv/
+||omidiraniannewspaper.ir/upload/File/afranet-logo.jpg$image
 ||p30download.com/agahi/
 ||p30download.com/tabliq
 ||paperhub.ir/*.gif$image
