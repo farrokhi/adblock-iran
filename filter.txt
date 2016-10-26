@@ -13,6 +13,7 @@
 *.farsnews.com##.advertisement
 *.farsnews.com##.col-md-2.ads-tile
 *.favanews.com###adpress_widget-2
+*.hotnaz.com###tabligheirani_ads_bottom_right_121
 *.irannsr.org###block53896
 *.irannsr.org###block57722
 *.khabaronline.ir##.advContainer.advCon
@@ -40,6 +41,7 @@ itresan.com##.ADTUBE
 ladin.ir###sidebar-left > .sidebar-left > .ads.sidebar-box:nth-of-type(1)
 ladin.ir###sidebar-right > .sidebar-right > .ads.sidebar-box
 movie.downloadfreenewa.com###varoone_ads_top_right_540
+namakstan.ir###main > .container > .main-content > .post > .topads1:nth-of-type(3)
 noandish.com##.adv
 noandish.com##.adv_inner
 omidiraniannewspaper.ir###\34 6
@@ -54,6 +56,7 @@ tebyan.net##.theiaStickySidebar
 www.4dah.ir##.wrap > .warpper > .head2-ads
 www.alamto.com###adnFloatbr
 www.alamto.com###b130
+www.amazing.ir###main > .header > .nav-adsmb:nth-of-type(3)
 www.androidha.com###container > .banners.litebox
 www.androidha.com##.app-inside-post
 www.androidha.com##.widget_banner_ads
@@ -167,11 +170,13 @@ www.parsnaz.ir##.ads-head
 ||sarasat95.tk/images/ehsan-pixell/pixell_rangh/images/*.gif$image
 ||sobhanehonline.com/files/adv/
 ||storage.beytoote.com/images/banners/
+||up.ariapix.net/images/*.gif$image
 ||up.skinak.ir/up/skinak/temps/forum/v3/images/bg.jpg$image
 ||widgets.takhfifan.com/pics/$image
 ||wimaxnews.ir/images/main/null.gif$image
 ||www.8pic.ir/images/*.gif$image
 ||www.alamto.com/wp-content/uploads/*/*/*.gif$image
+||www.amazing.ir/wp-content/uploads/*/*/*.gif$image
 ||www.ammarname.ir/sites/default/files/templateLogo/Baner/$object
 ||www.androidha.com/wp-content/uploads/*/*/*.gif$image
 ||www.apktops.ir/wp-content/uppic/*.gif$image
