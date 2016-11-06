@@ -44,6 +44,7 @@ movie.downloadfreenewa.com###varoone_ads_top_right_540
 namakstan.ir###main > .container > .main-content > .post > .topads1:nth-of-type(3)
 noandish.com##.adv
 noandish.com##.adv_inner
+noda.ir##.header-right
 omidiraniannewspaper.ir###\34 6
 omidiraniannewspaper.ir###\35 0
 p30download.com###main-content > .tabliq-468:nth-of-type(2)
@@ -54,6 +55,8 @@ skinak.ir##.bg > center > .dadsd:nth-of-type(2)
 skinak.ir##header > .ads
 tebyan.net##.theiaStickySidebar
 www.4dah.ir##.wrap > .warpper > .head2-ads
+www.akairan.com##.si120.fci
+www.akairan.com##iframe[src="http://www.akairan.com/khanevadeh/mbed/dabi120.html"]
 www.alamto.com###adnFloatbr
 www.alamto.com###b130
 www.amazing.ir###main > .header > .nav-adsmb:nth-of-type(3)
@@ -77,12 +80,16 @@ www.mehrnews.com###ad97_558
 www.new4android.ir###nex1network-PB
 www.new4android.ir##body > div:nth-of-type(3) > .external
 www.parsnaz.ir##.ads-head
+www.rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(1)
+www.rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(2)
+www.rokna.ir##.xcon12 > .mb16
 ||*.*.adnegah.net/$subdocument
 ||*.20script.com/banner/$image
 ||*.20script.ir/banner/$image
 ||*.598.ir/files/adv/
 ||*.ad.adtube.ir/*$subdocument
 ||*.aftabir.com/campaigns/adv_images/
+||*.akairan.com/images/banners/$image
 ||*.asriran.com/files/adv/
 ||*.bartarinha.ir/files/adv/
 ||*.beytoote.com/images/banners/
@@ -113,6 +120,7 @@ www.parsnaz.ir##.ads-head
 ||*.patoghu.com/tabligh/
 ||*.picofile.com/file/*/*.gif$image
 ||*.poolnews.ir/files/adv/
+||*.rokna.ir/serve/*/*/*.gif$image
 ||*.sabavision.com/$subdocument
 ||*.sarzamindownload.com/images/banners/$image
 ||*.sena.ir/ShowImages.ashx?Adv=*$image
@@ -156,6 +164,7 @@ www.parsnaz.ir##.ads-head
 ||khabarfori.ir/Portals/*/Sample/$object
 ||khabarfori.ir/Portals/*/tabligh/
 ||lavdan.ir/img/banner/
+||m.adnegah.net/cpx/*$subdocument
 ||media.farsnews.com/Uploaded/Files/Documents/*/*/*/*$image
 ||media.mehrnews.com/d/*/*/*/*/*.gif$image
 ||mihandownload.com/wp-content/uploads/*.gif$image
@@ -169,6 +178,7 @@ www.parsnaz.ir##.ads-head
 ||roozno.com/files/adv/
 ||sarasat95.tk/images/ehsan-pixell/pixell_rangh/images/*.gif$image
 ||sobhanehonline.com/files/adv/
+||static0.rokna.ir/serve/*/*/*.gif$image
 ||storage.beytoote.com/images/banners/
 ||up.ariapix.net/images/*.gif$image
 ||up.skinak.ir/up/skinak/temps/forum/v3/images/bg.jpg$image
