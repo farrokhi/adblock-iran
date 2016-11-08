@@ -1,3 +1,5 @@
+###mihan_page_advert
+###sabalightBox
 *.asriran.com##.logo_adv_container
 *.asriran.com##.webgardi_main.row
 *.bartarinha.ir##.ads
@@ -76,6 +78,7 @@ www.isna.ir###box108
 www.isna.ir###box109
 www.isna.ir###box114 > div > ul
 www.isna.ir###box32
+www.jamnews.ir###AdvertsHolderWI_1041 > .Adverts
 www.mehrnews.com###ad97_558
 www.new4android.ir###nex1network-PB
 www.new4android.ir##body > div:nth-of-type(3) > .external
@@ -83,6 +86,7 @@ www.parsnaz.ir##.ads-head
 www.rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(1)
 www.rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(2)
 www.rokna.ir##.xcon12 > .mb16
+www.shahrekhabar.com##.hidden-xs.hidden-sm.col-md-2.col-lg-2 > .row
 ||*.*.adnegah.net/$subdocument
 ||*.20script.com/banner/$image
 ||*.20script.ir/banner/$image
@@ -108,10 +112,12 @@ www.rokna.ir##.xcon12 > .mb16
 ||*.fera.ir/fera/ads/$image
 ||*.film2movie.biz/content/uploads/*.gif$image
 ||*.freescript.ir/wp-content/uploads/*/*/*.gif$image
+||*.halftime.ir/images/*.gif$image
 ||*.ilna.ir/serve/*/*/*$image
 ||*.ilna.ir/serve/*/*/*$object
 ||*.img7.ir/*.gif$image
 ||*.iribnews.ir/files/adv/
+||*.jamnews.ir/ads/*.gif$image
 ||*.kazeroonnema.ir/files/adv/
 ||*.nex1network.com/*$subdocument
 ||*.nextads.ir/$subdocument
@@ -126,12 +132,16 @@ www.rokna.ir##.xcon12 > .mb16
 ||*.sena.ir/ShowImages.ashx?Adv=*$image
 ||*.sena.ir/Upload/PicGallery/Adver/$object
 ||*.shahrekhabar.com/swf/$image
+||*.shahrekhabar.com/swf/*.swf$object
 ||*.shia-news.com/files/adv/$image
+||*.top90.ir/images/banners/$image
 ||*.yjc.ir/files/adv/$object
 ||*.zoomit.ir/*/banners/
 ||*.zoomit.ir/banners/
 ||1pezeshk.com/wp-content/uploads/*/*/*.gif$image
 ||1varzesh.com/images/banners/
+||3iranfilm.me/wp-content/uploads/*/*/*.gif$image
+||3iranfilm.me/wp-content/uploads/*/*/2-compressor.jpg$image
 ||8pic.ir/images/*.gif$image
 ||ad.nowaroos.com/images/banner/
 ||ad.utop.ir/b/$image
