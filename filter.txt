@@ -1,5 +1,6 @@
 ###mihan_page_advert
 ###sabalightBox
+*.aftabeyazd.ir##div:nth-of-type(7) > div:nth-of-type(4)
 *.asriran.com##.logo_adv_container
 *.asriran.com##.webgardi_main.row
 *.bartarinha.ir##.ads
@@ -125,6 +126,7 @@ www.shahrekhabar.com##.hidden-xs.hidden-sm.col-md-2.col-lg-2 > .row
 ||*.parsnaz.ir/ads/
 ||*.patoghu.com/tabligh/
 ||*.picofile.com/file/*/*.gif$image
+||*.pishkhaan.net/pishkhaanads/$image
 ||*.poolnews.ir/files/adv/
 ||*.rokna.ir/serve/*/*/*.gif$image
 ||*.sabavision.com/$subdocument
@@ -183,6 +185,7 @@ www.shahrekhabar.com##.hidden-xs.hidden-sm.col-md-2.col-lg-2 > .row
 ||omidiraniannewspaper.ir/upload/File/afranet-logo.jpg$image
 ||p30download.com/agahi/
 ||p30download.com/tabliq
+||panel.hamshahrionline.ir/system/menus/*/*.gif$image
 ||paperhub.ir/*.gif$image
 ||parsnaz.ir/ads/
 ||roozno.com/files/adv/
