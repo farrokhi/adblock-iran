@@ -7,6 +7,14 @@
 *.bartarinha.ir##.adv_display
 *.bartarinha.ir##.padd_home_r.col-md-6
 *.beytoote.com###adsx
+*.beytoote.com###headerbar > div:nth-of-type(1) > div > .deepest.module > div
+*.beytoote.com###innerbottom > .grid-v.width100.grid-box:nth-of-type(1)
+*.beytoote.com###innerbottom > .grid-v.width100.grid-box:nth-of-type(2) > .deepest.module
+*.beytoote.com###innerbottom > .grid-v.width100.grid-box:nth-of-type(3) > .deepest.module > .color-color.bannergroupstyle-body > .banneritem
+*.beytoote.com###innerbottom > .grid-v.width100.grid-box:nth-of-type(4)
+*.beytoote.com###sidebar-b > .grid-v.width100.grid-box:nth-of-type(3) > .deepest.module > .color-color.bannergroupstyle-body
+*.beytoote.com##.grid-h.width100.grid-box > .deepest.module > .bannergroup
+*.beytoote.com##.grid-v.width100.grid-box:nth-of-type(1) > .deepest.module > .color-color.bannergroupstyle-body
 *.beytoote.com##.slides
 *.blogsky.com###fesnq
 *.bultannews.com##.adv
