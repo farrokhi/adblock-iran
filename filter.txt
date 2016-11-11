@@ -98,6 +98,10 @@ noda.ir##.header-right
 omidiraniannewspaper.ir###\34 6
 omidiraniannewspaper.ir###\35 0
 p30download.com###main-content > .tabliq-468:nth-of-type(2)
+parsnaz.ir##.Bstyle.WCBC
+parsnaz.ir##.leftads.Bstyle.LBC:nth-of-type(1)
+parsnaz.ir##.Res001.Bstyle.RBC
+parsnaz.ir##.Res003.Bstyle.RBC
 roozno.com###next1-740
 rouzegar.com##.sidebar-left > .ads.sidebar-box:nth-of-type(1)
 rouzegar.com##.sidebar-right > .ads.sidebar-box
