@@ -82,6 +82,8 @@ digiato.com##.global-wrap > .margin-top-80.paged.guttered.fixed-width.digi-conta
 digiato.com##.sticky-side.left-sidebar.main-sidebar.home-col.columns.show-for-medium.medium-4.large-3 > .theiaStickySidebar > .sidebar-widget:nth-of-type(2)
 dl4all.ir##.center > .fadeInDown.animated.visible.hidden.body-main:nth-of-type(1)
 dl4all.ir##.left > .fadeInDown.animated.visible.hidden.body-main:nth-of-type(1)
+dustaan.com##.wp-image-66603.size-full.aligncenter
+himler.net##.secondary-sidebar.sidebar > .widget_text.widget
 irexpert.ir##object
 isna.ir###box108
 isna.ir###box109
@@ -98,10 +100,17 @@ noda.ir##.header-right
 omidiraniannewspaper.ir###\34 6
 omidiraniannewspaper.ir###\35 0
 p30download.com###main-content > .tabliq-468:nth-of-type(2)
+pardad.ir###ctl00_LeftBox_pnlLeft > .PT_Top:nth-of-type(1)
+pardad.ir###ctl00_RightBox1_pnlRight
+pardad.ir###modal-overlay
 parsnaz.ir##.Bstyle.WCBC
 parsnaz.ir##.leftads.Bstyle.LBC:nth-of-type(1)
 parsnaz.ir##.Res001.Bstyle.RBC
 parsnaz.ir##.Res003.Bstyle.RBC
+persianv.com##.web_box:nth-of-type(3)
+persianv.com##.web_box:nth-of-type(7)
+persianv.com##.wrapper2:nth-of-type(8)
+persianv.com##a[href^="http://panel.persianv.com/counter/click.php"]
 roozno.com###next1-740
 rouzegar.com##.sidebar-left > .ads.sidebar-box:nth-of-type(1)
 rouzegar.com##.sidebar-right > .ads.sidebar-box
@@ -226,6 +235,8 @@ www.shahrekhabar.com##.hidden-xs.hidden-sm.col-md-2.col-lg-2 > .row
 ||p30world.com/wp/wp-content/uploads/*/*/*.gif$image
 ||panel.hamshahrionline.ir/system/menus/*/*.gif$image
 ||paperhub.ir/*.gif$image
+||pardad.ir/UploadFiles/*.gif$image
+||persianv.com/random*/$subdocument
 ||picofile.com/file/*/*.gif$image
 ||pishkhaan.net/pishkhaanads/$image
 ||rahnama.com/pub/img/SiteAdvert/
@@ -238,6 +249,7 @@ www.shahrekhabar.com##.hidden-xs.hidden-sm.col-md-2.col-lg-2 > .row
 ||shahrekhabar.com/swf/
 ||static0.rokna.ir/serve/*/*/*.gif$image
 ||top2download.com/wp-content/uploads/*/*/*.gif$image
+||uc.persianv.com/up3/images/$image
 ||up.ariapix.net/images/*.gif$image
 ||up.sibgraph.ir/up/admin-sibgraph/sibgraph/theme/Images/*.gif$image
 ||up.skinak.ir/up/skinak/temps/forum/v3/images/bg.jpg$image
