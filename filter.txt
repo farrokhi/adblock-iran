@@ -1,4 +1,5 @@
 ###adnFloatbr
+###adpress_widget-2
 ###ads468
 ###adsx
 ###advertise_div2
@@ -7,11 +8,13 @@
 ###ban57
 ###divADV
 ###mihan_page_advert
+###nex1network-PB
 ###popup
 ###popupMask
 ###sabalightBox
 ###Topadver
 ##.ads
+##.ads-head
 ##.adsssss
 ##.ADTUBE
 ##.adv
@@ -28,6 +31,7 @@
 ##.textAdv
 ##.topadver
 ##.txt_adv_content
+##.widget_banner_ads
 ##a[href^="http://www.alamto.com/ads/click.php"]
 *.aftabeyazd.ir##div:nth-of-type(7) > div:nth-of-type(4)
 *.akairan.com##.moduletable-banner:nth-of-type(3)
@@ -69,12 +73,22 @@
 /tabligh/
 /tabliq/
 1pezeshk.com##.herald-sidebar-right.col-md-3.col-lg-3.herald-sidebar
+4dah.ir##.wrap > .warpper > .head2-ads
 aftabnews.ir##.adv_l_inner5
+akairan.com##.si120.fci
+akairan.com##iframe[src="http://www.akairan.com/khanevadeh/mbed/dabi120.html"]
+alamto.com###b130
+amazing.ir###main > .header > .nav-adsmb:nth-of-type(3)
+androidha.com###container > .banners.litebox
+androidha.com##.app-inside-post
+androidha.com##a[href^="http://www.eligasht.com/"]
+apktops.ir##.widgetwrap
 banki.ir###content_container > table > tbody > tr > td:nth-of-type(3)
 banki.ir##.moduletable:nth-of-type(3) > .bannergroup
 barato.ir##.ads.block
 barmandownload.ir##.content > .left-menu > .block-content:nth-of-type(1)
 barmandownload.ir##.content > .right-menu > .block-content:nth-of-type(1)
+beytoote.com###adsx
 biafun.com###apanet_ads_bottom_left_125
 bigtheme.ir###text-16 > .widget-container
 boursenews.ir##.ozv_col_y
@@ -82,8 +96,14 @@ digiato.com##.global-wrap > .margin-top-80.paged.guttered.fixed-width.digi-conta
 digiato.com##.sticky-side.left-sidebar.main-sidebar.home-col.columns.show-for-medium.medium-4.large-3 > .theiaStickySidebar > .sidebar-widget:nth-of-type(2)
 dl4all.ir##.center > .fadeInDown.animated.visible.hidden.body-main:nth-of-type(1)
 dl4all.ir##.left > .fadeInDown.animated.visible.hidden.body-main:nth-of-type(1)
+downloadha.com###main > .main-container > .maincontent > .topbanners468
 dustaan.com##.wp-image-66603.size-full.aligncenter
+faaltarin.com##body > div:nth-of-type(2) > div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(3)
+farsnews.com##.container > .mainframe > .hidden-xs.pull-right.col-lg-4.col-md-4.col-sm-3.leftcolumn > .col-lg-5.col-md-5.hidden-sm.adscolumn > .advertisement
+film2movie.biz##.middle > .right-main > .main > .box:nth-of-type(3)
 himler.net##.secondary-sidebar.sidebar > .widget_text.widget
+ictna.ir###sidebar > .clearfix.sidebar-header-ad
+ictna.ir###sidebar > .margint10.clearfix.squer.sidebar-footer-ad
 irexpert.ir##object
 isna.ir###box108
 isna.ir###box109
@@ -91,11 +111,14 @@ isna.ir###box114 > div > ul
 isna.ir###box32
 itresan.com###fsml_ff
 itresan.com##.ADTUBE
+jamnews.ir###AdvertsHolderWI_1041 > .Adverts
 ladin.ir###sidebar-left > .sidebar-left > .ads.sidebar-box:nth-of-type(1)
 ladin.ir###sidebar-right > .sidebar-right > .ads.sidebar-box
+mehrnews.com###ad97_558
 movie.downloadfreenewa.com###varoone_ads_top_right_540
 namakstan.ir###main > .container > .main-content > .post > .topads1:nth-of-type(3)
 namnak.com##aside:nth-of-type(2)
+new4android.ir##body > div:nth-of-type(3) > .external
 noda.ir##.header-right
 omidiraniannewspaper.ir###\34 6
 omidiraniannewspaper.ir###\35 0
@@ -111,6 +134,9 @@ persianv.com##.web_box:nth-of-type(3)
 persianv.com##.web_box:nth-of-type(7)
 persianv.com##.wrapper2:nth-of-type(8)
 persianv.com##a[href^="http://panel.persianv.com/counter/click.php"]
+rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(1)
+rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(2)
+rokna.ir##.xcon12 > .mb16
 roozno.com###next1-740
 rouzegar.com##.sidebar-left > .ads.sidebar-box:nth-of-type(1)
 rouzegar.com##.sidebar-right > .ads.sidebar-box
@@ -118,37 +144,12 @@ seemorgh.com##.ads-all-spe.otherseemorgh
 seemorgh.com##.container:nth-of-type(4) > .middle-banner.row
 seemorgh.com##.fix-top-ad.middle-banner.row
 seemorgh.com##.middle-banner.top-banner-bts.row
+shahrekhabar.com##.hidden-xs.hidden-sm.col-md-2.col-lg-2 > .row
+shopkeeper.ir##.postbody > div > div > a[href^="http://go.shopkeeper.ir/"]
 skinak.ir###dis_ads > .dadsd
 skinak.ir##.bg > center > .dadsd:nth-of-type(2)
 skinak.ir##header > .ads
 tebyan.net##.theiaStickySidebar
-www.4dah.ir##.wrap > .warpper > .head2-ads
-www.akairan.com##.si120.fci
-www.akairan.com##iframe[src="http://www.akairan.com/khanevadeh/mbed/dabi120.html"]
-www.alamto.com###adnFloatbr
-www.alamto.com###b130
-www.amazing.ir###main > .header > .nav-adsmb:nth-of-type(3)
-www.androidha.com###container > .banners.litebox
-www.androidha.com##.app-inside-post
-www.androidha.com##.widget_banner_ads
-www.androidha.com##a[href^="http://www.eligasht.com/"]
-www.apktops.ir##.widgetwrap
-www.beytoote.com###adsx
-www.downloadha.com###main > .main-container > .maincontent > .topbanners468
-www.faaltarin.com##body > div:nth-of-type(2) > div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(3)
-www.farsnews.com##.container > .mainframe > .hidden-xs.pull-right.col-lg-4.col-md-4.col-sm-3.leftcolumn > .col-lg-5.col-md-5.hidden-sm.adscolumn > .advertisement
-www.film2movie.biz##.middle > .right-main > .main > .box:nth-of-type(3)
-www.ictna.ir###sidebar > .clearfix.sidebar-header-ad
-www.ictna.ir###sidebar > .margint10.clearfix.squer.sidebar-footer-ad
-www.jamnews.ir###AdvertsHolderWI_1041 > .Adverts
-www.mehrnews.com###ad97_558
-www.new4android.ir###nex1network-PB
-www.new4android.ir##body > div:nth-of-type(3) > .external
-www.parsnaz.ir##.ads-head
-www.rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(1)
-www.rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(2)
-www.rokna.ir##.xcon12 > .mb16
-www.shahrekhabar.com##.hidden-xs.hidden-sm.col-md-2.col-lg-2 > .row
 ||*.adnegah.net/$subdocument
 ||1pezeshk.com/wp-content/uploads/*/*/*.gif$image
 ||20script.com/banner/$image
@@ -194,6 +195,7 @@ www.shahrekhabar.com##.hidden-xs.hidden-sm.col-md-2.col-lg-2 > .row
 ||faaltarin.com/images/*.swf$object
 ||famo.ir/ad/
 ||favanews.com/other/*$object
+||favanews.com/wp-content/uploads/*/*/logo*.png$image
 ||fera.ir/fera/ads/$image
 ||film2movie.biz/content/uploads/*.gif$image
 ||freescript.ir/wp-content/uploads/*/*/*.gif$image
