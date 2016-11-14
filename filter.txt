@@ -120,6 +120,7 @@ khabarfarsi.com###banners_300_top
 khabarfarsi.com###block-block-10
 ladin.ir###sidebar-left > .sidebar-left > .ads.sidebar-box:nth-of-type(1)
 ladin.ir###sidebar-right > .sidebar-right > .ads.sidebar-box
+marde-rooz.com##.column-2.columns.entries.grid-4
 mehrnews.com###ad97_558
 mihangame.com##.widget_text.widget
 movie.downloadfreenewa.com###varoone_ads_top_right_540
@@ -139,6 +140,7 @@ parsnaz.ir##.Bstyle.WCBC
 parsnaz.ir##.leftads.Bstyle.LBC:nth-of-type(1)
 parsnaz.ir##.Res001.Bstyle.RBC
 parsnaz.ir##.Res003.Bstyle.RBC
+parstv.tv##.image-container
 persianv.com##.web_box:nth-of-type(3)
 persianv.com##.web_box:nth-of-type(7)
 persianv.com##.wrapper2:nth-of-type(8)
@@ -161,6 +163,7 @@ skinak.ir##.bg > center > .dadsd:nth-of-type(2)
 skinak.ir##header > .ads
 tabnak.ir##.home_adv_height.padd_home_right.visible-md.visible-lg.col-md-5
 tebyan.net##.theiaStickySidebar
+www.ensafnews.com###shahba_ad-widget-8
 ||*.adnegah.net/$subdocument
 ||1pezeshk.com/wp-content/uploads/*/*/*.gif$image
 ||20script.com/banner/$image
@@ -202,6 +205,7 @@ tebyan.net##.theiaStickySidebar
 ||download.ir/wp-content/uploads/*/*/*.gif$image
 ||download.ir/wp-content/uploads/*/*/ads*$image
 ||elmefarda.com/wp-content/uploads/*/*/ad*$image
+||ensafnews.com/wp-content/uploads/*/*/*.gif$image
 ||faaltarin.com/images/*.gif$image
 ||faaltarin.com/images/*.swf$object
 ||famo.ir/ad/
@@ -217,12 +221,15 @@ tebyan.net##.theiaStickySidebar
 ||gamelive.ir/wp-content/uploads/2015/08/negar-khaneh.jpg$image
 ||getandroid.ir/Files/Banner/
 ||gooya.com/*/banners
+||gooya.com/*/banners/
 ||halftime.ir/images/*.gif$image
 ||ilna.ir/serve/*/*/*$image
 ||ilna.ir/serve/*/*/*$object
 ||images.khabaronline.ir/system/menus/*/*
 ||img.soft98.ir/*.gif$image
 ||img7.ir/*.gif$image
+||iranefarda.wpengine.netdna-cdn.com/wp-content/themes/jarida/images/*.gif
+||iranefarda.wpengine.netdna-cdn.com/wp-content/themes/jarida/images/ad*
 ||iranjib.ir/uploads/*.gif$image
 ||iranjib.ir/uploads/*.swf$object
 ||irebooks.com/wp-content/uploads/*/*/*-*x*.*$image
@@ -234,6 +241,7 @@ tebyan.net##.theiaStickySidebar
 ||ketabesabz.com/images/banner/
 ||khabarfori.ir/Portals/*/Sample/$object
 ||lavdan.ir/img/banner/
+||mardomsalari.com/upload/images/14771523021476531352613215377155978855.jpg$image
 ||media.farsnews.com/Uploaded/Files/Documents/*/*/*/*$image
 ||media.mehrnews.com/d/*/*/*/*/*.gif$image
 ||mihandownload.com/wp-content/uploads/*.gif$image
@@ -256,6 +264,11 @@ tebyan.net##.theiaStickySidebar
 ||paperhub.ir/*.gif$image
 ||pardad.ir/images/site1rbHeader.png$image
 ||pardad.ir/UploadFiles/*.gif$image
+||parstv.tv/wp-content/uploads/2016/07/Farahani.jpg$image
+||parstv.tv/wp-content/uploads/2016/07/JEFf-2.jpg$image
+||parstv.tv/wp-content/uploads/2016/07/Magic-tel.jpg$image
+||parstv.tv/wp-content/uploads/2016/07/Tehran.jpg$image
+||parstv.tv/wp-content/uploads/2016/09/web-solution_00128.jpg$image
 ||persiangig.com/preview/SMSh7sPQoP/accfile.jpg$image
 ||persianv.com/random*/$subdocument
 ||picofile.com/file/*/*.gif$image
@@ -263,6 +276,7 @@ tebyan.net##.theiaStickySidebar
 ||rahnama.com/pub/img/SiteAdvert/
 ||rokna.ir/serve/*/*/*.gif$image
 ||rouzegar.com/wp-content/uploads/*/*/*.gif$image
+||s3-us-west-2.amazonaws.com/iranefarda/00test/$image
 ||sabavision.com/$subdocument
 ||sarasat95.tk/images/ehsan-pixell/pixell_rangh/images/*.gif$image
 ||sena.ir/ShowImages.ashx?Adv=*$image
