@@ -9,6 +9,8 @@ Add following line to your custom filters under `Preferences -> 3rd-party filers
 https://raw.githubusercontent.com/farrokhi/adblock-iran/master/filter.txt
 ```
 
+Or simply by clicking on this this (if you already have a adblocker plugin installed): [add to custom filter list](abp:subscribe?location=https://raw.githubusercontent.com/farrokhi/adblock-iran/master/filter.txt&title=Adblock+Iran"
+
 
 
 ## Notes
