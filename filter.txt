@@ -163,6 +163,7 @@ skinak.ir###dis_ads > .dadsd
 skinak.ir##.bg > center > .dadsd:nth-of-type(2)
 skinak.ir##header > .ads
 tabnak.ir##.home_adv_height.padd_home_right.visible-md.visible-lg.col-md-5
+tabnak.ir##.scrollingtext
 tebyan.net##.theiaStickySidebar
 www.ensafnews.com###shahba_ad-widget-8
 ||*.adnegah.net/$subdocument
