@@ -167,6 +167,7 @@ skinak.ir##header > .ads
 tabnak.ir##.home_adv_height.padd_home_right.visible-md.visible-lg.col-md-5
 tabnak.ir##.marquee_container.row
 tabnak.ir##.scrollingtext
+tarafdari.com##.clearfix.view-mode-full.node-news.node.node-592490.node-content > .advertise:nth-of-type(6)
 tebyan.net##.theiaStickySidebar
 www.ensafnews.com###shahba_ad-widget-8
 ||*.adnegah.net/$subdocument
@@ -288,6 +289,7 @@ www.ensafnews.com###shahba_ad-widget-8
 ||sena.ir/Upload/PicGallery/Adver/$object
 ||shahrekhabar.com/swf/
 ||static0.rokna.ir/serve/*/*/*.gif$image
+||tarafdari.com/sites/all/themes/hope/images/advertise/
 ||techmix.ir/wp-content/uploads/*/*/*.gif$image
 ||techmix.ir/wp-content/uploads/2016/10/book.jpg$image
 ||top2download.com/wp-content/uploads/*/*/*.gif$image
