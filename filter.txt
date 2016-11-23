@@ -169,6 +169,9 @@ tabnak.ir##.marquee_container.row
 tabnak.ir##.scrollingtext
 tarafdari.com##.clearfix.view-mode-full.node-news.node.node-592490.node-content > .advertise:nth-of-type(6)
 tebyan.net##.theiaStickySidebar
+top.gamesharing.ir###ulp-dwF18auU389Mlg3o
+top.gamesharing.ir###ulp-dwF18auU389Mlg3o-overlay
+toranji.ir###\32 b25e9d2_886e > .ruby-container.ruby-block-inner
 www.ensafnews.com###shahba_ad-widget-8
 ||*.adnegah.net/$subdocument
 ||1pezeshk.com/wp-content/uploads/*/*/*.gif$image
@@ -293,6 +296,7 @@ www.ensafnews.com###shahba_ad-widget-8
 ||techmix.ir/wp-content/uploads/*/*/*.gif$image
 ||techmix.ir/wp-content/uploads/2016/10/book.jpg$image
 ||top2download.com/wp-content/uploads/*/*/*.gif$image
+||toranji.ir/wp-content/uploads/*/*/*.gif
 ||uc.persianv.com/up3/images/$image
 ||up.ariapix.net/images/*.gif$image
 ||up.sibgraph.ir/up/admin-sibgraph/sibgraph/theme/Images/*.gif$image
