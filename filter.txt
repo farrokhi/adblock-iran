@@ -167,6 +167,9 @@ skinak.ir##header > .ads
 tabnak.ir##.home_adv_height.padd_home_right.visible-md.visible-lg.col-md-5
 tabnak.ir##.marquee_container.row
 tabnak.ir##.scrollingtext
+takro.net##.col-sm-pull-9.col-sm-3 > .panel-primary.panel:nth-of-type(2)
+takro.net##.panel-primary.panel:nth-of-type(3)
+takro.net##.panel-primary.panel:nth-of-type(4)
 tarafdari.com##.clearfix.view-mode-full.node-news.node.node-592490.node-content > .advertise:nth-of-type(6)
 tebyan.net##.theiaStickySidebar
 top.gamesharing.ir###ulp-dwF18auU389Mlg3o
