@@ -27,6 +27,7 @@
 ##.advCon
 ##.advContainer
 ##.advContainer.advCon
+##.anetwork-b.anetwork-b-728x90
 ##.banner
 ##.cycle_adv_news
 ##.flix-float
@@ -69,7 +70,6 @@ asriran.com##.webgardi_main.row
 banki.ir###content_container > table > tbody > tr > td:nth-of-type(3)
 banki.ir##.moduletable:nth-of-type(3) > .bannergroup
 barato.ir##.ads.block
-bargozideha.com###anetwork-130612
 barmandownload.ir##.content > .left-menu > .block-content:nth-of-type(1)
 barmandownload.ir##.content > .right-menu > .block-content:nth-of-type(1)
 bartarinha.ir##.padd_home_r.col-md-6
@@ -141,7 +141,7 @@ pardad.ir###ctl00_LeftBox_pnlLeft > .PT_Top:nth-of-type(1)
 pardad.ir###ctl00_RightBox1_pnlRight
 pardad.ir###modal-overlay
 pardad.ir###TopBox_pnlTopLinkBox
-parsiblog.com###B991
+parsiblog.com##[style="overflow: hidden;font-family:Tahoma;font-size:12px;;width: 121px;height: 278px;border: 1px solid #000;z-index: 1000;position: absolute;left: 0px;top: 0px;background:#fff"]
 parsnaz.ir##.Bstyle.WCBC
 parsnaz.ir##.leftads.Bstyle.LBC:nth-of-type(1)
 parsnaz.ir##.Res001.Bstyle.RBC
