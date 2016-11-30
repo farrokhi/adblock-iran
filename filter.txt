@@ -5,7 +5,6 @@
 ###adsx
 ###advertise_div2
 ###agahi
-###anetwork-12072
 ###ban57
 ###divADV
 ###GlobalAdBlock
@@ -27,6 +26,7 @@
 ##.advCon
 ##.advContainer
 ##.advContainer.advCon
+##.anetwork-b.anetwork-b-300x100
 ##.anetwork-b.anetwork-b-728x90
 ##.banner
 ##.cycle_adv_news
