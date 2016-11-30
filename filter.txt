@@ -42,14 +42,14 @@
 .ir/ads/
 .ir/banner/
 .ir/banners/
-/ads/files/
+/ads/files/*
 /adtube*$subdocument
-/agahi/
-/files/adv/
-/images/banners/
-/static/images/banner/
-/tabligh/
-/tabliq/
+/agahi/*
+/files/adv/*
+/images/banners/*
+/static/images/banner/*
+/tabligh/*
+/tabliq/*
 1pezeshk.com##.herald-sidebar-right.col-md-3.col-lg-3.herald-sidebar
 4dah.ir##.wrap > .warpper > .head2-ads
 aftabeyazd.ir##div:nth-of-type(7) > div:nth-of-type(4)
@@ -163,7 +163,7 @@ seemorgh.com##.fix-top-ad.middle-banner.row
 seemorgh.com##.middle-banner.top-banner-bts.row
 shahrekhabar.com##.hidden-xs.hidden-sm.col-md-2.col-lg-2 > .row
 shopkeeper.ir##.postbody > div > div > a[href^="http://go.shopkeeper.ir/"]
-shoptou.in/
+shoptou.in/*
 skinak.ir###dis_ads > .dadsd
 skinak.ir##.bg > center > .dadsd:nth-of-type(2)
 skinak.ir##header > .ads
