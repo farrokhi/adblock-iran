@@ -221,6 +221,7 @@ www.ensafnews.com###shahba_ad-widget-8
 ||digiato.com/wp-content/uploads/*/*/*.gif$image
 ||digiato.com/wp-content/uploads/*/*/290-165.jpg$image
 ||digiato.com/wp-content/uploads/*/*/digiato7-do.jpg$image
+||dl.hdaneshjoo.ir/hdaneshjoo/ax/*
 ||doctorwp.com/wp-content/uploads/*/*/ads-*.gif$image
 ||donya-e-eqtesad.com/Images/Bitrix//BannerFile/$image
 ||download.ir/wp-content/uploads/*/*/*.gif$image
@@ -257,6 +258,7 @@ www.ensafnews.com###shahba_ad-widget-8
 ||irexpert.ir/Webforms/Default/a/$image
 ||itresan.com/banner/
 ||itresan.com/wp-content/uploads/*/*/*.gif$image
+||jahansite.com/wp-content/uploads/*/*/*.gif
 ||javanmobile.com/wp-content/uploads/*/*/*.gif$image
 ||kalakamuz.ir/wp-content/uploads/*.gif$image
 ||ketabesabz.com/images/banner/
@@ -280,6 +282,7 @@ www.ensafnews.com###shahba_ad-widget-8
 ||omidiraniannewspaper.ir/upload/File/afranet-logo.jpg$image
 ||p30download.com/agahi/
 ||p30download.com/tabliq
+||p30rank.ir/bannervip.php?*
 ||p30world.com/wp/wp-content/uploads/*/*/*.gif$image
 ||panel.hamshahrionline.ir/system/menus/*/*.gif$image
 ||paperhub.ir/*.gif$image
