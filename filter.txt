@@ -27,6 +27,7 @@
 ##.advContainer
 ##.advContainer.advCon
 ##.anetwork-b.anetwork-b-300x100
+##.anetwork-b.anetwork-b-600x300
 ##.anetwork-b.anetwork-b-728x90
 ##.banner
 ##.cycle_adv_news
@@ -112,6 +113,7 @@ ictna.ir###sidebar > .clearfix.sidebar-header-ad
 ictna.ir###sidebar > .margint10.clearfix.squer.sidebar-footer-ad
 irannsr.org###block53896
 irannsr.org###block57722
+iranstyle.ir###varoone_ads_top_right_540
 irexpert.ir##object
 isna.ir###box108
 isna.ir###box109
@@ -183,6 +185,8 @@ tarafdari.com##.clearfix.view-mode-full.node-news.node.node-592490.node-content 
 tebyan.net##.theiaStickySidebar
 top.gamesharing.ir###ulp-dwF18auU389Mlg3o
 top.gamesharing.ir###ulp-dwF18auU389Mlg3o-overlay
+topnaz.com##.b130ads
+topnaz.com##.bxl
 toranji.ir###\32 b25e9d2_886e > .ruby-container.ruby-block-inner
 www.ensafnews.com###shahba_ad-widget-8
 ||*.adnegah.net/$subdocument
@@ -311,6 +315,7 @@ www.ensafnews.com###shahba_ad-widget-8
 ||techmix.ir/wp-content/uploads/*/*/*.gif$image
 ||techmix.ir/wp-content/uploads/2016/10/book.jpg$image
 ||top2download.com/wp-content/uploads/*/*/*.gif$image
+||topnaz.com/wp-content/themes/topnaz_panab/psimgs/ads/
 ||toranji.ir/wp-content/uploads/*/*/*.gif
 ||uc.persianv.com/up3/images/$image
 ||up.ariapix.net/images/*.gif$image
