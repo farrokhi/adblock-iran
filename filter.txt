@@ -116,6 +116,9 @@ himler.net##.secondary-sidebar.sidebar > .widget_text.widget
 hotnaz.com###tabligheirani_ads_bottom_right_121
 ictna.ir###sidebar > .clearfix.sidebar-header-ad
 ictna.ir###sidebar > .margint10.clearfix.squer.sidebar-footer-ad
+irannaz.com###topAdver
+irannaz.com##.CenterBlock.CBS.shopads
+irannaz.com##.TopAdssss.CBS
 irannsr.org###block53896
 irannsr.org###block57722
 iranstyle.ir###varoone_ads_top_right_540
