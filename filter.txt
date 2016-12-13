@@ -221,6 +221,7 @@ www.ensafnews.com###shahba_ad-widget-8
 ||apktops.ir/wp-content/uppic/*.gif$image
 ||appleapps.ir/wp-content/uploads/*/*/*.gif$image
 ||asemooni.com/*/*/*.gif$image
+||asrebank.ir/img/banners/
 ||badigi.com/wp-content/uploads/*/*/*.gif$image
 ||banki.ir/images/stories/*/ads_*.gif$image
 ||beytoote.com/shops/*$subdocument
