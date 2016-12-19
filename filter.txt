@@ -96,6 +96,8 @@ bultannews.com##.parent_txt_adv_container2
 car.ir##.cornerAds
 car.ir##.lastblah
 car.ir##.whiteSpace
+dezfun.com###fade
+dezfun.com###light
 digiato.com##.global-wrap > .margin-top-80.paged.guttered.fixed-width.digi-container > .white.paper > .row.no-bg.home-sec > .sticky-side.right-sidebar.main-sidebar.home-col.columns.show-for-medium.large-pull-6.medium-4.large-3 > .theiaStickySidebar > .sidebar-widget:nth-of-type(6)
 digiato.com##.show-for-medium.iframe.hdr.agahi.columns.large-centered.large-8.small-12
 digiato.com##.sticky-side.left-sidebar.main-sidebar.home-col.columns.show-for-medium.medium-4.large-3 > .theiaStickySidebar > .sidebar-widget:nth-of-type(2)
@@ -209,6 +211,7 @@ tigatravel.com##.fade
 tigatravel.com##.popup_block
 top.gamesharing.ir###ulp-dwF18auU389Mlg3o
 top.gamesharing.ir###ulp-dwF18auU389Mlg3o-overlay
+topnaz.com##.adstmp
 topnaz.com##.b130ads
 topnaz.com##.bxl
 toranji.ir###\32 b25e9d2_886e > .ruby-container.ruby-block-inner
@@ -246,6 +249,7 @@ zima.ir##.overlayDiv
 ||banki.ir/images/stories/*/ads_*.gif$image
 ||bayanbox.ir/view/*/*.gif
 ||beytoote.com/shops/*$subdocument
+||bia2movies1.in/wp-content/uploads/*/*/*.gif
 ||camp.sabavision.com/*$subdocument
 ||cccamiran.net/images/*.gif$image
 ||cdn.isna.ir/d/*/*/*/*/*.gif$image
@@ -282,6 +286,7 @@ zima.ir##.overlayDiv
 ||getandroid.ir/Files/Banner/
 ||gooya.com/*/banners
 ||gooya.com/*/banners/
+||haftfilm.top/wp-content/uploads/*/*/*.gif
 ||halftime.ir/images/*.gif$image
 ||ilna.ir/serve/*/*/*$image
 ||ilna.ir/serve/*/*/*$object
@@ -351,6 +356,7 @@ zima.ir##.overlayDiv
 ||s3-us-west-2.amazonaws.com/iranefarda/00test/$image
 ||sabavision.com/$subdocument
 ||safarbaba.com/uploads/*/*/gif/*.gif
+||safireaflak.ir/adv/
 ||sarasat95.tk/images/ehsan-pixell/pixell_rangh/images/*.gif$image
 ||sena.ir/ShowImages.ashx?Adv=*$image
 ||sena.ir/Upload/PicGallery/Adver/$object
@@ -361,6 +367,7 @@ zima.ir##.overlayDiv
 ||techmix.ir/wp-content/uploads/2016/10/book.jpg$image
 ||top2download.com/wp-content/uploads/*/*/*.gif$image
 ||topnaz.com/wp-content/themes/topnaz_panab/psimgs/ads/
+||topnaz.com/wp-content/themes/topnaz_panab/psimgs/free.jpg
 ||toranji.ir/wp-content/uploads/*/*/*.gif
 ||tourline.ir/images/*.gif
 ||tourline.ir/images/download.jpg
