@@ -103,6 +103,7 @@ dezfun.com###light
 digiato.com##.global-wrap > .margin-top-80.paged.guttered.fixed-width.digi-container > .white.paper > .row.no-bg.home-sec > .sticky-side.right-sidebar.main-sidebar.home-col.columns.show-for-medium.large-pull-6.medium-4.large-3 > .theiaStickySidebar > .sidebar-widget:nth-of-type(6)
 digiato.com##.show-for-medium.iframe.hdr.agahi.columns.large-centered.large-8.small-12
 digiato.com##.sticky-side.left-sidebar.main-sidebar.home-col.columns.show-for-medium.medium-4.large-3 > .theiaStickySidebar > .sidebar-widget:nth-of-type(2)
+digikala.com###popup-mask
 dl4all.ir##.center > .fadeInDown.animated.visible.hidden.body-main:nth-of-type(1)
 dl4all.ir##.left > .fadeInDown.animated.visible.hidden.body-main:nth-of-type(1)
 downloadha.com###main > .main-container > .maincontent > .topbanners468
@@ -141,6 +142,7 @@ jamnews.ir###AdvertsHolderWI_1041 > .Adverts
 khabarfarsi.com###banners_120_top
 khabarfarsi.com###banners_300_top
 khabarfarsi.com###block-block-10
+khabarfarsi.com###block-block-7
 ladin.ir###sidebar-left > .sidebar-left > .ads.sidebar-box:nth-of-type(1)
 ladin.ir###sidebar-right > .sidebar-right > .ads.sidebar-box
 lahzeakhar.com##.adsSlide
@@ -275,6 +277,7 @@ zima.ir##.overlayDiv
 ||download.ir/wp-content/uploads/*/*/*.gif$image
 ||download.ir/wp-content/uploads/*/*/ads*$image
 ||dubai-land.ir/images/ad*.gif
+||eghtesadonline.com/serve/*/*/$image
 ||elmefarda.com/wp-content/uploads/*/*/ad*$image
 ||ensafnews.com/wp-content/uploads/*/*/*.gif$image
 ||faaltarin.com/images/*.gif$image
@@ -364,6 +367,7 @@ zima.ir##.overlayDiv
 ||rouzegar.com/wp-content/uploads/*/*/*.gif$image
 ||s3-us-west-2.amazonaws.com/iranefarda/00test/$image
 ||sabavision.com/$subdocument
+||sabavision.com/public//public/user_data/user_banner/$image
 ||safarbaba.com/uploads/*/*/gif/*.gif
 ||safireaflak.ir/adv/
 ||sarasat95.tk/images/ehsan-pixell/pixell_rangh/images/*.gif$image
