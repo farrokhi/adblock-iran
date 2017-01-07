@@ -45,6 +45,7 @@
 .ir/banners/
 /ads/files/*
 /adtube*$subdocument
+/adtube.js
 /agahi/*
 /files/adv/*
 /images/banners/*
@@ -55,6 +56,7 @@
 1pezeshk.com###herald-module-4-0
 1pezeshk.com##.herald-sidebar-right.col-md-3.col-lg-3.herald-sidebar
 4dah.ir##.wrap > .warpper > .head2-ads
+adtube.ir
 aftabeyazd.ir##div:nth-of-type(7) > div:nth-of-type(4)
 aftabnews.ir##.adv_l_inner5
 akairan.com##.moduletable-banner:nth-of-type(3)
@@ -223,6 +225,7 @@ wetravel.ir###myModal
 wetravel.ir##.in.fade.modal-backdrop
 wetravel.ir/wp-content/uploads/*/*/ads*$image
 www.ensafnews.com###shahba_ad-widget-8
+yasell.biz
 zima.ir##.newslleterPop
 zima.ir##.overlayDiv
 ||*.adnegah.net/$subdocument
@@ -236,6 +239,7 @@ zima.ir##.overlayDiv
 ||ad.adtube.ir^
 ||ad.nowaroos.com/images/banner/
 ||ad.utop.ir/b/$image
+||adnegah.net/*.js
 ||adnegah.net/cpx/*$subdocument
 ||aftabir.com/campaigns/adv_images/
 ||akhbar-rooz.com/user/albums/*/*.gif$image
@@ -336,6 +340,7 @@ zima.ir##.overlayDiv
 ||mygame.ir/image/*.gif$image
 ||myiranfilm.ir/wp-content/uploads/*/*/*.gif$image
 ||naghola.com/tabligh*/$image
+||namakstan.ir/wp-content/uploads/2016/11/unnamed.jpg$image
 ||namnak.com/users/shop/files/*.gif$image
 ||new4android.ir/wp-content/uploads/*/*/*.gif$image
 ||newsair.ir/wp-content/uploads/*/*/*.gif$image
