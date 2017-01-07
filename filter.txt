@@ -125,6 +125,7 @@ himler.net##.secondary-sidebar.sidebar > .widget_text.widget
 hotnaz.com###tabligheirani_ads_bottom_right_121
 ictna.ir###sidebar > .clearfix.sidebar-header-ad
 ictna.ir###sidebar > .margint10.clearfix.squer.sidebar-footer-ad
+ir###adnFloatbl
 irannaz.com###topAdver
 irannaz.com##.CenterBlock.CBS.shopads
 irannaz.com##.TopAdssss.CBS
@@ -176,15 +177,18 @@ pardad.ir###ctl00_RightBox1_pnlRight
 pardad.ir###modal-overlay
 pardad.ir###TopBox_pnlTopLinkBox
 parsiblog.com##[style="overflow: hidden;font-family:Tahoma;font-size:12px;;width: 121px;height: 278px;border: 1px solid #000;z-index: 1000;position: absolute;left: 0px;top: 0px;background:#fff"]
+parsnaz.ir###rayka-PB
 parsnaz.ir##.Bstyle.WCBC
 parsnaz.ir##.leftads.Bstyle.LBC:nth-of-type(1)
 parsnaz.ir##.Res001.Bstyle.RBC
 parsnaz.ir##.Res003.Bstyle.RBC
+parsnaz.ir##DIV[style="position: fixed;z-index: 99997;width:128px;height:270px;border: 2px solid #ddd;background-color: #ddd;bottom: 0; right: 5px;"]
 parstv.tv##.image-container
 persianv.com##.web_box:nth-of-type(3)
 persianv.com##.web_box:nth-of-type(7)
 persianv.com##.wrapper2:nth-of-type(8)
 persianv.com##a[href^="http://panel.persianv.com/counter/click.php"]
+plus.ir##.advBanner.text-center
 rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(1)
 rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(2)
 rokna.ir##.xcon12 > .mb16
