@@ -121,6 +121,7 @@ gardesh.info###SenBackLoginBox
 ghasreshayan.com###snppopup-welcome
 ghasreshayan.com##.snp-pop-9485-overlay.fancybox-overlay
 gooya.com###AutoNumber1
+harimeasmani.ir##[style="position:fixed;left:1px;bottom:1px;width:122px;border:1px solid #C0C0C0;z-index:9999999999;background-color:white;direction:ltr;"]
 himler.net##.secondary-sidebar.sidebar > .widget_text.widget
 hotnaz.com###tabligheirani_ads_bottom_right_121
 ictna.ir###sidebar > .clearfix.sidebar-header-ad
@@ -195,6 +196,7 @@ rokna.ir##.xcon12 > .mb16
 roozno.com###next1-740
 rouzegar.com##.sidebar-left > .ads.sidebar-box:nth-of-type(1)
 rouzegar.com##.sidebar-right > .ads.sidebar-box
+rozblog.com##[style="position:fixed;left:1px;bottom:1px;width:122px;border:1px solid #C0C0C0;z-index:9999999999;background-color:white;direction:ltr;"]
 safarbaba.com##.hobab_msg
 seemorgh.com##.ads-all-spe.otherseemorgh
 seemorgh.com##.container:nth-of-type(4) > .middle-banner.row
@@ -265,6 +267,7 @@ zima.ir##.overlayDiv
 ||buzdid.ir/images/*banner*.png
 ||camp.sabavision.com/*$subdocument
 ||cccamiran.net/images/*.gif$image
+||cdn.gsm.ir/static/files/image/*/*/*/*.gif
 ||cdn.isna.ir/d/*/*/*/*/*.gif$image
 ||cdn.isna.ir/d/*/*/*/*/*.swf$object
 ||cdn.persiangig.com/preview/$image
@@ -356,6 +359,7 @@ zima.ir##.overlayDiv
 ||p30world.com/wp/wp-content/uploads/*/*/*.gif$image
 ||panel.hamshahrionline.ir/system/menus/*/*.gif$image
 ||paperhub.ir/*.gif$image
+||parandco.com/media/uploads/banners/
 ||pardad.ir/images/site1rbHeader.png$image
 ||pardad.ir/UploadFiles/*.gif$image
 ||parstv.tv/wp-content/uploads/2016/07/Farahani.jpg$image
