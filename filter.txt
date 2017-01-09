@@ -13,6 +13,7 @@
 ###popup
 ###popupMask
 ###sabalightBox
+###takhfifan-widget
 ###Topadver
 ##.active.visible.transition.page.modals.dimmer.ui
 ##.ads
@@ -51,6 +52,7 @@
 /static/images/banner/*
 /tabligh/*
 /tabliq/*
+1000site.ir##.col-md-2
 1pezeshk.com###herald-module-3-0
 1pezeshk.com###herald-module-4-0
 1pezeshk.com##.herald-sidebar-right.col-md-3.col-lg-3.herald-sidebar
@@ -116,6 +118,7 @@ farsnews.com##.advertisement
 farsnews.com##.col-md-2.ads-tile
 farsnews.com##.container > .mainframe > .hidden-xs.pull-right.col-lg-4.col-md-4.col-sm-3.leftcolumn > .col-lg-5.col-md-5.hidden-sm.adscolumn > .advertisement
 film2movie.biz##.middle > .right-main > .main > .box:nth-of-type(3)
+fotoya.ir/1.gif
 gamelive.ir##.left-sidbar > .box-sidbar:nth-of-type(3)
 gardesh.info###SenBackLoginBox
 ghasreshayan.com###snppopup-welcome
@@ -231,6 +234,7 @@ www.ensafnews.com###shahba_ad-widget-8
 zima.ir##.newslleterPop
 zima.ir##.overlayDiv
 ||*.adnegah.net/$subdocument
+||1000site.ir/asset/media/banner/
 ||1pezeshk.com/wp-content/uploads/*/*/*.gif$image
 ||20script.com/banner/$image
 ||3iranfilm.me/wp-content/uploads/*/*/*.gif$image
@@ -275,6 +279,9 @@ zima.ir##.overlayDiv
 ||cinemakhabar.ir/Picture/*.swf$object
 ||cinematicket.org/images/a-d/*$image
 ||core.clix.ir/bc/*$subdocument
+||dezfil.ir/wp-content/themes/deznn0/images/ads*
+||dezfil.ir/wp-content/themes/deznn0/images/asj.site.jpg
+||dezfil.ir/wp-content/themes/deznn0/images/fatima.jpg
 ||digiato.com/wp-content/uploads/*/*/*.gif$image
 ||digiato.com/wp-content/uploads/*/*/290-165.jpg$image
 ||digiato.com/wp-content/uploads/*/*/digiato7-do.jpg$image
@@ -321,6 +328,7 @@ zima.ir##.overlayDiv
 ||irannaz.com/ax/$image
 ||irebooks.com/wp-content/uploads/*/*/*-*x*.*$image
 ||irexpert.ir/Webforms/Default/a/$image
+||itbazar.com/UploadFiles/*.gif
 ||itresan.com/banner/
 ||itresan.com/wp-content/uploads/*/*/*.gif$image
 ||jahansite.com/wp-content/uploads/*/*/*.gif
@@ -328,6 +336,7 @@ zima.ir##.overlayDiv
 ||kalakamuz.ir/wp-content/uploads/*.gif$image
 ||ketabesabz.com/images/banner/
 ||khabarfori.ir/Portals/*/Sample/$object
+||khabarlendeh.ir/sites/default/files/fullimages/
 ||lahzeakhar.com/images/rightBanners/*.gif
 ||lahzeakhar.com/images/Slider/
 ||lahzeakhar.com/images/topRotator/*.gif
@@ -369,6 +378,8 @@ zima.ir##.overlayDiv
 ||parstv.tv/wp-content/uploads/2016/09/web-solution_00128.jpg$image
 ||persiangig.com/preview/SMSh7sPQoP/accfile.jpg$image
 ||persianv.com/random*/$subdocument
+||pgnews.ir/uploads/*.gif
+||pgnews.ir/uploads/banners/
 ||picofile.com/file/*/*.gif$image
 ||pishkhaan.net/pishkhaanads/$image
 ||rahnama.com/pub/img/SiteAdvert/
