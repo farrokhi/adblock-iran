@@ -314,6 +314,10 @@ zima.ir##.overlayDiv
 ||gooya.com/*/banners/
 ||haftfilm.top/wp-content/uploads/*/*/*.gif
 ||halftime.ir/images/*.gif$image
+||icoff.ee/fa/wp-content/uploads/*/*/*.gif$image
+||icoff.ee/fa/wp-content/uploads/*/*/*banner*$image
+||icoff.ee/fa/wp-content/uploads/2016/07/cafe-paradiso.jpg$image
+||icoff.ee/fa/wp-content/uploads/2016/08/logoundeux.jpg$image
 ||ilna.ir/serve/*/*/*$image
 ||ilna.ir/serve/*/*/*$object
 ||images.khabaronline.ir/system/menus/*/*
