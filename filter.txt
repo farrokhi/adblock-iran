@@ -127,6 +127,8 @@ gooya.com###AutoNumber1
 harimeasmani.ir##[style="position:fixed;left:1px;bottom:1px;width:122px;border:1px solid #C0C0C0;z-index:9999999999;background-color:white;direction:ltr;"]
 himler.net##.secondary-sidebar.sidebar > .widget_text.widget
 hotnaz.com###tabligheirani_ads_bottom_right_121
+icoff.ee##[id^="image-"]
+icoff.ee##[id^="sow-image-"]
 ictna.ir###sidebar > .clearfix.sidebar-header-ad
 ictna.ir###sidebar > .margint10.clearfix.squer.sidebar-footer-ad
 ir###adnFloatbl
