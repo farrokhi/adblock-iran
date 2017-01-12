@@ -64,10 +64,14 @@ akairan.com##.si120.fci
 akairan.com##iframe[src="http://www.akairan.com/khanevadeh/mbed/dabi120.html"]
 alamto.com###b130
 alamto.com##.posts.box_outer:nth-of-type(7) > .widget
+amadnews.com##.aas_wrapper
+amadnews.com##.aas_zone
 amazing.ir###main > .header > .nav-adsmb:nth-of-type(3)
 androidha.com###container > .banners.litebox
 androidha.com##.app-inside-post
 androidha.com##a[href^="http://www.eligasht.com/"]
+androidineh.com##.a-1.b-4.g-col > .border-radius.post-ads
+androidineh.com##.a-4.b-4.g-col > .border-radius.post-ads > .post-ads-content
 apktops.ir##.widgetwrap
 asemooni.com###text-6
 aslomid.ir###adv2
@@ -117,13 +121,22 @@ dustaan.com##.wp-image-66603.size-full.aligncenter
 entekhab.ir##.col-xs-36.attention
 entekhab.ir##.col-xs-36.news-web
 faaltarin.com##body > div:nth-of-type(2) > div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(3)
+faradeed.ir##.hidden-xs.hidden-ms.hidden-sm.col-md-4.col-lg-5 > .padding_r2
 fararu.com##.txt_adv_container
 farsnews.com##.advertisement
 farsnews.com##.col-md-2.ads-tile
 farsnews.com##.container > .mainframe > .hidden-xs.pull-right.col-lg-4.col-md-4.col-sm-3.leftcolumn > .col-lg-5.col-md-5.hidden-sm.adscolumn > .advertisement
+farsroid.com##.col.post-sabet:nth-of-type(2)
+farsroid.com##.row.post-sabets:nth-of-type(1)
 film2movie.biz##.middle > .right-main > .main > .box:nth-of-type(3)
 fotoya.ir/1.gif
+freegames.ir##.sidebar-box:nth-of-type(1)
+freegames.ir##.sidebar-box:nth-of-type(2)
+freegames.ir##.sidebar-box:nth-of-type(5)
 gamelive.ir##.left-sidbar > .box-sidbar:nth-of-type(3)
+gamesib.ir###next1-231
+gamesib.ir##.asd_top.abasi_org.box_sh
+gamesib.ir##[id*="next1-*"]
 gardesh.info###SenBackLoginBox
 ghasreshayan.com###snppopup-welcome
 ghasreshayan.com##.snp-pop-9485-overlay.fancybox-overlay
@@ -196,6 +209,7 @@ parsnaz.ir##.Res001.Bstyle.RBC
 parsnaz.ir##.Res003.Bstyle.RBC
 parsnaz.ir##DIV[style="position: fixed;z-index: 99997;width:128px;height:270px;border: 2px solid #ddd;background-color: #ddd;bottom: 0; right: 5px;"]
 parstv.tv##.image-container
+patoghu.com##.top-tabligh
 persianv.com##.web_box:nth-of-type(3)
 persianv.com##.web_box:nth-of-type(7)
 persianv.com##.wrapper2:nth-of-type(8)
@@ -209,6 +223,8 @@ rouzegar.com##.sidebar-left > .ads.sidebar-box:nth-of-type(1)
 rouzegar.com##.sidebar-right > .ads.sidebar-box
 rozblog.com##[style="position:fixed;left:1px;bottom:1px;width:122px;border:1px solid #C0C0C0;z-index:9999999999;background-color:white;direction:ltr;"]
 safarbaba.com##.hobab_msg
+sarzamindownload.com##.GSLeftSide.col-lg-3.col-md-3.col-sm-12.col-xs-12 > .widget_style_funcs.GSBlock:nth-of-type(4) > div > .GSblock
+sarzamindownload.com##.widget_style_funcs.GSBlock:nth-of-type(1) > div
 seemorgh.com##.ads-all-spe.otherseemorgh
 seemorgh.com##.container:nth-of-type(4) > .middle-banner.row
 seemorgh.com##.fix-top-ad.middle-banner.row
@@ -258,11 +274,14 @@ zima.ir##.overlayDiv
 ||aftabir.com/campaigns/adv_images/
 ||akhbar-rooz.com/user/albums/*/*.gif$image
 ||alamto.com/wp-content/uploads/*/*/*.gif$image
+||amadnews.com/wp-content/uploads/2017/01/4vm7hosdlqst0bjaecv.jpg$image
 ||amazing.ir/wp-content/uploads/*/*/*.gif$image
 ||ammarname.ir/sites/default/files/templateLogo/Baner/$object
 ||androidha.com/wp-content/uploads/*/*/*.gif$image
 ||androidina.net/images/*.gif$image
 ||androidineh.com/wp-content/uploads/*.gif$image
+||androidineh.com/wp-content/uploads/InstaAssistant_0.jpg$image
+||androidineh.com/wp-content/uploads/instafollower_600.jpg$image
 ||apktops.ir/wp-content/uppic/*.gif$image
 ||appget.ir/*.gif
 ||appleapps.ir/wp-content/uploads/*/*/*.gif$image
@@ -306,6 +325,7 @@ zima.ir##.overlayDiv
 ||faaltarin.com/images/*.gif$image
 ||faaltarin.com/images/*.swf$object
 ||famo.ir/ad/
+||farsroid.com/wp-content/uploads/*-400x391*$image
 ||favanews.com/other/*$object
 ||favanews.com/other/*.gif
 ||favanews.com/wp-content/uploads/*/*/logo*.png$image
