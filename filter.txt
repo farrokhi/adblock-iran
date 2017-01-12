@@ -100,6 +100,10 @@ buzdid.ir##.center.landing-banner-container
 car.ir##.cornerAds
 car.ir##.lastblah
 car.ir##.whiteSpace
+computeruser.ir###spu-5649
+computeruser.ir###spu-bg-5649
+computeruser.ir/wp-content/uploads/sites/*/*/*/*banner*$image
+ctelegram.com###a0cd69f14fc3c8ee3dae66738251af5de
 dezfun.com###fade
 dezfun.com###light
 digiato.com##.global-wrap > .margin-top-80.paged.guttered.fixed-width.digi-container > .white.paper > .row.no-bg.home-sec > .sticky-side.right-sidebar.main-sidebar.home-col.columns.show-for-medium.large-pull-6.medium-4.large-3 > .theiaStickySidebar > .sidebar-widget:nth-of-type(6)
@@ -160,6 +164,8 @@ lineblog.ir##[class^="adsblog"]
 lineblog.ir##[id^="ads"]
 marde-rooz.com##.column-2.columns.entries.grid-4
 mehrnews.com###ad97_558
+melipayamak.com##.er-popup-body
+melipayamak.com##.er-popup-overlay
 mihangame.com##.widget_text.widget
 mizbanblog.com##[id^="ads"]
 momtaznews.com##.b130ads
@@ -258,6 +264,7 @@ zima.ir##.overlayDiv
 ||androidina.net/images/*.gif$image
 ||androidineh.com/wp-content/uploads/*.gif$image
 ||apktops.ir/wp-content/uppic/*.gif$image
+||appget.ir/*.gif
 ||appleapps.ir/wp-content/uploads/*/*/*.gif$image
 ||asemooni.com/*/*/*.gif$image
 ||asrebank.ir/img/banners/
@@ -349,9 +356,12 @@ zima.ir##.overlayDiv
 ||lasttours.net/*.gif
 ||lasttours.net/images/banner_images/
 ||lavdan.ir/img/banner/
+||linkyab.net/download/*.gif$image
 ||mardomsalari.com/upload/images/14771523021476531352613215377155978855.jpg$image
 ||media.farsnews.com/Uploaded/Files/Documents/*/*/*/*$image
 ||media.mehrnews.com/d/*/*/*/*/*.gif$image
+||melipayamak.com/wp-content/themes/melipayamak/images/banner/$image
+||melipayamak.com/wp-content/themes/melipayamk/images/banner/$image
 ||mihandownload.com/wp-content/uploads/*.gif$image
 ||motelyab.com/images/hotel/reserve-hotel-mashhad.gif$image
 ||mstiran.com/resource/javascripts/jquery.fancybox.pack.js
@@ -406,6 +416,7 @@ zima.ir##.overlayDiv
 ||taya.ir/uploads/General/*.gif
 ||techmix.ir/wp-content/uploads/*/*/*.gif$image
 ||techmix.ir/wp-content/uploads/2016/10/book.jpg$image
+||telegram-channels.ir/wp-content/uploads/*/*/*adv*$image
 ||top2download.com/wp-content/uploads/*/*/*.gif$image
 ||topnaz.com/wp-content/themes/topnaz_panab/psimgs/ads/
 ||topnaz.com/wp-content/themes/topnaz_panab/psimgs/free.jpg
