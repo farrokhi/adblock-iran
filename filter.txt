@@ -420,6 +420,9 @@ zima.ir##.overlayDiv
 ||pishkhaan.net/pishkhaanads/$image
 ||rahnama.com/pub/img/SiteAdvert/
 ||rokna.ir/serve/*/*/*.gif$image
+||rond.ir/Content/DomainBannerFile/$image
+||rond.ir/Content/SabetBannerFile/$image
+||rond.ir/Content/SimBannerFile/$image
 ||rouzegar.com/wp-content/uploads/*/*/*.gif$image
 ||s3-us-west-2.amazonaws.com/iranefarda/00test/$image
 ||sabavision.com/$subdocument
