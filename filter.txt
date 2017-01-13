@@ -218,6 +218,8 @@ plus.ir##.advBanner.text-center
 rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(1)
 rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(2)
 rokna.ir##.xcon12 > .mb16
+rond.ir##.banner-box
+rond.ir##.grid_6
 roozno.com###next1-740
 rouzegar.com##.sidebar-left > .ads.sidebar-box:nth-of-type(1)
 rouzegar.com##.sidebar-right > .ads.sidebar-box
