@@ -241,6 +241,7 @@ seemorgh.com##.container:nth-of-type(4) > .middle-banner.row
 seemorgh.com##.fix-top-ad.middle-banner.row
 seemorgh.com##.middle-banner.top-banner-bts.row
 shahrekhabar.com##.hidden-xs.hidden-sm.col-md-2.col-lg-2 > .row
+shopkeeper.ir###sidebar_container
 shopkeeper.ir##.postbody > div > div > a[href^="http://go.shopkeeper.ir/"]
 skinak.ir###dis_ads > .dadsd
 skinak.ir##.bg > center > .dadsd:nth-of-type(2)
@@ -406,6 +407,7 @@ zima.ir##.overlayDiv
 ||mihandaramad.ir/images/
 ||mihandaramad.ir/images/$image
 ||mihandownload.com/wp-content/uploads/*.gif$image
+||mihanscript.ir/ads.jpg
 ||motelyab.com/images/hotel/reserve-hotel-mashhad.gif$image
 ||mstiran.com/resource/javascripts/jquery.fancybox.pack.js
 ||mygame.ir/image/*.gif$image
@@ -458,6 +460,9 @@ zima.ir##.overlayDiv
 ||sena.ir/ShowImages.ashx?Adv=*$image
 ||sena.ir/Upload/PicGallery/Adver/$object
 ||shahrekhabar.com/swf/
+||shopkeeper.ir/images/*.gif$image
+||shopkeeper.ir/images/np460.gif
+||shopkeeper.ir/images/shatel.gif
 ||shoptou.in/*
 ||simcart.com/a/$image
 ||static0.rokna.ir/serve/*/*/*.gif$image
@@ -483,5 +488,6 @@ zima.ir##.overlayDiv
 ||wetravel.ir/wp-content/uploads/*/*/*.gif
 ||widgets.takhfifan.com/pics/$image
 ||wimaxnews.ir/images/main/null.gif$image
+||yas98.ir/wp-content/uploads/*/*/*.gif
 ||yasell.biz
 ||zoomit.ir/*/banners/
