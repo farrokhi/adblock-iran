@@ -220,6 +220,7 @@ rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(2)
 rokna.ir##.xcon12 > .mb16
 rond.ir##.banner-box
 rond.ir##.grid_6
+rondbaz.com##.hidden-xs:nth-of-type(1) > div > div
 roozno.com###next1-740
 rouzegar.com##.sidebar-left > .ads.sidebar-box:nth-of-type(1)
 rouzegar.com##.sidebar-right > .ads.sidebar-box
@@ -425,6 +426,7 @@ zima.ir##.overlayDiv
 ||rond.ir/Content/DomainBannerFile/$image
 ||rond.ir/Content/SabetBannerFile/$image
 ||rond.ir/Content/SimBannerFile/$image
+||rondbaz.com/uploads/*.gif
 ||rouzegar.com/wp-content/uploads/*/*/*.gif$image
 ||s3-us-west-2.amazonaws.com/iranefarda/00test/$image
 ||sabavision.com/$subdocument
@@ -436,6 +438,7 @@ zima.ir##.overlayDiv
 ||sena.ir/Upload/PicGallery/Adver/$object
 ||shahrekhabar.com/swf/
 ||shoptou.in/*
+||simcart.com/a/$image
 ||static0.rokna.ir/serve/*/*/*.gif$image
 ||tarafdari.com/sites/all/themes/hope/images/advertise/
 ||taya.ir/uploads/General/*.gif
