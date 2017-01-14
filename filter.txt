@@ -120,6 +120,8 @@ downloadha.com###main > .main-container > .maincontent > .topbanners468
 dustaan.com##.wp-image-66603.size-full.aligncenter
 entekhab.ir##.col-xs-36.attention
 entekhab.ir##.col-xs-36.news-web
+estekhtam.com###text-2
+estekhtam.com###text-9
 faaltarin.com##body > div:nth-of-type(2) > div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(3)
 faradeed.ir##.hidden-xs.hidden-ms.hidden-sm.col-md-4.col-lg-5 > .padding_r2
 fararu.com##.txt_adv_container
@@ -224,6 +226,7 @@ rondbaz.com##.hidden-xs:nth-of-type(1) > div > div
 roozno.com###next1-740
 rouzegar.com##.sidebar-left > .ads.sidebar-box:nth-of-type(1)
 rouzegar.com##.sidebar-right > .ads.sidebar-box
+rozblog.com##.content-ads:nth-of-type(1) > .content-ads-bg
 rozblog.com##[style="position:fixed;left:1px;bottom:1px;width:122px;border:1px solid #C0C0C0;z-index:9999999999;background-color:white;direction:ltr;"]
 safarbaba.com##.hobab_msg
 sarzamindownload.com##.GSLeftSide.col-lg-3.col-md-3.col-sm-12.col-xs-12 > .widget_style_funcs.GSBlock:nth-of-type(4) > div > .GSblock
@@ -325,6 +328,8 @@ zima.ir##.overlayDiv
 ||eghtesadonline.com/serve/*/*/$image
 ||elmefarda.com/wp-content/uploads/*/*/ad*$image
 ||ensafnews.com/wp-content/uploads/*/*/*.gif$image
+||estekhtam.com/wp-content/uploads/*/*/*.gif$image
+||estekhtam.com/wp-content/uploads/2016/11/estekhtam*.jpg
 ||faaltarin.com/images/*.gif$image
 ||faaltarin.com/images/*.swf$object
 ||famo.ir/ad/
