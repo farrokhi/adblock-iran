@@ -169,6 +169,7 @@ khabarfarsi.com###banners_120_top
 khabarfarsi.com###banners_300_top
 khabarfarsi.com###block-block-10
 khabarfarsi.com###block-block-7
+khandefun.ir##[style="position:absolute;left:1px;top:1px;width:122px;border:1px solid #C0C0C0;z-index:9999999999;background-color:white;direction:ltr;"]
 ladin.ir###sidebar-left > .sidebar-left > .ads.sidebar-box:nth-of-type(1)
 ladin.ir###sidebar-right > .sidebar-right > .ads.sidebar-box
 lahzeakhar.com##.adsSlide
@@ -181,6 +182,9 @@ marde-rooz.com##.column-2.columns.entries.grid-4
 mehrnews.com###ad97_558
 melipayamak.com##.er-popup-body
 melipayamak.com##.er-popup-overlay
+mihanblog.com###apanet_ads_bottom_left_120
+mihanblog.com###apanet_ads_bottom_right_120
+mihanblog.com###apanet_ads_top_right_120
 mihangame.com##.widget_text.widget
 mizbanblog.com##[id^="ads"]
 momtaznews.com##.b130ads
@@ -194,6 +198,7 @@ namakstan.ir###main > .container > .main-content > .post > .topads1:nth-of-type(
 namnak.com##aside:nth-of-type(2)
 new4android.ir##body > div:nth-of-type(3) > .external
 nextholiday.ir##.carousel-inner
+nikcharge.net##.kadr
 noda.ir##.header-right
 omidiraniannewspaper.ir###\34 6
 omidiraniannewspaper.ir###\35 0
@@ -257,6 +262,8 @@ topnaz.com##.adstmp
 topnaz.com##.b130ads
 topnaz.com##.bxl
 toranji.ir###\32 b25e9d2_886e > .ruby-container.ruby-block-inner
+vbiran.ir##.adbox
+vbiran.ir##.vbiran-ads
 wetravel.ir###myModal
 wetravel.ir##.in.fade.modal-backdrop
 wetravel.ir/wp-content/uploads/*/*/ads*$image
@@ -264,6 +271,7 @@ www.ensafnews.com###shahba_ad-widget-8
 zima.ir##.newslleterPop
 zima.ir##.overlayDiv
 ||*.adnegah.net/$subdocument
+||1000charge.com/gifbanner/
 ||1000site.ir/asset/media/banner/
 ||1pezeshk.com/wp-content/uploads/*/*/*.gif$image
 ||20script.com/banner/$image
@@ -288,14 +296,17 @@ zima.ir##.overlayDiv
 ||androidineh.com/wp-content/uploads/*.gif$image
 ||androidineh.com/wp-content/uploads/InstaAssistant_0.jpg$image
 ||androidineh.com/wp-content/uploads/instafollower_600.jpg$image
+||apanet.net/index2.php?img=$subdocument
 ||apktops.ir/wp-content/uppic/*.gif$image
 ||appget.ir/*.gif
 ||appleapps.ir/wp-content/uploads/*/*/*.gif$image
 ||asemooni.com/*/*/*.gif$image
 ||asrebank.ir/img/banners/
+||axgig.com/images/*.gif
 ||badigi.com/wp-content/uploads/*/*/*.gif$image
 ||banki.ir/images/stories/*/ads_*.gif$image
 ||bayanbox.ir/view/*/*.gif
+||besthaa.ir/wp-content/uploads/*/*/*.gif
 ||beytoote.com/shops/*$subdocument
 ||bia2movies1.in/wp-content/uploads/*/*/*.gif
 ||boyernews.com/flash/*.swf$object
@@ -304,6 +315,7 @@ zima.ir##.overlayDiv
 ||boyernews.com/wp-content/uploads/f31.jpg$image
 ||buzdid.ir/images/*banner*.png
 ||camp.sabavision.com/*$subdocument
+||cartel.ir/img/tiny2.png
 ||cccamiran.net/images/*.gif$image
 ||cdn.gsm.ir/static/files/image/*/*/*/*.gif
 ||cdn.isna.ir/d/*/*/*/*/*.gif$image
@@ -333,6 +345,7 @@ zima.ir##.overlayDiv
 ||faaltarin.com/images/*.gif$image
 ||faaltarin.com/images/*.swf$object
 ||famo.ir/ad/
+||farnet.ir/*/*/*-300-x-100-*$image
 ||farsroid.com/wp-content/uploads/*-400x391*$image
 ||favanews.com/other/*$object
 ||favanews.com/other/*.gif
@@ -390,6 +403,8 @@ zima.ir##.overlayDiv
 ||media.mehrnews.com/d/*/*/*/*/*.gif$image
 ||melipayamak.com/wp-content/themes/melipayamak/images/banner/$image
 ||melipayamak.com/wp-content/themes/melipayamk/images/banner/$image
+||mihandaramad.ir/images/
+||mihandaramad.ir/images/$image
 ||mihandownload.com/wp-content/uploads/*.gif$image
 ||motelyab.com/images/hotel/reserve-hotel-mashhad.gif$image
 ||mstiran.com/resource/javascripts/jquery.fancybox.pack.js
@@ -433,6 +448,7 @@ zima.ir##.overlayDiv
 ||rond.ir/Content/SimBannerFile/$image
 ||rondbaz.com/uploads/*.gif
 ||rouzegar.com/wp-content/uploads/*/*/*.gif$image
+||rozup.ir/up/asa-game/pars-design/banner/
 ||s3-us-west-2.amazonaws.com/iranefarda/00test/$image
 ||sabavision.com/$subdocument
 ||sabavision.com/public//public/user_data/user_banner/$image
@@ -457,11 +473,13 @@ zima.ir##.overlayDiv
 ||tourline.ir/images/*.gif
 ||tourline.ir/images/download.jpg
 ||tourline.ir/images/upload.jpg
+||traaviaan.ir/img/195x50.jpg
 ||uc.persianv.com/up3/images/$image
 ||up.ariapix.net/images/*.gif$image
 ||up.sibgraph.ir/up/admin-sibgraph/sibgraph/theme/Images/*.gif$image
 ||up.skinak.ir/up/skinak/temps/forum/v3/images/bg.jpg$image
 ||uupload.ir/files/*.gif
+||vbiran.ir/uploads/hit_*.png
 ||wetravel.ir/wp-content/uploads/*/*/*.gif
 ||widgets.takhfifan.com/pics/$image
 ||wimaxnews.ir/images/main/null.gif$image
