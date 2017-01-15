@@ -252,6 +252,10 @@ tabnak.ir##.scrollingtext
 takro.net##.col-sm-pull-9.col-sm-3 > .panel-primary.panel:nth-of-type(2)
 takro.net##.panel-primary.panel:nth-of-type(3)
 takro.net##.panel-primary.panel:nth-of-type(4)
+taktemp.com###b1
+taktemp.com###b2
+taktemp.com##.link-ads
+taktemp.com##.topbanners
 tarafdari.com##.clearfix.view-mode-full.node-news.node.node-592490.node-content > .advertise:nth-of-type(6)
 taya.ir###custompagetext > .advertisement-box
 tebyan.net##.theiaStickySidebar
@@ -298,6 +302,7 @@ zima.ir##.overlayDiv
 ||androidineh.com/wp-content/uploads/InstaAssistant_0.jpg$image
 ||androidineh.com/wp-content/uploads/instafollower_600.jpg$image
 ||apanet.net/index2.php?img=$subdocument
+||apkpars.ir/img/*banner*
 ||apktops.ir/wp-content/uppic/*.gif$image
 ||appget.ir/*.gif
 ||appleapps.ir/wp-content/uploads/*/*/*.gif$image
@@ -407,6 +412,7 @@ zima.ir##.overlayDiv
 ||mihandaramad.ir/images/
 ||mihandaramad.ir/images/$image
 ||mihandownload.com/wp-content/uploads/*.gif$image
+||mihanfal.com/wp-content/uploads/*/*/*.gif
 ||mihanscript.ir/ads.jpg
 ||motelyab.com/images/hotel/reserve-hotel-mashhad.gif$image
 ||mstiran.com/resource/javascripts/jquery.fancybox.pack.js
@@ -432,12 +438,15 @@ zima.ir##.overlayDiv
 ||parandco.com/media/uploads/banners/
 ||pardad.ir/images/site1rbHeader.png$image
 ||pardad.ir/UploadFiles/*.gif$image
+||parsipet.ir/images/icons/myicons/*.gif
+||parsipet.ir/uploads/*.gif
 ||parstv.tv/wp-content/uploads/2016/07/Farahani.jpg$image
 ||parstv.tv/wp-content/uploads/2016/07/JEFf-2.jpg$image
 ||parstv.tv/wp-content/uploads/2016/07/Magic-tel.jpg$image
 ||parstv.tv/wp-content/uploads/2016/07/Tehran.jpg$image
 ||parstv.tv/wp-content/uploads/2016/09/web-solution_00128.jpg$image
 ||persiangig.com/preview/SMSh7sPQoP/accfile.jpg$image
+||persianpet.org/s-img/
 ||persianv.com/random*/$subdocument
 ||pgnews.ir/uploads/*.gif
 ||pgnews.ir/uploads/banners/
@@ -466,6 +475,7 @@ zima.ir##.overlayDiv
 ||shoptou.in/*
 ||simcart.com/a/$image
 ||static0.rokna.ir/serve/*/*/*.gif$image
+||taktemp.com/wp-content/uploads/*/*/*.gif
 ||tarafdari.com/sites/all/themes/hope/images/advertise/
 ||taya.ir/uploads/General/*.gif
 ||techmix.ir/wp-content/uploads/*/*/*.gif$image
@@ -488,6 +498,7 @@ zima.ir##.overlayDiv
 ||wetravel.ir/wp-content/uploads/*/*/*.gif
 ||widgets.takhfifan.com/pics/$image
 ||wimaxnews.ir/images/main/null.gif$image
+||www.xn--mgbaab1cek0c24eck.com/images/*/*.gi
 ||yas98.ir/wp-content/uploads/*/*/*.gif
 ||yasell.biz
 ||zoomit.ir/*/banners/
