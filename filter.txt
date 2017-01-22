@@ -38,9 +38,11 @@
 ##.logo_adv_container
 ##.mom_ads250.box_outer
 ##.mom_ads300.box_outer
+##.sidebar-tabliq.widget
 ##.textAdv
 ##.topadver
 ##.txt_adv_content
+##.txtadsbox
 ##.widget_banner_ads
 ##a[href^="http://www.alamto.com/ads/click.php"]
 .ir/ads/
@@ -119,6 +121,7 @@ digiato.com##.sticky-side.left-sidebar.main-sidebar.home-col.columns.show-for-me
 digikala.com###popup-mask
 dl4all.ir##.center > .fadeInDown.animated.visible.hidden.body-main:nth-of-type(1)
 dl4all.ir##.left > .fadeInDown.animated.visible.hidden.body-main:nth-of-type(1)
+dlbook.net##.mom_custom_text.widget:nth-of-type(3) > .custom_textwidget
 downloadha.com###main > .main-container > .maincontent > .topbanners468
 downloadsoftware.ir##.boxadstext_side
 downloadsoftware.ir##.hidden-xs.ads656
@@ -163,7 +166,15 @@ irannaz.com##.CenterBlock.CBS.shopads
 irannaz.com##.TopAdssss.CBS
 irannsr.org###block53896
 irannsr.org###block57722
+iranpdf.com##.wrapper:nth-of-type(1) > .sb_left > p:nth-of-type(2)
+iranpdf.com##.wrapper_btm.wrapper > .sb_left > p:nth-of-type(2)
 iranstyle.ir###varoone_ads_top_right_540
+irebooks.com###sidebar-primary > .widget-container:nth-of-type(1)
+irebooks.com###sidebar-primary > .widget-container:nth-of-type(9)
+irebooks.com###sidebar-secondary > .widget-container:nth-of-type(1)
+irebooks.com###sidebar-secondary > .widget-container:nth-of-type(8)
+irebooks.com###text-10
+irebooks.com##div:nth-of-type(2) > center
 irexpert.ir##object
 isna.ir###box108
 isna.ir###box109
@@ -172,6 +183,10 @@ isna.ir###box32
 itresan.com###fsml_ff
 itresan.com##.ADTUBE
 jamnews.ir###AdvertsHolderWI_1041 > .Adverts
+jozveha.com##.main-sidebar.sidebar
+jozveha.com##.main-sidebar.sidebar > .widget_text.widget:nth-of-type(2)
+jozveha.com##.widget_text.widget:nth-of-type(3)
+jozveha.com##.widget_text.widget:nth-of-type(4)
 kalakamuz.ir##.black.row.box:nth-of-type(1)
 kalakamuz.ir##.black.row.box:nth-of-type(3)
 kalakamuz.ir##.black.row.box:nth-of-type(4)
@@ -179,6 +194,7 @@ kalakamuz.ir##.black.row.box:nth-of-type(6)
 kalakamuz.ir##.black.row.box:nth-of-type(8)
 kalakamuz.ir##.middle.inner-el.container > .row.box
 kalakamuz.ir##.row.box:nth-of-type(9)
+ketabnak.com##.featherlight
 khabarfarsi.com###banners_120_top
 khabarfarsi.com###banners_300_top
 khabarfarsi.com###block-block-10
@@ -200,6 +216,7 @@ mihanblog.com###apanet_ads_bottom_left_120
 mihanblog.com###apanet_ads_bottom_right_120
 mihanblog.com###apanet_ads_top_right_120
 mihangame.com##.widget_text.widget
+mihanmarket.com##.spnsor_holder
 mizbanblog.com##[id^="ads"]
 momtaznews.com##.b130ads
 movie.downloadfreenewa.com###varoone_ads_top_right_540
@@ -236,11 +253,13 @@ parsnaz.ir##.Res003.Bstyle.RBC
 parsnaz.ir##DIV[style="position: fixed;z-index: 99997;width:128px;height:270px;border: 2px solid #ddd;background-color: #ddd;bottom: 0; right: 5px;"]
 parstv.tv##.image-container
 patoghu.com##.top-tabligh
+persiantools.com##.ptbbox
 persianv.com##.web_box:nth-of-type(3)
 persianv.com##.web_box:nth-of-type(7)
 persianv.com##.wrapper2:nth-of-type(8)
 persianv.com##a[href^="http://panel.persianv.com/counter/click.php"]
 plus.ir##.advBanner.text-center
+readbook.ir##td:nth-of-type(1) > .sidebar-right:nth-of-type(1)
 rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(1)
 rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(2)
 rokna.ir##.xcon12 > .mb16
@@ -294,6 +313,7 @@ wetravel.ir##.in.fade.modal-backdrop
 wetravel.ir/wp-content/uploads/*/*/ads*$image
 www.ensafnews.com###shahba_ad-widget-8
 www.freedanload.com###shortcodes-ultimate-2
+yasbooks.com##tr:nth-of-type(2) > td > table > tbody > tr > td:nth-of-type(1) > table:nth-of-type(2)
 zima.ir##.newslleterPop
 zima.ir##.overlayDiv
 ||*.adnegah.net/$subdocument
@@ -303,6 +323,7 @@ zima.ir##.overlayDiv
 ||20script.com/banner/$image
 ||3iranfilm.me/wp-content/uploads/*/*/*.gif$image
 ||3iranfilm.me/wp-content/uploads/*/*/2-compressor.jpg$image
+||4dah.ir/wp-content/uploads/ADS*.gif$image
 ||8pic.ir/images/*.gif$image
 ||accpress.com/baner/$image
 ||ad.adtube.ir/*$subdocument
@@ -412,6 +433,7 @@ zima.ir##.overlayDiv
 ||iranjib.ir/uploads/*.gif$image
 ||iranjib.ir/uploads/*.swf$object
 ||irannaz.com/ax/$image
+||iranrada.com/wp-content/uploads/*/*/*.gif$image
 ||irebooks.com/wp-content/uploads/*/*/*-*x*.*$image
 ||irexpert.ir/Webforms/Default/a/$image
 ||itbazar.com/UploadFiles/*.gif
@@ -419,6 +441,7 @@ zima.ir##.overlayDiv
 ||itresan.com/wp-content/uploads/*/*/*.gif$image
 ||jahansite.com/wp-content/uploads/*/*/*.gif
 ||javanmobile.com/wp-content/uploads/*/*/*.gif$image
+||jozveha.com/wp-content/uploads/*/*/*.gif$image
 ||kalakamuz.ir/wp-content/uploads/*.gif$image
 ||kalakamuz.ir/wp-content/uploads/ad*$image
 ||ketabesabz.com/images/banner/
@@ -440,6 +463,7 @@ zima.ir##.overlayDiv
 ||mihandaramad.ir/images/$image
 ||mihandownload.com/wp-content/uploads/*.gif$image
 ||mihanfal.com/wp-content/uploads/*/*/*.gif
+||mihanmarket.com/Objects/*.gif$image
 ||mihanscript.ir/ads.jpg
 ||motelyab.com/images/hotel/reserve-hotel-mashhad.gif$image
 ||mstiran.com/resource/javascripts/jquery.fancybox.pack.js
@@ -475,6 +499,7 @@ zima.ir##.overlayDiv
 ||parstv.tv/wp-content/uploads/2016/09/web-solution_00128.jpg$image
 ||persiangig.com/preview/SMSh7sPQoP/accfile.jpg$image
 ||persianpet.org/s-img/
+||persiantools.net/banners/$image
 ||persianv.com/random*/$subdocument
 ||pgnews.ir/uploads/*.gif
 ||pgnews.ir/uploads/banners/
