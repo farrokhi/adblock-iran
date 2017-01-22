@@ -146,7 +146,6 @@ farsnews.com##.container > .mainframe > .hidden-xs.pull-right.col-lg-4.col-md-4.
 farsroid.com##.col.post-sabet:nth-of-type(2)
 farsroid.com##.row.post-sabets:nth-of-type(1)
 film2movie.biz##.middle > .right-main > .main > .box:nth-of-type(3)
-fotoya.ir/1.gif
 freegames.ir##.sidebar-box:nth-of-type(1)
 freegames.ir##.sidebar-box:nth-of-type(2)
 freegames.ir##.sidebar-box:nth-of-type(5)
