@@ -114,6 +114,7 @@ car.ir##.whiteSpace
 computeruser.ir###spu-5649
 computeruser.ir###spu-bg-5649
 computeruser.ir/wp-content/uploads/sites/*/*/*/*banner*$image
+cooldownload.ir##.post-ads.box
 ctelegram.com###a0cd69f14fc3c8ee3dae66738251af5de
 dezfun.com###fade
 dezfun.com###light
@@ -129,6 +130,8 @@ downloadha.com###main > .main-container > .maincontent > .topbanners468
 downloadha.com##.entry-etc
 downloadha.com##.rightsidebarc.adsright
 downloadha.com##.widget.aside.collapse
+downloadkral.com###shop
+downloadkral.com##a[href^="http://store.downloadkral.com/product.php"]
 downloadsoftware.ir##.boxadstext_side
 downloadsoftware.ir##.hidden-xs.ads656
 dustaan.com##.wp-image-66603.size-full.aligncenter
@@ -161,8 +164,17 @@ graphiran.com##.textadsa1
 graphiran.com##a[href="https://www.p30day.com/"]
 graphiran.com##center:nth-of-type(2) > a[href="http://filestore.graphiran.com/"]
 harimeasmani.ir##[style="position:fixed;left:1px;bottom:1px;width:122px;border:1px solid #C0C0C0;z-index:9999999999;background-color:white;direction:ltr;"]
+harmonydl.info##.q46
 hastidl.org###skinak_ads_bottom_left_125
 hastidl.org###wpfront-notification-bar
+hastidownload.biz##.boxes
+hastidownload.biz##a[href="http://mahoot-leather.ir/"]
+hastidownload.biz##a[href="http://mihanwebhost.com/"]
+hastidownload.biz##a[href^="http://my.mihanwebhost.com/cart.php"]
+hastidownload.biz##a[href^="http://www.takhfifan.com/"]
+hastidownload.biz##a[href^="https://www.digikala.com/Search/"]
+hastidownload.biz##a[href^="https://www.modiseh.com/"]
+hastidownload.biz##p:nth-of-type(2) > a[href^="http://www.takhfifan.com/mug"]
 himler.net##.secondary-sidebar.sidebar > .widget_text.widget
 hotnaz.com###tabligheirani_ads_bottom_right_121
 icoff.ee##[id^="image-"]
@@ -277,6 +289,7 @@ persianv.com##.web_box:nth-of-type(3)
 persianv.com##.web_box:nth-of-type(7)
 persianv.com##.wrapper2:nth-of-type(8)
 persianv.com##a[href^="http://panel.persianv.com/counter/click.php"]
+pesedit.ir##a[href="http://www.pesedit.ir/ads/index.html"]
 plus.ir##.advBanner.text-center
 readbook.ir##td:nth-of-type(1) > .sidebar-right:nth-of-type(1)
 rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(1)
@@ -383,6 +396,7 @@ zima.ir##.overlayDiv
 ||appligh.ir/wp-content/uploads/ads*$image
 ||asemooni.com/*/*/*.gif$image
 ||asrebank.ir/img/banners/
+||avadl.biz/img/Reza/*banner*$image
 ||axgig.com/images/*.gif
 ||badigi.com/wp-content/uploads/*/*/*.gif$image
 ||banki.ir/images/stories/*/ads_*.gif$image
@@ -449,13 +463,18 @@ zima.ir##.overlayDiv
 ||graphiran.com/wp-content/uploads/*/*/filestore*$image
 ||haftfilm.top/wp-content/uploads/*/*/*.gif
 ||halftime.ir/images/*.gif$image
+||harmonydl.info/wp-content/themes/harmony1.11/js/popup1.js
+||harmonydl.info/wp-content/uploads/*/*/banner*$image
 ||hastidl.org/wp-content/uploads/*.gif$image
+||hastidownload.biz/img/7uy.jpg$image
 ||icoff.ee/fa/wp-content/uploads/*/*/*.gif$image
 ||icoff.ee/fa/wp-content/uploads/*/*/*banner*$image
 ||icoff.ee/fa/wp-content/uploads/2016/07/cafe-paradiso.jpg$image
 ||icoff.ee/fa/wp-content/uploads/2016/08/logoundeux.jpg$image
 ||ilna.ir/serve/*/*/*$image
 ||ilna.ir/serve/*/*/*$object
+||image.hastidownload.biz/img/Linux-iran.jpg$image
+||image.hastidownload.biz/img/tya.gif$image
 ||images.khabaronline.ir/system/menus/*/*
 ||img.bisms.ir//2016/10/426023421_5668.jpg
 ||img.bisms.ir//2016/10/nose-up-1.jpg
@@ -528,6 +547,7 @@ zima.ir##.overlayDiv
 ||pardad.ir/UploadFiles/*.gif$image
 ||parsipet.ir/images/icons/myicons/*.gif
 ||parsipet.ir/uploads/*.gif
+||parstools.com/redportal/images/*ads*$image
 ||parstv.tv/wp-content/uploads/2016/07/Farahani.jpg$image
 ||parstv.tv/wp-content/uploads/2016/07/JEFf-2.jpg$image
 ||parstv.tv/wp-content/uploads/2016/07/Magic-tel.jpg$image
