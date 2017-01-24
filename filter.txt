@@ -285,6 +285,10 @@ parsnaz.ir##DIV[style="position: fixed;z-index: 99997;width:128px;height:270px;b
 parstv.tv##.image-container
 patoghu.com##.top-tabligh
 persiantools.com##.ptbbox
+persianv.com##.banner_sid_desktop.banner_sidebar
+persianv.com##.banner_sidebar.banner_sid_desktop
+persianv.com##.div_banner
+persianv.com##.web_box
 persianv.com##.web_box:nth-of-type(3)
 persianv.com##.web_box:nth-of-type(7)
 persianv.com##.wrapper2:nth-of-type(8)
@@ -325,6 +329,8 @@ softgozar.com###PopAlert
 tabnak.ir##.home_adv_height.padd_home_right.visible-md.visible-lg.col-md-5
 tabnak.ir##.marquee_container.row
 tabnak.ir##.scrollingtext
+tafsir-news.ir##.section-box
+tafsir-news.ir##[id^="ADFloat"]
 takro.net##.col-sm-pull-9.col-sm-3 > .panel-primary.panel:nth-of-type(2)
 takro.net##.panel-primary.panel:nth-of-type(3)
 takro.net##.panel-primary.panel:nth-of-type(4)
@@ -426,6 +432,9 @@ zima.ir##.overlayDiv
 ||digiato.com/wp-content/uploads/*/*/*.gif$image
 ||digiato.com/wp-content/uploads/*/*/290-165.jpg$image
 ||digiato.com/wp-content/uploads/*/*/digiato7-do.jpg$image
+||dl.economya.ir/wp-files/uploads/AD*$image
+||dl.economya.ir/wp-files/uploads/logo.jpg$image
+||dl.economya.ir/wp-files/uploads/output_BOPF0B.gif$image
 ||dl.hdaneshjoo.ir/hdaneshjoo/ax/*
 ||doctorwp.com/wp-content/uploads/*/*/ads-*.gif$image
 ||donya-e-eqtesad.com/Images/Bitrix//BannerFile/$image
@@ -444,6 +453,7 @@ zima.ir##.overlayDiv
 ||famo.ir/ad/
 ||farnet.ir/*/*/*-300-x-100-*$image
 ||farsroid.com/wp-content/uploads/*-400x391*$image
+||fastclick.click/Content/campaigns/$image
 ||favanews.com/other/*$object
 ||favanews.com/other/*.gif
 ||favanews.com/wp-content/uploads/*/*/logo*.png$image
@@ -490,6 +500,8 @@ zima.ir##.overlayDiv
 ||irebooks.com/wp-content/uploads/*/*/*-*x*.*$image
 ||irexpert.ir/Webforms/Default/a/$image
 ||itbazar.com/UploadFiles/*.gif
+||itgheymat.com/uploadFiles/*.gif$image
+||itgheymat.com/uploadFiles/app-itgheymat.jpg$image
 ||itresan.com/banner/
 ||itresan.com/wp-content/uploads/*/*/*.gif$image
 ||jahansite.com/wp-content/uploads/*/*/*.gif
@@ -599,6 +611,7 @@ zima.ir##.overlayDiv
 ||top2download.com/wp-content/uploads/*/*/*.gif$image
 ||topnaz.com/wp-content/themes/topnaz_panab/psimgs/ads/
 ||topnaz.com/wp-content/themes/topnaz_panab/psimgs/free.jpg
+||toppopup.com/pop.php
 ||toranji.ir/wp-content/uploads/*/*/*.gif
 ||tourline.ir/images/*.gif
 ||tourline.ir/images/download.jpg
