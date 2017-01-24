@@ -44,6 +44,7 @@
 ##.topadver
 ##.txt_adv_content
 ##.txtadsbox
+##.vatanclick
 ##.widget_banner_ads
 ##a[href^="http://www.alamto.com/ads/click.php"]
 .ir/ads/
@@ -100,6 +101,7 @@ beytoote.com##.grid-h.width100.grid-box > .deepest.module > .bannergroup
 beytoote.com##.grid-v.width100.grid-box:nth-of-type(1) > .deepest.module > .color-color.bannergroupstyle-body
 beytoote.com##.slides
 biafun.com###apanet_ads_bottom_left_125
+bidpa.ir##.headbanner
 bigtheme.ir###text-16 > .widget-container
 bisms.ir###ads_bottom1
 blogsky.com###fesnq
@@ -222,6 +224,7 @@ khabarfarsi.com###banners_120_top
 khabarfarsi.com###banners_300_top
 khabarfarsi.com###block-block-10
 khabarfarsi.com###block-block-7
+khabarha.info###SenBackLoginBox
 khandefun.ir##[style="position:absolute;left:1px;top:1px;width:122px;border:1px solid #C0C0C0;z-index:9999999999;background-color:white;direction:ltr;"]
 ladin.ir###sidebar-left > .sidebar-left > .ads.sidebar-box:nth-of-type(1)
 ladin.ir###sidebar-right > .sidebar-right > .ads.sidebar-box
@@ -232,6 +235,7 @@ lasttours.net##.map
 lineblog.ir##[class^="adsblog"]
 lineblog.ir##[id^="ads"]
 marde-rooz.com##.column-2.columns.entries.grid-4
+mazandmajles.ir##.ad
 mehrnews.com###ad97_558
 melipayamak.com##.er-popup-body
 melipayamak.com##.er-popup-overlay
@@ -284,6 +288,8 @@ parsnaz.ir##.Res003.Bstyle.RBC
 parsnaz.ir##DIV[style="position: fixed;z-index: 99997;width:128px;height:270px;border: 2px solid #ddd;background-color: #ddd;bottom: 0; right: 5px;"]
 parstv.tv##.image-container
 patoghu.com##.top-tabligh
+peransis.xyz###LiteBoxBackground
+peransis.xyz###LiteBoxWindow
 persiantools.com##.ptbbox
 persianv.com##.banner_sid_desktop.banner_sidebar
 persianv.com##.banner_sidebar.banner_sid_desktop
@@ -510,6 +516,7 @@ zima.ir##.overlayDiv
 ||kalakamuz.ir/wp-content/uploads/*.gif$image
 ||kalakamuz.ir/wp-content/uploads/ad*$image
 ||ketabesabz.com/images/banner/
+||khabarfoori.com/bundles/*banner*$image
 ||khabarfori.ir/Portals/*/Sample/$object
 ||khabarlendeh.ir/sites/default/files/fullimages/
 ||lahzeakhar.com/images/rightBanners/*.gif
@@ -520,6 +527,7 @@ zima.ir##.overlayDiv
 ||lavdan.ir/img/banner/
 ||linkyab.net/download/*.gif$image
 ||mardomsalari.com/upload/images/14771523021476531352613215377155978855.jpg$image
+||mazandmajles.ir/public/uploads/resaneh/$image
 ||media.farsnews.com/Uploaded/Files/Documents/*/*/*/*$image
 ||media.mehrnews.com/d/*/*/*/*/*.gif$image
 ||melipayamak.com/wp-content/themes/melipayamak/images/banner/$image
