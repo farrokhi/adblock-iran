@@ -89,6 +89,7 @@ banki.ir##.moduletable:nth-of-type(3) > .bannergroup
 barato.ir##.ads.block
 barmandownload.ir##.content > .left-menu > .block-content:nth-of-type(1)
 barmandownload.ir##.content > .right-menu > .block-content:nth-of-type(1)
+bartarina.com##[id^="ads_bottom"]
 bartarinha.ir##.padd_home_r.col-md-6
 beytoote.com###adsx
 beytoote.com###headerbar > div:nth-of-type(1) > div > .deepest.module > div
@@ -144,7 +145,9 @@ estekhtam.com###text-2
 estekhtam.com###text-9
 faaltarin.com##body > div:nth-of-type(2) > div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(3)
 faradeed.ir##.hidden-xs.hidden-ms.hidden-sm.col-md-4.col-lg-5 > .padding_r2
+fararu.com##.cont_main_txtadv
 fararu.com##.txt_adv_container
+fararu.com##[class^="cont_adv_row"]
 farsnews.com##.advertisement
 farsnews.com##.col-md-2.ads-tile
 farsnews.com##.container > .mainframe > .hidden-xs.pull-right.col-lg-4.col-md-4.col-sm-3.leftcolumn > .col-lg-5.col-md-5.hidden-sm.adscolumn > .advertisement
@@ -309,6 +312,7 @@ rond.ir##.banner-box
 rond.ir##.grid_6
 rondbaz.com##.hidden-xs:nth-of-type(1) > div > div
 roozno.com###next1-740
+rouzegar.com##.linkbox.noindex
 rouzegar.com##.sidebar-left > .ads.sidebar-box:nth-of-type(1)
 rouzegar.com##.sidebar-right > .ads.sidebar-box
 rozblog.com##.content-ads:nth-of-type(1) > .content-ads-bg
@@ -332,6 +336,7 @@ soft98.ir##.soft98-ad
 softgozar.com###backgray-layout
 softgozar.com###dtlAdvertiseRightPan
 softgozar.com###PopAlert
+tabnak.ir##.adv_height
 tabnak.ir##.home_adv_height.padd_home_right.visible-md.visible-lg.col-md-5
 tabnak.ir##.marquee_container.row
 tabnak.ir##.scrollingtext
@@ -431,6 +436,7 @@ zima.ir##.overlayDiv
 ||cinemakhabar.ir/Picture/*.gif
 ||cinemakhabar.ir/Picture/*.swf$object
 ||cinematicket.org/images/a-d/*$image
+||clickyab.com^
 ||core.clix.ir/bc/*$subdocument
 ||dezfil.ir/wp-content/themes/deznn0/images/ads*
 ||dezfil.ir/wp-content/themes/deznn0/images/asj.site.jpg
@@ -588,6 +594,7 @@ zima.ir##.overlayDiv
 ||rond.ir/Content/SimBannerFile/$image
 ||rondbaz.com/uploads/*.gif
 ||rouzegar.com/wp-content/uploads/*/*/*.gif$image
+||rouzegar.com/wp-content/uploads/2016/12/photo_*.jpg$image
 ||rozup.ir/up/asa-game/pars-design/banner/
 ||s3-us-west-2.amazonaws.com/iranefarda/00test/$image
 ||sabavision.com/$subdocument
