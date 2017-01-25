@@ -126,6 +126,7 @@ computeruser.ir###spu-bg-5649
 computeruser.ir/wp-content/uploads/sites/*/*/*/*banner*$image
 cooldownload.ir##.post-ads.box
 ctelegram.com###a0cd69f14fc3c8ee3dae66738251af5de
+dabi.ir##.Js_Div5
 dezfun.com###fade
 dezfun.com###light
 digiato.com##.global-wrap > .margin-top-80.paged.guttered.fixed-width.digi-container > .white.paper > .row.no-bg.home-sec > .sticky-side.right-sidebar.main-sidebar.home-col.columns.show-for-medium.large-pull-6.medium-4.large-3 > .theiaStickySidebar > .sidebar-widget:nth-of-type(6)
@@ -177,6 +178,7 @@ gooya.com###AutoNumber1
 graphiran.com##.textadsa1
 graphiran.com##a[href="https://www.p30day.com/"]
 graphiran.com##center:nth-of-type(2) > a[href="http://filestore.graphiran.com/"]
+gsm.ir##.a_gsm_d
 harimeasmani.ir##[style="position:fixed;left:1px;bottom:1px;width:122px;border:1px solid #C0C0C0;z-index:9999999999;background-color:white;direction:ltr;"]
 harmonydl.info##.q46
 hastidl.org###skinak_ads_bottom_left_125
@@ -325,6 +327,7 @@ rond.ir##.banner-box
 rond.ir##.grid_6
 rondbaz.com##.hidden-xs:nth-of-type(1) > div > div
 roozno.com###next1-740
+roozno.com##[id^="next"]
 rouzegar.com##.linkbox.noindex
 rouzegar.com##.sidebar-left > .ads.sidebar-box:nth-of-type(1)
 rouzegar.com##.sidebar-right > .ads.sidebar-box
@@ -432,6 +435,7 @@ zima.ir##.overlayDiv
 ||axgig.com/images/*.gif
 ||badigi.com/wp-content/uploads/*/*/*.gif$image
 ||banki.ir/images/stories/*/ads_*.gif$image
+||banner.dabi.ir/Banner.aspx
 ||bayanbox.ir/view/*/*.gif
 ||besthaa.ir/wp-content/uploads/*/*/*.gif
 ||beytoote.com/shops/*$subdocument
@@ -460,6 +464,7 @@ zima.ir##.overlayDiv
 ||clickyab.com^
 ||core.clix.ir/bc/*$subdocument
 ||dabi.ir/ScriptResource.axd?*
+||dabi.ir/Upload/*/130x200*$image
 ||dabi.ir/Upload/StaticBanners/$image
 ||dezfil.ir/wp-content/themes/deznn0/images/ads*
 ||dezfil.ir/wp-content/themes/deznn0/images/asj.site.jpg
