@@ -143,6 +143,8 @@ downloadkral.com##a[href^="http://store.downloadkral.com/product.php"]
 downloadsoftware.ir##.boxadstext_side
 downloadsoftware.ir##.hidden-xs.ads656
 dustaan.com##.wp-image-66603.size-full.aligncenter
+eghtesadnews.com##.propaganda
+eghtesadnews.com##a[href^="/advertisements/"]
 entekhab.ir##.col-xs-36.attention
 entekhab.ir##.col-xs-36.news-web
 epapers.ir##.widgetleft
@@ -270,6 +272,7 @@ nikcharge.net##.kadr
 noda.ir##.header-right
 omidiraniannewspaper.ir###\34 6
 omidiraniannewspaper.ir###\35 0
+omidnameh.com###ads
 p30download.com###content > div
 p30download.com###main-content > .tabliq-468:nth-of-type(2)
 p30download.com##.post
@@ -428,9 +431,15 @@ zima.ir##.overlayDiv
 ||beytoote.com/shops/*$subdocument
 ||bia2movies1.in/wp-content/uploads/*/*/*.gif
 ||boyernews.com/flash/*.swf$object
+||boyernews.com/sadraclinic468_p.swf$object
 ||boyernews.com/wp-content/uploads/*.gif
 ||boyernews.com/wp-content/uploads/*.swf$object
+||boyernews.com/wp-content/uploads/9681.jpg$image
+||boyernews.com/wp-content/uploads/bankansar.jpg$image
 ||boyernews.com/wp-content/uploads/f31.jpg$image
+||boyernews.com/wp-content/uploads/fit.jpg$image
+||boyernews.com/wp-content/uploads/rgnewad1.jpg$image
+||boyernews.com/wp-content/uploads/trh1.png$image
 ||buzdid.ir/images/*banner*.png
 ||camp.sabavision.com/*$subdocument
 ||cartel.ir/img/tiny2.png
@@ -444,6 +453,7 @@ zima.ir##.overlayDiv
 ||cinematicket.org/images/a-d/*$image
 ||clickyab.com^
 ||core.clix.ir/bc/*$subdocument
+||dabi.ir/Upload/StaticBanners/$image
 ||dezfil.ir/wp-content/themes/deznn0/images/ads*
 ||dezfil.ir/wp-content/themes/deznn0/images/asj.site.jpg
 ||dezfil.ir/wp-content/themes/deznn0/images/fatima.jpg
@@ -460,6 +470,8 @@ zima.ir##.overlayDiv
 ||download.ir/wp-content/uploads/*/*/ads*$image
 ||downloadha.com/shop/sabavision*$image
 ||dubai-land.ir/images/ad*.gif
+||eghtesadnews.com/serve/$image
+||eghtesadnews.com/serve/*.gif$image
 ||eghtesadonline.com/serve/*/*/$image
 ||elmefarda.com/wp-content/uploads/*/*/ad*$image
 ||ensafnews.com/wp-content/uploads/*/*/*.gif$image
@@ -495,6 +507,8 @@ zima.ir##.overlayDiv
 ||harmonydl.info/wp-content/uploads/*/*/banner*$image
 ||hastidl.org/wp-content/uploads/*.gif$image
 ||hastidownload.biz/img/7uy.jpg$image
+||hidoctor.ir/wp-content/uploads/*/*/*.gif$image
+||icinema.ir/uploads/ad*$image
 ||icoff.ee/fa/wp-content/uploads/*/*/*.gif$image
 ||icoff.ee/fa/wp-content/uploads/*/*/*banner*$image
 ||icoff.ee/fa/wp-content/uploads/2016/07/cafe-paradiso.jpg$image
@@ -560,6 +574,7 @@ zima.ir##.overlayDiv
 ||namnak.com/users/shop/files/*.gif$image
 ||new4android.ir/wp-content/uploads/*/*/*.gif$image
 ||newsair.ir/wp-content/uploads/*/*/*.gif$image
+||newsair.ir/wp-content/uploads/*/*/banner*$image
 ||nex1network.com/*$subdocument
 ||nextads.ir/$subdocument
 ||nextholiday.ir/uploads/*/*/gif/*.gif
@@ -607,7 +622,9 @@ zima.ir##.overlayDiv
 ||sabavision.com/public//public/user_data/user_banner/$image
 ||safarbaba.com/uploads/*/*/gif/*.gif
 ||safireaflak.ir/adv/
+||salamatnews.com/uploads/ad*$image
 ||sarasat95.tk/images/ehsan-pixell/pixell_rangh/images/*.gif$image
+||saten.ir/wp-content/uploads/*/*/banner$image
 ||sena.ir/ShowImages.ashx?Adv=*$image
 ||sena.ir/Upload/PicGallery/Adver/$object
 ||shahrekhabar.com/swf/
