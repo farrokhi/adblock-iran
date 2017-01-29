@@ -537,6 +537,7 @@ zima.ir##.overlayDiv
 ||iranefarda.wpengine.netdna-cdn.com/wp-content/themes/jarida/images/*.gif
 ||iranefarda.wpengine.netdna-cdn.com/wp-content/themes/jarida/images/ad*
 ||iraniandog.com/iss/$image
+||iranianpath.com/my_doc/iranianpath/Right%20Banner/$image
 ||iranjib.ir/uploads/*.gif$image
 ||iranjib.ir/uploads/*.swf$object
 ||irannaz.com/ax/$image
