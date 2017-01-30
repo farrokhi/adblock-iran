@@ -231,6 +231,7 @@ isna.ir###box32
 itresan.com###fsml_ff
 itresan.com##.ADTUBE
 jamnews.ir###AdvertsHolderWI_1041 > .Adverts
+japanmusic.ir##.banerri
 joke4u.ir###SenBackLoginBox
 jozveha.com##.main-sidebar.sidebar
 jozveha.com##.main-sidebar.sidebar > .widget_text.widget:nth-of-type(2)
@@ -368,6 +369,8 @@ tabnak.ir##.adv_height
 tabnak.ir##.home_adv_height.padd_home_right.visible-md.visible-lg.col-md-5
 tabnak.ir##.marquee_container.row
 tabnak.ir##.scrollingtext
+tafrihi.com###fade
+tafrihi.com##.affilate
 tafsir-news.ir##.section-box
 tafsir-news.ir##[id^="ADFloat"]
 takro.net##.col-sm-pull-9.col-sm-3 > .panel-primary.panel:nth-of-type(2)
@@ -480,6 +483,7 @@ zima.ir##.overlayDiv
 ||dabi.ir/ScriptResource.axd?*
 ||dabi.ir/Upload/*/130x200*$image
 ||dabi.ir/Upload/StaticBanners/$image
+||delbaraneh.com/Niazweb.jpg$image
 ||developer1.ir//Pic/ADS%20Banner/$image
 ||developer1.ir/Pic/ADS*$image
 ||dezfil.ir/wp-content/themes/deznn0/images/ads*
@@ -572,6 +576,7 @@ zima.ir##.overlayDiv
 ||itresan.com/banner/
 ||itresan.com/wp-content/uploads/*/*/*.gif$image
 ||jahansite.com/wp-content/uploads/*/*/*.gif
+||japanmusic.ir/free-upload/$image
 ||javanmobile.com/wp-content/uploads/*/*/*.gif$image
 ||jozveha.com/wp-content/uploads/*/*/*.gif$image
 ||kalakamuz.ir/wp-content/uploads/*.gif$image
@@ -644,6 +649,7 @@ zima.ir##.overlayDiv
 ||pgnews.ir/uploads/banners/
 ||picofile.com/file/*/*.gif$image
 ||pishkhaan.net/pishkhaanads/$image
+||r.hitplus.ir^$popup
 ||rahnama.com/pub/img/SiteAdvert/
 ||rokna.ir/serve/*/*/*.gif$image
 ||rond.ir/Content/DomainBannerFile/$image
@@ -653,6 +659,7 @@ zima.ir##.overlayDiv
 ||rouzegar.com/wp-content/uploads/*/*/*.gif$image
 ||rouzegar.com/wp-content/uploads/2016/12/photo_*.jpg$image
 ||rozup.ir/up/asa-game/pars-design/banner/
+||s.hitplus.ir^
 ||s3-us-west-2.amazonaws.com/iranefarda/00test/$image
 ||sabavision.com/$subdocument
 ||sabavision.com/public//public/user_data/user_banner/$image
@@ -707,5 +714,6 @@ zima.ir##.overlayDiv
 ||yas98.ir/wp-content/uploads/*/*/*.gif
 ||yasdl.com/wp-content/uploads/*/*/faranesh.gif$image
 ||yasell.biz
+||yeknet.ir/sites/default/files/js/*
 ||zanboor.net/show.php$subdocument
 ||zoomit.ir/*/banners/
