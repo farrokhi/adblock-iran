@@ -122,6 +122,7 @@ buzdid.ir##.center.landing-banner-container
 car.ir##.cornerAds
 car.ir##.lastblah
 car.ir##.whiteSpace
+chapii.ir###left
 clicksite.org###dark
 clicksite.org###product_gallery
 computeruser.ir###spu-5649
@@ -228,6 +229,7 @@ isna.ir###box108
 isna.ir###box109
 isna.ir###box114 > div > ul
 isna.ir###box32
+itiran.com##.pull-right.addver2.span12
 itresan.com###fsml_ff
 itresan.com##.ADTUBE
 jamnews.ir###AdvertsHolderWI_1041 > .Adverts
@@ -573,6 +575,9 @@ zima.ir##.overlayDiv
 ||itbazar.com/UploadFiles/*.gif
 ||itgheymat.com/uploadFiles/*.gif$image
 ||itgheymat.com/uploadFiles/app-itgheymat.jpg$image
+||itiran.com/sites/default/files/*banner*$image
+||itiran.com/sites/default/files/*bner*$image
+||itiran.com/sites/default/files/pictures/*.gif$image
 ||itresan.com/banner/
 ||itresan.com/wp-content/uploads/*/*/*.gif$image
 ||jahansite.com/wp-content/uploads/*/*/*.gif
@@ -707,6 +712,7 @@ zima.ir##.overlayDiv
 ||up.skinak.ir/up/skinak/temps/forum/v3/images/bg.jpg$image
 ||uupload.ir/files/*.gif
 ||vbiran.ir/uploads/hit_*.png
+||webii.ir/Images/*banner/$image
 ||wetravel.ir/wp-content/uploads/*/*/*.gif
 ||widgets.takhfifan.com/pics/$image
 ||wimaxnews.ir/images/main/null.gif$image
