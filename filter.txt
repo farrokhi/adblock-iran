@@ -230,6 +230,7 @@ isna.ir###box109
 isna.ir###box114 > div > ul
 isna.ir###box32
 itiran.com##.pull-right.addver2.span12
+itna.ir##[id^="advertise"]
 itresan.com###fsml_ff
 itresan.com##.ADTUBE
 jamnews.ir###AdvertsHolderWI_1041 > .Adverts
@@ -251,6 +252,7 @@ khabarfarsi.com###banners_120_top
 khabarfarsi.com###banners_300_top
 khabarfarsi.com###block-block-10
 khabarfarsi.com###block-block-7
+khabarfarsi.com##.region-banners-120-bottom
 khabarha.info###SenBackLoginBox
 khandefun.ir##[style="position:absolute;left:1px;top:1px;width:122px;border:1px solid #C0C0C0;z-index:9999999999;background-color:white;direction:ltr;"]
 ladin.ir###sidebar-left > .sidebar-left > .ads.sidebar-box:nth-of-type(1)
@@ -590,6 +592,7 @@ zima.ir##.overlayDiv
 ||khabarfoori.com/bundles/*banner*$image
 ||khabarfori.ir/Portals/*/Sample/$object
 ||khabarlendeh.ir/sites/default/files/fullimages/
+||khf.nz/cdn/farfuture/$image
 ||lahzeakhar.com/images/rightBanners/*.gif
 ||lahzeakhar.com/images/Slider/
 ||lahzeakhar.com/images/topRotator/*.gif
