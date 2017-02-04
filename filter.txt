@@ -589,9 +589,9 @@ zima.ir##.overlayDiv
 ||itbazar.com/UploadFiles/*.gif
 ||itgheymat.com/uploadFiles/*.gif$image
 ||itgheymat.com/uploadFiles/app-itgheymat.jpg$image
+||itiran.com/sites/default/files/*.gif$image
 ||itiran.com/sites/default/files/*banner*$image
 ||itiran.com/sites/default/files/*bner*$image
-||itiran.com/sites/default/files/pictures/*.gif$image
 ||itiran.com/sites/default/files/pictures/*.gif$image
 ||itresan.com/banner/
 ||itresan.com/wp-content/uploads/*/*/*.gif$image
