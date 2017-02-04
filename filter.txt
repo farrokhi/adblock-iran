@@ -413,6 +413,7 @@ vbiran.ir##.vbiran-ads
 wetravel.ir###myModal
 wetravel.ir##.in.fade.modal-backdrop
 wetravel.ir/wp-content/uploads/*/*/ads*$image
+wimaxnews.ir##.Advert
 www.ensafnews.com###shahba_ad-widget-8
 www.freedanload.com###shortcodes-ultimate-2
 yasbooks.com##tr:nth-of-type(2) > td > table > tbody > tr > td:nth-of-type(1) > table:nth-of-type(2)
@@ -542,6 +543,7 @@ zima.ir##.overlayDiv
 ||favanews.com/wp-content/uploads/*/*/logo*.png$image
 ||fera.ir/fera/ads/$image
 ||film2movie.biz/content/uploads/*.gif$image
+||foxpush.net^
 ||freescript.ir/wp-content/uploads/*/*/*.gif$image
 ||funpatogh.com/images/$image
 ||game-island.ir/wp-content/uploads/insta.jpg$image
@@ -599,6 +601,7 @@ zima.ir##.overlayDiv
 ||japanmusic.ir/free-upload/$image
 ||javanmobile.com/wp-content/uploads/*/*/*.gif$image
 ||jozveha.com/wp-content/uploads/*/*/*.gif$image
+||js.foxpush.com^
 ||kalakamuz.ir/wp-content/uploads/*.gif$image
 ||kalakamuz.ir/wp-content/uploads/ad*$image
 ||ketabesabz.com/images/banner/
