@@ -133,6 +133,8 @@ computeruser.ir/wp-content/uploads/sites/*/*/*/*banner*$image
 cooldownload.ir##.post-ads.box
 ctelegram.com###a0cd69f14fc3c8ee3dae66738251af5de
 dabi.ir##.Js_Div5
+darunama.com###BannerD
+darunama.com##.LongAdvertise
 developer1.ir##.left-advertise-panel
 dezfun.com###fade
 dezfun.com###light
@@ -502,6 +504,7 @@ zima.ir##.overlayDiv
 ||dabi.ir/ScriptResource.axd?*
 ||dabi.ir/Upload/*/130x200*$image
 ||dabi.ir/Upload/StaticBanners/$image
+||darunama.com/Images/MasterPage/donateMain.jpg$image
 ||delbaraneh.com/Niazweb.jpg$image
 ||developer1.ir//Pic/ADS%20Banner/$image
 ||developer1.ir/Pic/ADS*$image
