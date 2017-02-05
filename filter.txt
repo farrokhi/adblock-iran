@@ -170,6 +170,8 @@ farsnews.com##.col-md-2.ads-tile
 farsnews.com##.container > .mainframe > .hidden-xs.pull-right.col-lg-4.col-md-4.col-sm-3.leftcolumn > .col-lg-5.col-md-5.hidden-sm.adscolumn > .advertisement
 farsroid.com##.col.post-sabet:nth-of-type(2)
 farsroid.com##.row.post-sabets:nth-of-type(1)
+fibazar.ir##.kornertabligh
+fibazar.ir##[class*="-tblg-"]
 film2movie.biz##.middle > .right-main > .main > .box:nth-of-type(3)
 freegames.ir##.sidebar-box:nth-of-type(1)
 freegames.ir##.sidebar-box:nth-of-type(2)
@@ -537,11 +539,13 @@ zima.ir##.overlayDiv
 ||faraztteb.com/userfiles/wack%20ur%20ex.jpg$image
 ||farnet.ir/*/*/*-300-x-100-*$image
 ||farsroid.com/wp-content/uploads/*-400x391*$image
+||farstoon.com/cartoons/2015/*.gif$image
 ||fastclick.click/Content/campaigns/$image
 ||favanews.com/other/*$object
 ||favanews.com/other/*.gif
 ||favanews.com/wp-content/uploads/*/*/logo*.png$image
 ||fera.ir/fera/ads/$image
+||fibazar.ir/uploads/ad*$image
 ||film2movie.biz/content/uploads/*.gif$image
 ||foxpush.net^
 ||freescript.ir/wp-content/uploads/*/*/*.gif$image
