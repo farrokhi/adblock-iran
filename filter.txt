@@ -135,6 +135,8 @@ ctelegram.com###a0cd69f14fc3c8ee3dae66738251af5de
 dabi.ir##.Js_Div5
 darunama.com###BannerD
 darunama.com##.LongAdvertise
+delbaraneh.com###SenBackLoginBox
+delbaraneh.com###SenCodeLoginBox
 developer1.ir##.left-advertise-panel
 dezfun.com###fade
 dezfun.com###light
@@ -256,6 +258,7 @@ kalakamuz.ir##.black.row.box:nth-of-type(8)
 kalakamuz.ir##.middle.inner-el.container > .row.box
 kalakamuz.ir##.row.box:nth-of-type(9)
 ketabnak.com##.featherlight
+khabarduni.ir##[id^="nex1network"]
 khabarfarsi.com###banners_120_top
 khabarfarsi.com###banners_300_top
 khabarfarsi.com###block-block-10
@@ -303,6 +306,11 @@ namnak.com##aside:nth-of-type(2)
 new4android.ir##body > div:nth-of-type(3) > .external
 nextholiday.ir##.carousel-inner
 nikcharge.net##.kadr
+niksalehi.com##.banner_sid_desktop
+niksalehi.com##.block_box_threee
+niksalehi.com##.block_Special_look
+niksalehi.com##.div_banner
+ninjagram.ir###ti_box
 noda.ir##.header-right
 omidiraniannewspaper.ir###\34 6
 omidiraniannewspaper.ir###\35 0
@@ -346,6 +354,7 @@ persianv.com##.wrapper2:nth-of-type(8)
 persianv.com##a[href^="http://panel.persianv.com/counter/click.php"]
 pesedit.ir##a[href="http://www.pesedit.ir/ads/index.html"]
 plus.ir##.advBanner.text-center
+rasane241.com###LiteBoxWindow
 readbook.ir##td:nth-of-type(1) > .sidebar-right:nth-of-type(1)
 rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(1)
 rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(2)
@@ -528,6 +537,7 @@ zima.ir##.overlayDiv
 ||eghtesadnews.com/serve/*.gif$image
 ||eghtesadonline.com/serve/*/*/$image
 ||elmefarda.com/wp-content/uploads/*/*/ad*$image
+||emeg.ir/theme/img/Ad*$image
 ||ensafnews.com/wp-content/uploads/*/*/*.gif$image
 ||estekhtam.com/wp-content/uploads/*/*/*.gif$image
 ||estekhtam.com/wp-content/uploads/2016/11/estekhtam*.jpg
@@ -591,6 +601,7 @@ zima.ir##.overlayDiv
 ||iranjib.ir/uploads/*.gif$image
 ||iranjib.ir/uploads/*.swf$object
 ||irannaz.com/ax/$image
+||iranpars1.in/banners/$image
 ||iranrada.com/wp-content/uploads/*/*/*.gif$image
 ||irebooks.com/wp-content/uploads/*/*/*-*x*.*$image
 ||irexpert.ir/Webforms/Default/a/$image
@@ -617,6 +628,8 @@ zima.ir##.overlayDiv
 ||khabarlendeh.ir/sites/default/files/fullimages/
 ||khabarpu.com/img/banner/$image
 ||khf.nz/cdn/farfuture/$image
+||kimexa.com^$popup
+||koidt1wn.bid^
 ||lahzeakhar.com/images/rightBanners/*.gif
 ||lahzeakhar.com/images/Slider/
 ||lahzeakhar.com/images/topRotator/*.gif
@@ -681,6 +694,7 @@ zima.ir##.overlayDiv
 ||pgnews.ir/uploads/banners/
 ||picofile.com/file/*/*.gif$image
 ||pishkhaan.net/pishkhaanads/$image
+||popbox.skinak.ir^
 ||r.hitplus.ir^$popup
 ||rahnama.com/pub/img/SiteAdvert/
 ||rokna.ir/serve/*/*/*.gif$image
@@ -718,6 +732,7 @@ zima.ir##.overlayDiv
 ||static0.rokna.ir/serve/*/*/*.gif$image
 ||taktemp.com/wp-content/uploads/*/*/*.gif
 ||talab.ir/wp-content/uploads/baner/2/$image
+||talarekhabar.com/wp-content/uploads/*/*/banner*$image
 ||tarafdari.com/sites/all/themes/hope/images/advertise/
 ||taya.ir/uploads/General/*.gif
 ||techmix.ir/wp-content/uploads/*/*/*.gif$image
@@ -740,6 +755,7 @@ zima.ir##.overlayDiv
 ||uupload.ir/files/*.gif
 ||vbiran.ir/uploads/hit_*.png
 ||webii.ir/Images/*banner/$image
+||weblogmaster.com/link-v3/*
 ||wetravel.ir/wp-content/uploads/*/*/*.gif
 ||widgets.takhfifan.com/pics/$image
 ||wimaxnews.ir/images/main/null.gif$image
