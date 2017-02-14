@@ -195,6 +195,8 @@ graphiran.com##center:nth-of-type(2) > a[href="http://filestore.graphiran.com/"]
 gsm.ir##.a_gsm_d
 hadana.ir##.ulp-content
 hadana.ir##[id^="ulp-"]
+hamgardi.com###PlaceHolderDivMainContent_MainContent_MainContent_HamgardiInnerPageDetailView_InnerPageTop_twoBoxes
+hamgardi.com##.web_crawler.row-fluid
 harimeasmani.ir##[style="position:fixed;left:1px;bottom:1px;width:122px;border:1px solid #C0C0C0;z-index:9999999999;background-color:white;direction:ltr;"]
 harmonydl.info##.q46
 hastidl.org###skinak_ads_bottom_left_125
@@ -575,6 +577,7 @@ zima.ir##.overlayDiv
 ||graphiran.com/wp-content/uploads/*/*/filestore*$image
 ||haftfilm.top/wp-content/uploads/*/*/*.gif
 ||halftime.ir/images/*.gif$image
+||hamgardi.com/HamgardiImages/HamgardiAds/$image
 ||harmonydl.info/wp-content/themes/harmony1.11/js/popup1.js
 ||harmonydl.info/wp-content/uploads/*/*/banner*$image
 ||hastidl.org/wp-content/uploads/*.gif$image
