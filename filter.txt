@@ -247,6 +247,8 @@ itresan.com###fsml_ff
 itresan.com##.ADTUBE
 jamnews.ir###AdvertsHolderWI_1041 > .Adverts
 japanmusic.ir##.banerri
+jazzaab.ir##.CBS.TopAdssss
+jazzaab.ir##.Tadsb2
 joke4u.ir###SenBackLoginBox
 jozveha.com##.main-sidebar.sidebar
 jozveha.com##.main-sidebar.sidebar > .widget_text.widget:nth-of-type(2)
@@ -404,6 +406,11 @@ tafrihi.com###fade
 tafrihi.com##.affilate
 tafsir-news.ir##.section-box
 tafsir-news.ir##[id^="ADFloat"]
+taknaz.net###ads-goshe2
+taknaz.net##.leftads
+taknaz.net##.Rads120
+taknaz.net##.Radssssss.smt.Bstyle.CBC > .topadvers
+taknaz.net##.topadvers
 takro.net##.col-sm-pull-9.col-sm-3 > .panel-primary.panel:nth-of-type(2)
 takro.net##.panel-primary.panel:nth-of-type(3)
 takro.net##.panel-primary.panel:nth-of-type(4)
@@ -621,6 +628,7 @@ zima.ir##.overlayDiv
 ||jahansite.com/wp-content/uploads/*/*/*.gif
 ||japanmusic.ir/free-upload/$image
 ||javanmobile.com/wp-content/uploads/*/*/*.gif$image
+||jazzaab.ir/baner/$image
 ||jozveha.com/wp-content/uploads/*/*/*.gif$image
 ||js.foxpush.com^
 ||kalakamuz.ir/wp-content/uploads/*.gif$image
@@ -733,6 +741,8 @@ zima.ir##.overlayDiv
 ||static-cdn.anetwork.ir/aw/*
 ||static.nextads.ir/script/*
 ||static0.rokna.ir/serve/*/*/*.gif$image
+||taknaz.net/taknaz/pish2.php$subdocument
+||taknaz.net/taknaz/test.php$subdocument
 ||taktemp.com/wp-content/uploads/*/*/*.gif
 ||talab.ir/wp-content/uploads/baner/2/$image
 ||talarekhabar.com/wp-content/uploads/*/*/banner*$image
