@@ -166,7 +166,10 @@ estekhtam.com###text-2
 estekhtam.com###text-9
 faaltarin.com##body > div:nth-of-type(2) > div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(3)
 faradeed.ir##.hidden-xs.hidden-ms.hidden-sm.col-md-4.col-lg-5 > .padding_r2
+fararu.com###mgbox-articles
+fararu.com##.box
 fararu.com##.cont_main_txtadv
+fararu.com##.hidden-xs.hidden-ms.hidden-sm.logo_adv2
 fararu.com##.txt_adv_container
 fararu.com##[class^="cont_adv_row"]
 farsnews.com##.advertisement
@@ -664,6 +667,7 @@ zima.ir##.overlayDiv
 ||mstiran.com/resource/javascripts/jquery.fancybox.pack.js
 ||multisearch.ir/file/banner/
 ||mygame.ir/image/*.gif$image
+||mygearbox.com/static/media/upload/CACHE/images/$image
 ||myiranfilm.ir/wp-content/uploads/*/*/*.gif$image
 ||naghola.com/tabligh*/$image
 ||namakstan.ir/wp-content/uploads/2016/11/unnamed.jpg$image
