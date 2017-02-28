@@ -16,6 +16,7 @@
 ###takhfifan-widget
 ###Topadver
 ##.active.visible.transition.page.modals.dimmer.ui
+##.ads
 ##.ads-head
 ##.adsblockpop
 ##.adsssss
@@ -76,6 +77,8 @@ alamto.com##.posts.box_outer:nth-of-type(7) > .widget
 amadnews.com##.aas_wrapper
 amadnews.com##.aas_zone
 amazing.ir###main > .header > .nav-adsmb:nth-of-type(3)
+amazing.ir##.ads-box
+amazing.ir##p:nth-of-type(2) > a[href^="/counter/click.php"]
 androidha.com###container > .banners.litebox
 androidha.com##.app-inside-post
 androidha.com##a[href^="http://www.eligasht.com/"]
@@ -101,6 +104,9 @@ beytoote.com###innerbottom > .grid-v.width100.grid-box:nth-of-type(2) > .deepest
 beytoote.com###innerbottom > .grid-v.width100.grid-box:nth-of-type(3) > .deepest.module > .color-color.bannergroupstyle-body > .banneritem
 beytoote.com###innerbottom > .grid-v.width100.grid-box:nth-of-type(4)
 beytoote.com###sidebar-b > .grid-v.width100.grid-box:nth-of-type(3) > .deepest.module > .color-color.bannergroupstyle-body
+beytoote.com##.ads-btn1
+beytoote.com##.bannergroupstyle-body
+beytoote.com##.bfakh
 beytoote.com##.grid-h.width100.grid-box > .deepest.module > .bannergroup
 beytoote.com##.grid-v.width100.grid-box:nth-of-type(1) > .deepest.module > .color-color.bannergroupstyle-body
 beytoote.com##.slides
@@ -182,6 +188,7 @@ film2movie.biz##.middle > .right-main > .main > .box:nth-of-type(3)
 freegames.ir##.sidebar-box:nth-of-type(1)
 freegames.ir##.sidebar-box:nth-of-type(2)
 freegames.ir##.sidebar-box:nth-of-type(5)
+gamefa.com##.adword-main
 gamelive.ir##.left-sidbar > .box-sidbar:nth-of-type(3)
 gamesib.ir###next1-231
 gamesib.ir##.asd_top.abasi_org.box_sh
@@ -283,6 +290,8 @@ lahzeakhar.com##.tbadss
 lasttours.net##.map
 lineblog.ir##[class^="adsblog"]
 lineblog.ir##[id^="ads"]
+linemovie.biz##.ads-ronakweb
+linemovie.biz##.category9
 manidl.ir###\33 4591733458887cfbe640d
 marde-rooz.com##.column-2.columns.entries.grid-4
 mazandmajles.ir##.ad
@@ -312,10 +321,13 @@ namnak.com##aside:nth-of-type(2)
 new4android.ir##body > div:nth-of-type(3) > .external
 nextholiday.ir##.carousel-inner
 nikcharge.net##.kadr
+niksalehi.com##.banner_content
 niksalehi.com##.banner_sid_desktop
 niksalehi.com##.block_box_threee
 niksalehi.com##.block_Special_look
 niksalehi.com##.div_banner
+niksalehi.com##.web_box
+niksalehi.com##DIV[style="text-align: justify; direction: rtl; padding: 5px 25px;overflow: hidden;margin-bottom: 3px;"]
 ninjagram.ir###ti_box
 noda.ir##.header-right
 omidiraniannewspaper.ir###\34 6
@@ -423,6 +435,11 @@ taktemp.com##.topbanners
 tarafdari.com##.clearfix.view-mode-full.node-news.node.node-592490.node-content > .advertise:nth-of-type(6)
 taya.ir###custompagetext > .advertisement-box
 tebyan.net##.theiaStickySidebar
+tehmovies.me##.adsbanner
+tehmovies.me##.entry:nth-of-type(1)
+tehmovies.me##.entry:nth-of-type(2)
+tehmovies.me##.entry:nth-of-type(3)
+tehmovies.me##.litebox
 tickonline.ir##.widget-right:nth-of-type(6)
 tigatravel.com##.fade
 tigatravel.com##.popup_block
@@ -466,6 +483,8 @@ zima.ir##.overlayDiv
 ||ad.utop.ir/b/$image
 ||adnegah.net/*.js
 ||adnegah.net/cpx/*$subdocument
+||afkarnews.ir/serve/*/*/*.gif$image
+||afkarnews.ir/serve/*/*/*.jpg$image
 ||aftabir.com/campaigns/adv_images/
 ||agahiweb.com/uploads/*-468.gif$image
 ||akhbar-rooz.com/user/albums/*/*.gif$image
@@ -544,6 +563,7 @@ zima.ir##.overlayDiv
 ||download.ir/wp-content/uploads/*/*/ads*$image
 ||downloadha.com/shop/sabavision*$image
 ||dubai-land.ir/images/ad*.gif
+||e.weclick.ir/display/pre/$subdocument
 ||eghtesadnews.com/serve/$image
 ||eghtesadnews.com/serve/*.gif$image
 ||eghtesadonline.com/serve/*/*/$image
@@ -683,6 +703,7 @@ zima.ir##.overlayDiv
 ||p30download.com/agahi/
 ||p30download.com/tabliq
 ||p30rank.ir/bannervip.php?*
+||p30rank.ir^
 ||p30skill.ir/wp-content/uploads/*/*/ModelingShop2.jpg$image
 ||p30skill.ir/wp-content/uploads/Alert1.jpg$image
 ||p30world.com/wp/wp-content/uploads/*/*/*.gif$image
@@ -694,6 +715,7 @@ zima.ir##.overlayDiv
 ||parsgreen.com/ProjectData/Campain/Banner/$image
 ||parsipet.ir/images/icons/myicons/*.gif
 ||parsipet.ir/uploads/*.gif
+||parsnews.com/serve/*/*/*.gif$image
 ||parstools.com/redportal/images/*ads*$image
 ||parstv.tv/wp-content/uploads/2016/07/Farahani.jpg$image
 ||parstv.tv/wp-content/uploads/2016/07/JEFf-2.jpg$image
@@ -709,6 +731,7 @@ zima.ir##.overlayDiv
 ||picofile.com/file/*/*.gif$image
 ||pishkhaan.net/pishkhaanads/$image
 ||popbox.skinak.ir^
+||popupme.net/Scripts/*
 ||r.hitplus.ir^$popup
 ||rahnama.com/pub/img/SiteAdvert/
 ||rokna.ir/serve/*/*/*.gif$image
@@ -753,6 +776,8 @@ zima.ir##.overlayDiv
 ||taya.ir/uploads/General/*.gif
 ||techmix.ir/wp-content/uploads/*/*/*.gif$image
 ||techmix.ir/wp-content/uploads/2016/10/book.jpg$image
+||tehmovies.me/wp-content/uploads/*/*/*.gif$image
+||tehmovies.me/wp-content/uploads/2017/02/500x500*$image
 ||telegram-channels.ir/wp-content/uploads/*/*/*adv*$image
 ||tooptarinha.com/uploads/ads-new/$image
 ||top2download.com/wp-content/uploads/*/*/*.gif$image
