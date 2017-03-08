@@ -95,6 +95,7 @@ barmandownload.ir##.content > .left-menu > .block-content:nth-of-type(1)
 barmandownload.ir##.content > .right-menu > .block-content:nth-of-type(1)
 bartarina.com##[id^="ads_bottom"]
 bartarinha.ir##.padd_home_r.col-md-6
+baznashr24.com##.ads
 berooznet.com##.ad_bet
 beytoote.com###adsx
 beytoote.com###headerbar > div:nth-of-type(1) > div > .deepest.module > div
@@ -161,6 +162,7 @@ downloadkral.com##a[href^="http://store.downloadkral.com/product.php"]
 downloadsoftware.ir##.boxadstext_side
 downloadsoftware.ir##.hidden-xs.ads656
 dustaan.com##.wp-image-66603.size-full.aligncenter
+econews.com##.advertise-place
 eghtesadnews.com##.propaganda
 eghtesadnews.com##a[href^="/advertisements/"]
 entekhab.ir##.col-xs-36.attention
@@ -175,6 +177,7 @@ fararu.com##.box
 fararu.com##.cont_main_txtadv
 fararu.com##.hidden-xs.hidden-ms.hidden-sm.logo_adv2
 fararu.com##.txt_adv_container
+fararu.com##.webgardi_adv
 fararu.com##[class^="cont_adv_row"]
 farsnews.com##.advertisement
 farsnews.com##.col-md-2.ads-tile
@@ -217,6 +220,8 @@ hastidownload.biz##a[href^="http://www.takhfifan.com/"]
 hastidownload.biz##a[href^="https://www.digikala.com/Search/"]
 hastidownload.biz##a[href^="https://www.modiseh.com/"]
 hastidownload.biz##p:nth-of-type(2) > a[href^="http://www.takhfifan.com/mug"]
+hastidownload.co##.decoded
+hastidownload.co##.litebox
 hidoctor.ir##.pdslanbox
 himler.net##.secondary-sidebar.sidebar > .widget_text.widget
 hotnaz.com###tabligheirani_ads_bottom_right_121
@@ -318,6 +323,7 @@ namakstan.ir###main > .container > .main-content > .post > .topads1:nth-of-type(
 namakstan.ir##.topads1
 namnak.com##aside:nth-of-type(2)
 new4android.ir##body > div:nth-of-type(3) > .external
+news-bazar.com##.ads
 nextholiday.ir##.carousel-inner
 nikcharge.net##.kadr
 niksalehi.com##.banner_content
@@ -563,6 +569,9 @@ zima.ir##.overlayDiv
 ||downloadha.com/shop/sabavision*$image
 ||dubai-land.ir/images/ad*.gif
 ||e.weclick.ir/display/pre/$subdocument
+||econews.com/files/images/*.gif$image
+||econews.com/files/images/bank*$image
+||econews.com/files/images/econews*$image
 ||eghtesadnews.com/serve/$image
 ||eghtesadnews.com/serve/*.gif$image
 ||eghtesadonline.com/serve/*/*/$image
@@ -620,6 +629,7 @@ zima.ir##.overlayDiv
 ||ilna.ir/serve/*/*/*$object
 ||image.hastidownload.biz/img/Linux-iran.jpg$image
 ||image.hastidownload.biz/img/tya.gif$image
+||image.hastidownload.co/img/ad*$image
 ||images.khabaronline.ir/system/menus/*/*
 ||img.bisms.ir//2016/10/426023421_5668.jpg
 ||img.bisms.ir//2016/10/nose-up-1.jpg
@@ -691,6 +701,7 @@ zima.ir##.overlayDiv
 ||namakstan.ir/wp-content/uploads/2016/11/unnamed.jpg$image
 ||namnak.com/users/shop/files/*.gif$image
 ||new4android.ir/wp-content/uploads/*/*/*.gif$image
+||news-bazar.com/Styles/Banner/$image
 ||newsair.ir/wp-content/uploads/*/*/*.gif$image
 ||newsair.ir/wp-content/uploads/*/*/banner*$image
 ||nex1network.com/*$subdocument
