@@ -349,7 +349,6 @@ omidiraniannewspaper.ir###\35 0
 omidnameh.com###ads
 p30download.com###content > div
 p30download.com###main-content > .tabliq-468:nth-of-type(2)
-p30download.com##.post
 p30download.com##.tabliq-468:nth-of-type(9)
 p30download.com##.text-tabliq
 p30download.com##[class^="tabliq-"]
