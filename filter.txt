@@ -1,5 +1,13 @@
 [Adblock Plus 2.0]
-! Checksum: G4oTUcZKEqQJtk2FLXFZPg
+! Checksum: 1ZcISFd2c9oW/Fg7bkhCaQ
+! 
+! Ad blocking rules for iranian/persian websites.
+! 
+! Title :    Adblock-Iran
+! Download : https://raw.githubusercontent.com/farrokhi/adblock-iran/master/filter.txt
+! Homepage:  https://github.com/farrokhi/adblock-iran
+! Support:   https://github.com/farrokhi/adblock-iran/issues 
+!
 ###adnFloatbr
 ###adpress_widget-2
 ###ads468
@@ -533,6 +541,7 @@ zima.ir##.overlayDiv
 ||boyernews.com/wp-content/uploads/trh1.png$image
 ||buzdid.ir/images/*banner*.png
 ||camp.sabavision.com/*$subdocument
+||campec.ir/code/popup$domain=campec.ir
 ||cartel.ir/img/tiny2.png
 ||cccamiran.net/images/*.gif$image
 ||cdn.gsm.ir/static/files/image/*/*/*/*.gif
@@ -647,6 +656,8 @@ zima.ir##.overlayDiv
 ||iranrada.com/wp-content/uploads/*/*/*.gif$image
 ||irebooks.com/wp-content/uploads/*/*/*-*x*.*$image
 ||irexpert.ir/Webforms/Default/a/$image
+||irpopup.ir/go.php?*$popup
+||irpopup.ir/show.php?*
 ||islamquest.net/templates/islamquest_temp/images/$image
 ||itbazar.com/UploadFiles/*.gif
 ||itgheymat.com/uploadFiles/*.gif$image
