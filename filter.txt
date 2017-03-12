@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: CMiCjlomdWV/90ypxP0qAw
+! Checksum: EN7TrH8q5l0ODJ9hyi5OXA
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -93,6 +93,7 @@ androidha.com##a[href^="http://www.eligasht.com/"]
 androidineh.com##.a-1.b-4.g-col > .border-radius.post-ads
 androidineh.com##.a-4.b-4.g-col > .border-radius.post-ads > .post-ads-content
 apktops.ir##.widgetwrap
+ariapix.net##a[href^="http://ariapix.net/click/click.php"]
 asemooni.com###text-6
 aslomid.ir###adv2
 asriran.com##.neshan_main.row
@@ -404,6 +405,7 @@ safarbaba.com##.hobab_msg
 sarzaminbazi.com###html_javascript_adder-7
 sarzamindownload.com##.GSLeftSide.col-lg-3.col-md-3.col-sm-12.col-xs-12 > .widget_style_funcs.GSBlock:nth-of-type(4) > div > .GSblock
 sarzamindownload.com##.widget_style_funcs.GSBlock:nth-of-type(1) > div
+saten.ir###mgbox-articles
 saten.ir###text-22
 seemorgh.com##.ads-all-spe.otherseemorgh
 seemorgh.com##.container:nth-of-type(4) > .middle-banner.row
@@ -557,6 +559,7 @@ zima.ir##.overlayDiv
 ||dabi.ir/ScriptResource.axd?*
 ||dabi.ir/Upload/*/130x200*$image
 ||dabi.ir/Upload/StaticBanners/$image
+||dande6.com/wp-content/uploads/*/*/*.gif$image
 ||darunama.com/Images/MasterPage/donateMain.jpg$image
 ||delbaraneh.com/Niazweb.jpg$image
 ||developer1.ir//Pic/ADS%20Banner/$image
