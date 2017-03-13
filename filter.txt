@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: EN7TrH8q5l0ODJ9hyi5OXA
+! Checksum: xmzp63ZltZyABwSQWWItfg
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -147,6 +147,7 @@ computeruser.ir###spu-bg-5649
 computeruser.ir/wp-content/uploads/sites/*/*/*/*banner*$image
 cooldownload.ir##.post-ads.box
 ctelegram.com###a0cd69f14fc3c8ee3dae66738251af5de
+cup.ir##.advWrapper
 dabi.ir##.Js_Div5
 darunama.com###BannerD
 darunama.com##.LongAdvertise
@@ -208,6 +209,7 @@ gamesib.ir##[id*="next1-*"]
 gardesh.info###SenBackLoginBox
 ghasreshayan.com###snppopup-welcome
 ghasreshayan.com##.snp-pop-9485-overlay.fancybox-overlay
+ghatreh.com##.ads
 gooya.com###AutoNumber1
 gooyait.com##.widget.widget_text
 graphiran.com##.textadsa1
@@ -240,6 +242,7 @@ icoff.ee##[id^="sow-image-"]
 ictna.ir###sidebar > .clearfix.sidebar-header-ad
 ictna.ir###sidebar > .margint10.clearfix.squer.sidebar-footer-ad
 ictna.ir##.content-right-ad
+imovie-dl.org###banners_index
 ir###adnFloatbl
 ir##.sidebar-box.Ads-Text
 ir##[id^="anetwork-"]
@@ -371,6 +374,8 @@ parsnaz.ir##.leftads.Bstyle.LBC:nth-of-type(1)
 parsnaz.ir##.Res001.Bstyle.RBC
 parsnaz.ir##.Res003.Bstyle.RBC
 parsnaz.ir##DIV[style="position: fixed;z-index: 99997;width:128px;height:270px;border: 2px solid #ddd;background-color: #ddd;bottom: 0; right: 5px;"]
+parsnews.com##.type-script
+parsnews.com##IFRAME[src="/anetwork250.htm"]
 parstv.tv##.image-container
 patoghu.com##.top-tabligh
 peransis.xyz###LiteBoxBackground
@@ -483,6 +488,7 @@ zima.ir##.overlayDiv
 ||//static.clix.ir/*
 ||1000charge.com/gifbanner/
 ||1000site.ir/asset/media/banner/
+||1fardadownload.net/wp-content/uploads/*/*/payamgps*$image
 ||1pezeshk.com/wp-content/uploads/*/*/*.gif$image
 ||20script.com/banner/$image
 ||20tayi.ir/wp-content/uploads/1.png$image
@@ -647,6 +653,7 @@ zima.ir##.overlayDiv
 ||img.bisms.ir//2016/10/nose-up-1.jpg
 ||img.soft98.ir/*.gif$image
 ||img7.ir/*.gif$image
+||imovie-dl.org/upload/banner*$image
 ||iranefarda.wpengine.netdna-cdn.com/wp-content/themes/jarida/images/*.gif
 ||iranefarda.wpengine.netdna-cdn.com/wp-content/themes/jarida/images/ad*
 ||iraniandog.com/iss/$image
@@ -818,6 +825,7 @@ zima.ir##.overlayDiv
 ||up.sibgraph.ir/up/admin-sibgraph/sibgraph/theme/Images/*.gif$image
 ||up.skinak.ir/up/skinak/temps/forum/v3/images/bg.jpg$image
 ||uupload.ir/files/*.gif
+||varzesh3.com/v3/static/img/banner/$image
 ||vbiran.ir/uploads/hit_*.png
 ||webii.ir/Images/*banner/$image
 ||weblogmaster.com/link-v3/*
