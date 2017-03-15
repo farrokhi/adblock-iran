@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: OOOxtcmhyU8fIiS4rkHMhA
+! Checksum: tBQVKC+6icrM4SmLj3QvaA
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -190,6 +190,7 @@ fararu.com##.hidden-xs.hidden-ms.hidden-sm.logo_adv2
 fararu.com##.txt_adv_container
 fararu.com##.webgardi_adv
 fararu.com##[class^="cont_adv_row"]
+fardanews.com##.mgb-related
 farsnews.com##.advertisement
 farsnews.com##.col-md-2.ads-tile
 farsnews.com##.container > .mainframe > .hidden-xs.pull-right.col-lg-4.col-md-4.col-sm-3.leftcolumn > .col-lg-5.col-md-5.hidden-sm.adscolumn > .advertisement
@@ -334,6 +335,8 @@ myfablog.ir##[style="position:absolute;left:1;top:1;width:122;border:1px solid #
 naghola.com###header_down > table:nth-of-type(3) > tbody
 namakstan.ir###main > .container > .main-content > .post > .topads1:nth-of-type(3)
 namakstan.ir##.topads1
+namnak.com###adsarea
+namnak.com##.weblinks
 namnak.com##aside:nth-of-type(2)
 new4android.ir##body > div:nth-of-type(3) > .external
 news-bazar.com##.ads
