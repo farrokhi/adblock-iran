@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Oolj8f5hPheipT35kWU51w
+! Checksum: 27eq4M8B5UUN+aIpjajvhQ
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -394,6 +394,7 @@ rouzegar.com##.sidebar-left > .ads.sidebar-box:nth-of-type(1)
 rouzegar.com##.sidebar-right > .ads.sidebar-box
 rozblog.com##.content-ads:nth-of-type(1) > .content-ads-bg
 rozblog.com##[style="position:fixed;left:1px;bottom:1px;width:122px;border:1px solid #C0C0C0;z-index:9999999999;background-color:white;direction:ltr;"]
+saat24.com##.box.ads
 safarbaba.com##.hobab_msg
 sarzaminbazi.com###html_javascript_adder-7
 sarzamindownload.com##.GSLeftSide.col-lg-3.col-md-3.col-sm-12.col-xs-12 > .widget_style_funcs.GSBlock:nth-of-type(4) > div > .GSblock
@@ -471,9 +472,7 @@ yasdl.com##p:nth-of-type(3) > a[href="http://www.payam-resan.com/"]
 yasdl.com##p:nth-of-type(5) > a[href="http://mahoot-leather.ir/"]
 zima.ir##.newslleterPop
 zima.ir##.overlayDiv
-||imovie-dl.org/upload/banner
 ||*.adnegah.net/$subdocument
-||static.clix.ir/
 ||1000charge.com/gifbanner/
 ||1000site.ir/asset/media/banner/
 ||1fardadownload.net/wp-content/uploads/*/*/payamgps
@@ -636,6 +635,7 @@ zima.ir##.overlayDiv
 ||img.bisms.ir//2016/10/nose-up-1.jpg
 ||img.soft98.ir/*.gif$image
 ||img7.ir/*.gif$image
+||imovie-dl.org/upload/banner
 ||iranefarda.wpengine.netdna-cdn.com/wp-content/themes/jarida/images/*.gif
 ||iranefarda.wpengine.netdna-cdn.com/wp-content/themes/jarida/images/ad
 ||iraniandog.com/iss/$image
@@ -733,6 +733,7 @@ zima.ir##.overlayDiv
 ||parstv.tv/wp-content/uploads/2016/09/web-solution_00128.jpg$image
 ||persiangig.com/preview/SMSh7sPQoP/accfile.jpg$image
 ||persianpet.org/s-img/
+||persiantools.net/*/ads/
 ||persiantools.net/banners/$image
 ||persianv.com/random*/$subdocument
 ||pgnews.ir/uploads/*.gif
@@ -753,6 +754,8 @@ zima.ir##.overlayDiv
 ||rozup.ir/up/asa-game/pars-design/banner/
 ||s.hitplus.ir^
 ||s3-us-west-2.amazonaws.com/iranefarda/00test/$image
+||saat24.com/d/*/*/*/*/*.gif
+||saat24.com/d/2016/08/29/0/328182.jpg
 ||sabavision.com/$subdocument
 ||sabavision.com/public//public/user_data/user_banner/$image
 ||safarbaba.com/uploads/*/*/gif/*.gif
@@ -774,7 +777,9 @@ zima.ir##.overlayDiv
 ||softsaaz.ir/wp-content/uploads/Ad
 ||softsaaz.ir/wp-content/uploads/ban
 ||static-cdn.anetwork.ir/aw/
+||static.clix.ir/
 ||static.nextads.ir/script/
+||tableaumag.com/wp-content/uploads/sites/*/*banner
 ||taknaz.net/taknaz/pish2.php$subdocument
 ||taknaz.net/taknaz/test.php$subdocument
 ||taktemp.com/wp-content/uploads/*/*/*.gif
