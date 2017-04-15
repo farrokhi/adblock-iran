@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: FEBrW8CB79FTP2whwFIeWg
+! Checksum: rthlelQ7Ksh6B9ls25P6bA
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -600,7 +600,6 @@ zima.ir##.overlayDiv
 ||farstoon.com/cartoons/2015/*.gif$image
 ||fastclick.click/Content/campaigns/$image
 ||favanews.com/other/$object
-||favanews.com/other/*.gif
 ||favanews.com/wp-content/uploads/*/*/logo*.png$image
 ||fera.ir/fera/ads/$image
 ||fibazar.ir/uploads/ad
@@ -771,8 +770,6 @@ zima.ir##.overlayDiv
 ||sena.ir/Upload/PicGallery/Adver/$object
 ||shahrekhabar.com/swf/
 ||shopkeeper.ir/images/*.gif$image
-||shopkeeper.ir/images/np460.gif
-||shopkeeper.ir/images/shatel.gif
 ||shoptou.in/
 ||simcart.com/a/$image
 ||softgozar.com/Image/SiteAde/$image
@@ -782,7 +779,6 @@ zima.ir##.overlayDiv
 ||softsaaz.ir/wp-content/uploads/ban
 ||static-cdn.anetwork.ir/aw/
 ||static.clix.ir/
-||static.nextads.ir/script/
 ||tableaumag.com/wp-content/uploads/sites/*/*banner
 ||taknaz.net/taknaz/pish2.php$subdocument
 ||taknaz.net/taknaz/test.php$subdocument
