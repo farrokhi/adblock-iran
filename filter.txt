@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 27eq4M8B5UUN+aIpjajvhQ
+! Checksum: FEBrW8CB79FTP2whwFIeWg
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -53,6 +53,7 @@
 ##.txtadsbox
 ##.vatanclick
 ##.widget_banner_ads
+##[id^="ml-webforms-popup"]
 ##a[href^="http://www.alamto.com/ads/click.php"]
 .ir/ads/
 .ir/banner/
@@ -73,6 +74,9 @@
 3pide.ir###col-1:nth-of-type(1)
 4dah.ir##.wrap > .warpper > .head2-ads
 abipic.com###radsfix
+afkarnews.ir##.type-resource-swf.type-resource
+afkarnews.ir##IFRAME[src*="adtube"]
+afkarnews.ir##IFRAME[src*="anetwork"]
 aftabeyazd.ir##div:nth-of-type(7) > div:nth-of-type(4)
 aftabir.com##.sidebar-fixed > .block
 aftabnews.ir##.adv_l_inner5
