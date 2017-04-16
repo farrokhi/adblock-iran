@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: rthlelQ7Ksh6B9ls25P6bA
+! Checksum: bkSuSUqmBHpFFAIiwgr5+w
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -457,6 +457,7 @@ tigatravel.com##.fade
 tigatravel.com##.popup_block
 top.gamesharing.ir###ulp-dwF18auU389Mlg3o
 top.gamesharing.ir###ulp-dwF18auU389Mlg3o-overlay
+topdownloadha.com##.ads.box
 topnaz.com##.adstmp
 topnaz.com##.b130ads
 topnaz.com##.bxl
@@ -544,6 +545,7 @@ zima.ir##.overlayDiv
 ||cdn.isna.ir/d/*/*/*/*/*.gif$image
 ||cdn.isna.ir/d/*/*/*/*/*.swf$object
 ||cdn.persiangig.com/preview/$image
+||chargereseller.com/img/banner/
 ||cinemakhabar.ir/Picture/*.gif
 ||cinemakhabar.ir/Picture/*.swf$object
 ||cinematicket.org/images/a-d/$image
@@ -725,6 +727,7 @@ zima.ir##.overlayDiv
 ||pardad.ir/images/site1rbHeader.png$image
 ||pardad.ir/UploadFiles/*.gif$image
 ||parsgreen.com/ProjectData/Campain/Banner/$image
+||parsiandownload.net/wp-content/themes/parsiandownload/ads/
 ||parsipet.ir/images/icons/myicons/*.gif
 ||parsipet.ir/uploads/*.gif
 ||parsnews.com/serve/*/*/*.gif$image
