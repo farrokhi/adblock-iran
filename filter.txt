@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: bkSuSUqmBHpFFAIiwgr5+w
+! Checksum: DlQQKZrsxcHsPBpVtKp3lw
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -520,6 +520,7 @@ zima.ir##.overlayDiv
 ||asrebank.ir/img/banners/
 ||avadl.biz/img/Reza/*banner
 ||axgig.com/images/*.gif
+||b-amooz.com/wp-content/uploads/*/*/hikvision.gif
 ||badigi.com/wp-content/uploads/*/*/*.gif$image
 ||banki.ir/images/stories/*/ads_*.gif$image
 ||banner.dabi.ir/Banner.aspx
@@ -584,6 +585,7 @@ zima.ir##.overlayDiv
 ||eghtesadnews.com/serve/$image
 ||eghtesadonline.com/serve/*/*/$image
 ||elmefarda.com/wp-content/uploads/*/*/ad
+||emalls.ir/files/da/
 ||emeg.ir/theme/img/Ad
 ||ensafnews.com/wp-content/uploads/*/*/*.gif$image
 ||estekhtam.com/wp-content/uploads/*/*/*.gif$image
@@ -816,6 +818,7 @@ zima.ir##.overlayDiv
 ||weblogmaster.com/link-v3/
 ||wetravel.ir/wp-content/uploads/*/*/*.gif
 ||widgets.takhfifan.com/pics/$image
+||wikihoax.org/wp-content/uploads/*/*/*.gif
 ||wimaxnews.ir/images/main/null.gif$image
 ||www.xn--mgbaab1cek0c24eck.com/images/*/*.gi
 ||yas98.ir/wp-content/uploads/*/*/*.gif
