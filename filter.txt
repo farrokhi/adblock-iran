@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: DlQQKZrsxcHsPBpVtKp3lw
+! Checksum: AwPlSqyNDO5wxj+BtUqklw
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -522,6 +522,7 @@ zima.ir##.overlayDiv
 ||axgig.com/images/*.gif
 ||b-amooz.com/wp-content/uploads/*/*/hikvision.gif
 ||badigi.com/wp-content/uploads/*/*/*.gif$image
+||banker.ir/img/banners/
 ||banki.ir/images/stories/*/ads_*.gif$image
 ||banner.dabi.ir/Banner.aspx
 ||bayanbox.ir/view/*/*.gif
@@ -751,6 +752,7 @@ zima.ir##.overlayDiv
 ||popbox.skinak.ir^
 ||popupme.net/Scripts/
 ||r.hitplus.ir^$popup
+||rade.ir/images/upload/sponser/
 ||rahnama.com/pub/img/SiteAdvert/
 ||rokna.ir/serve/*/*/*.gif$image
 ||rond.ir/Content/DomainBannerFile/$image
