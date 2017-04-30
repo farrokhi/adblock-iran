@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 7Tj8lWCmXWOVhNBGHk4lvA
+! Checksum: poBFw54MS0HpMSJs5bTdrA
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -99,12 +99,11 @@ apktops.ir##.widgetwrap
 ariapix.net##a[href^="http://ariapix.net/click/click.php"]
 asemooni.com###text-6
 aslomid.ir###adv2
-asriran.com###mgbox-articles
-asriran.com###mgbox-articles-text_style
 asriran.com##.marquee_container
-asriran.com##.neshan_main.row
-asriran.com##.rss_neshan_box
 asriran.com##.webgardi_main.row
+asriran.com##[class*="neshan_"]
+asriran.com##[class^="mgbox-"]
+asriran.com##[id^="mgbox-"]
 banki.ir###content_container > table > tbody > tr > td:nth-of-type(3)
 banki.ir##.moduletable:nth-of-type(3) > .bannergroup
 barato.ir##.ads.block
