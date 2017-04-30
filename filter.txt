@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: p1/s2X3AOIKw5pVHTTPS/A
+! Checksum: 1c2jz9L2qUL2Tn/9EiU0vw
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -101,7 +101,9 @@ asemooni.com###text-6
 aslomid.ir###adv2
 asriran.com###mgbox-articles
 asriran.com###mgbox-articles-text_style
+asriran.com##.marquee_container
 asriran.com##.neshan_main.row
+asriran.com##.rss_neshan_box
 asriran.com##.webgardi_main.row
 banki.ir###content_container > table > tbody > tr > td:nth-of-type(3)
 banki.ir##.moduletable:nth-of-type(3) > .bannergroup
@@ -177,6 +179,7 @@ dustaan.com##.wp-image-66603.size-full.aligncenter
 econews.com##.advertise-place
 eghtesadnews.com##.propaganda
 eghtesadnews.com##a[href^="/advertisements/"]
+ensafnews.com##[id^="shahba_ad-"]
 entekhab.ir##.col-xs-36.attention
 entekhab.ir##.col-xs-36.news-web
 epapers.ir##.widgetleft
@@ -185,12 +188,15 @@ estekhtam.com###text-9
 faaltarin.com##body > div:nth-of-type(2) > div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(3)
 faradeed.ir##.hidden-xs.hidden-ms.hidden-sm.col-md-4.col-lg-5 > .padding_r2
 fararu.com###mgbox-articles
+fararu.com###mgbox-articles-sidebar
 fararu.com##.box
 fararu.com##.cont_main_txtadv
 fararu.com##.hidden-xs.hidden-ms.hidden-sm.logo_adv2
 fararu.com##.txt_adv_container
 fararu.com##.webgardi_adv
 fararu.com##[class^="cont_adv_row"]
+fararu.com##[class^="text_adv"]
+fararu.com##[class^="urcm_"]
 fardanews.com##.mgb-related
 farsnews.com##.advertisement
 farsnews.com##.col-md-2.ads-tile
@@ -199,6 +205,7 @@ farsroid.com##.row.post-sabets:nth-of-type(1)
 fibazar.ir##.kornertabligh
 fibazar.ir##[class*="-tblg-"]
 film2movie.biz##.middle > .right-main > .main > .box:nth-of-type(3)
+freedanload.com###shortcodes-ultimate-2
 freegames.ir##.sidebar-box:nth-of-type(1)
 freegames.ir##.sidebar-box:nth-of-type(2)
 freegames.ir##.sidebar-box:nth-of-type(5)
@@ -242,6 +249,7 @@ icoff.ee##[id^="sow-image-"]
 ictna.ir###sidebar > .clearfix.sidebar-header-ad
 ictna.ir###sidebar > .margint10.clearfix.squer.sidebar-footer-ad
 ictna.ir##.content-right-ad
+ilna.ir###sticker
 imovie-dl.org###banners_index
 ir###adnFloatbl
 ir##.sidebar-box.Ads-Text
@@ -387,6 +395,7 @@ persianv.com##.wrapper2:nth-of-type(8)
 persianv.com##a[href^="http://panel.persianv.com/counter/click.php"]
 pesedit.ir##a[href="http://www.pesedit.ir/ads/index.html"]
 plus.ir##.advBanner.text-center
+rajanews.com##.ads
 rasane241.com###LiteBoxWindow
 readbook.ir##td:nth-of-type(1) > .sidebar-right:nth-of-type(1)
 rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(1)
@@ -472,8 +481,6 @@ wetravel.ir###myModal
 wetravel.ir##.in.fade.modal-backdrop
 wetravel.ir/wp-content/uploads/*/*/ads
 wimaxnews.ir##.Advert
-www.ensafnews.com###shahba_ad-widget-8
-www.freedanload.com###shortcodes-ultimate-2
 yasbooks.com##tr:nth-of-type(2) > td > table > tbody > tr > td:nth-of-type(1) > table:nth-of-type(2)
 yasdl.com##.post.fixed-post.row
 yasdl.com##a[href^="http://my.mihanwebhost.com/cart.php"]
@@ -544,6 +551,7 @@ zima.ir##.overlayDiv
 ||boyernews.com/wp-content/uploads/rgnewad1.jpg$image
 ||boyernews.com/wp-content/uploads/trh1.png$image
 ||buzdid.ir/images/*banner*.png
+||caffecinema.com/media/banners/$image
 ||campec.ir/code/popup$domain=campec.ir
 ||cartel.ir/img/tiny2.png
 ||cccamiran.net/images/*.gif$image
@@ -716,6 +724,8 @@ zima.ir##.overlayDiv
 ||namnak.com/users/shop/files/*.gif$image
 ||new4android.ir/wp-content/uploads/*/*/*.gif$image
 ||news-bazar.com/Styles/Banner/$image
+||news.gooya.com/*/*/*/app_gooya_*.gif
+||news.gooya.com/*/*/*/Kayhanlondon-*-loop.gif
 ||newsair.ir/wp-content/uploads/*/*/*.gif$image
 ||newsair.ir/wp-content/uploads/*/*/banner
 ||nex1network.com/$subdocument
@@ -724,6 +734,7 @@ zima.ir##.overlayDiv
 ||niksalehi.com/wordpress/wp-content/uploads/*/*/*.gif$image
 ||niksalehi.com/wp-content/uploads/*/*/*.gif$image
 ||omidiraniannewspaper.ir/upload/File/afranet-logo.jpg$image
+||omidnameh.com/sites/default/files/img/*-*.gif
 ||p30download.com/tabliq
 ||p30rank.ir^
 ||p30skill.ir/wp-content/uploads/*/*/ModelingShop2.jpg$image
@@ -759,6 +770,7 @@ zima.ir##.overlayDiv
 ||r.hitplus.ir^$popup
 ||rade.ir/images/upload/sponser/
 ||rahnama.com/pub/img/SiteAdvert/
+||rajanews.com/sites/default/files/superadmin/*.gif
 ||ref4.com/userimages/img/*banner
 ||rokna.ir/serve/*/*/*.gif$image
 ||rond.ir/Content/DomainBannerFile/$image
@@ -802,6 +814,7 @@ zima.ir##.overlayDiv
 ||talab.org/wp-content/uploads/baner/$image
 ||talarekhabar.com/wp-content/uploads/*/*/banner
 ||tarafdari.com/sites/all/themes/hope/images/advertise/
+||tasnimnews.com/Static/img/*.gif
 ||taya.ir/uploads/General/*.gif
 ||techmix.ir/wp-content/uploads/*/*/*.gif$image
 ||techmix.ir/wp-content/uploads/2016/10/book.jpg$image
