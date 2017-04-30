@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: AwPlSqyNDO5wxj+BtUqklw
+! Checksum: p1/s2X3AOIKw5pVHTTPS/A
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -99,6 +99,8 @@ apktops.ir##.widgetwrap
 ariapix.net##a[href^="http://ariapix.net/click/click.php"]
 asemooni.com###text-6
 aslomid.ir###adv2
+asriran.com###mgbox-articles
+asriran.com###mgbox-articles-text_style
 asriran.com##.neshan_main.row
 asriran.com##.webgardi_main.row
 banki.ir###content_container > table > tbody > tr > td:nth-of-type(3)
@@ -307,6 +309,7 @@ linemovie.biz##.ads-ronakweb
 linemovie.biz##.category9
 manidl.ir###\33 4591733458887cfbe640d
 marde-rooz.com##.column-2.columns.entries.grid-4
+mashreghnews.ir##[id^="ad"]
 mazandmajles.ir##.ad
 mehrnews.com##[id^="ad"]
 mehrnews.com##a[href^="/redirect/ads/"]
@@ -444,6 +447,7 @@ taktemp.com###b1
 taktemp.com###b2
 taktemp.com##.link-ads
 taktemp.com##.topbanners
+talab.org###ads-goshe
 tarafdari.com##.clearfix.view-mode-full.node-news.node.node-592490.node-content > .advertise:nth-of-type(6)
 taya.ir###custompagetext > .advertisement-box
 tebyan.net##.theiaStickySidebar
@@ -546,6 +550,7 @@ zima.ir##.overlayDiv
 ||cdn.gsm.ir/static/files/image/*/*/*/*.gif
 ||cdn.isna.ir/d/*/*/*/*/*.gif$image
 ||cdn.isna.ir/d/*/*/*/*/*.swf$object
+||cdn.mashreghnews.ir/d/*/*/*/*/*.gif
 ||cdn.persiangig.com/preview/$image
 ||chargereseller.com/img/banner/
 ||cinemakhabar.ir/Picture/*.gif
@@ -754,6 +759,7 @@ zima.ir##.overlayDiv
 ||r.hitplus.ir^$popup
 ||rade.ir/images/upload/sponser/
 ||rahnama.com/pub/img/SiteAdvert/
+||ref4.com/userimages/img/*banner
 ||rokna.ir/serve/*/*/*.gif$image
 ||rond.ir/Content/DomainBannerFile/$image
 ||rond.ir/Content/SabetBannerFile/$image
@@ -791,6 +797,9 @@ zima.ir##.overlayDiv
 ||taknaz.net/taknaz/test.php$subdocument
 ||taktemp.com/wp-content/uploads/*/*/*.gif
 ||talab.ir/wp-content/uploads/baner/2/$image
+||talab.org/talab/m.php
+||talab.org/talab/m1.php
+||talab.org/wp-content/uploads/baner/$image
 ||talarekhabar.com/wp-content/uploads/*/*/banner
 ||tarafdari.com/sites/all/themes/hope/images/advertise/
 ||taya.ir/uploads/General/*.gif
@@ -810,6 +819,7 @@ zima.ir##.overlayDiv
 ||tourline.ir/images/upload.jpg
 ||traaviaan.ir/img/195x50.jpg
 ||uc.persianv.com/up3/images/$image
+||unp.ir/downloads/95/*.gif
 ||up.ariapix.net/images/*.gif$image
 ||up.sibgraph.ir/up/admin-sibgraph/sibgraph/theme/Images/*.gif$image
 ||up.skinak.ir/up/skinak/temps/forum/v3/images/bg.jpg$image
