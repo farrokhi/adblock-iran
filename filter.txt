@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: poBFw54MS0HpMSJs5bTdrA
+! Checksum: g9YEXC9B2Ra/XYAKwkh4PQ
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -73,6 +73,7 @@
 3pide.ir###b1
 3pide.ir###col-1:nth-of-type(1)
 4dah.ir##.wrap > .warpper > .head2-ads
+75news.top###SenBackLoginBox
 abipic.com###radsfix
 afkarnews.ir##.type-resource-swf.type-resource
 afkarnews.ir##IFRAME[src*="adtube"]
@@ -83,6 +84,7 @@ aftabnews.ir##.adv_l_inner5
 akairan.com##.moduletable-banner:nth-of-type(3)
 akairan.com##.si120.fci
 akairan.com##iframe[src="http://www.akairan.com/khanevadeh/mbed/dabi120.html"]
+akharinnews.com###ads
 alamto.com###b130
 alamto.com##.posts.box_outer:nth-of-type(7) > .widget
 amadnews.com##.aas_wrapper
@@ -178,6 +180,7 @@ dustaan.com##.wp-image-66603.size-full.aligncenter
 econews.com##.advertise-place
 eghtesadnews.com##.propaganda
 eghtesadnews.com##a[href^="/advertisements/"]
+eghtesadonline.com###mgbox-articles
 ensafnews.com##[id^="shahba_ad-"]
 entekhab.ir##.col-xs-36.attention
 entekhab.ir##.col-xs-36.news-web
@@ -374,6 +377,7 @@ pardad.ir###ctl00_RightBox1_pnlRight
 pardad.ir###modal-overlay
 pardad.ir###TopBox_pnlTopLinkBox
 parsiblog.com##[style="overflow: hidden;font-family:Tahoma;font-size:12px;;width: 121px;height: 278px;border: 1px solid #000;z-index: 1000;position: absolute;left: 0px;top: 0px;background:#fff"]
+parsikhon.ir##.ads
 parsnaz.ir###rayka-PB
 parsnaz.ir##.Bstyle.WCBC
 parsnaz.ir##.leftads.Bstyle.LBC:nth-of-type(1)
@@ -400,6 +404,7 @@ readbook.ir##td:nth-of-type(1) > .sidebar-right:nth-of-type(1)
 rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(1)
 rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(2)
 rokna.ir##.xcon12 > .mb16
+rokna.ir##[id^="yektanet-"]
 rond.ir##.banner-box
 rond.ir##.grid_6
 rondbaz.com##.hidden-xs:nth-of-type(1) > div > div
@@ -480,6 +485,7 @@ wetravel.ir###myModal
 wetravel.ir##.in.fade.modal-backdrop
 wetravel.ir/wp-content/uploads/*/*/ads
 wimaxnews.ir##.Advert
+yaranews.ir###ads
 yasbooks.com##tr:nth-of-type(2) > td > table > tbody > tr > td:nth-of-type(1) > table:nth-of-type(2)
 yasdl.com##.post.fixed-post.row
 yasdl.com##a[href^="http://my.mihanwebhost.com/cart.php"]
