@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: g9YEXC9B2Ra/XYAKwkh4PQ
+! Checksum: /TpmxJZsBpk3oLuBuuOF+g
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -167,6 +167,8 @@ digikala.com###popup-mask
 dl4all.ir##.center > .fadeInDown.animated.visible.hidden.body-main:nth-of-type(1)
 dl4all.ir##.left > .fadeInDown.animated.visible.hidden.body-main:nth-of-type(1)
 dlbook.net##.mom_custom_text.widget:nth-of-type(3) > .custom_textwidget
+dlroozane.com##.static-post
+doustiha.ir##.fixed-ads
 download.ir###hdd_rss_reader-2
 downloadha.com###main > .main-container > .maincontent > .topbanners468
 downloadha.com##.entry-etc
@@ -354,6 +356,8 @@ niksalehi.com##.block_box_threee
 niksalehi.com##.block_Special_look
 niksalehi.com##.div_banner
 niksalehi.com##.web_box
+niksalehi.com##A[href*="/click.php?"]
+niksalehi.com##DIV[onclick="$('.litebox').hide();"]
 niksalehi.com##DIV[style="text-align: justify; direction: rtl; padding: 5px 25px;overflow: hidden;margin-bottom: 3px;"]
 ninjagram.ir###ti_box
 noda.ir##.header-right
@@ -395,6 +399,7 @@ persianv.com##.banner_sid_desktop.banner_sidebar
 persianv.com##.div_banner
 persianv.com##.web_box
 persianv.com##.wrapper2:nth-of-type(8)
+persianv.com##[class^="ads_"]
 persianv.com##a[href^="http://panel.persianv.com/counter/click.php"]
 pesedit.ir##a[href="http://www.pesedit.ir/ads/index.html"]
 plus.ir##.advBanner.text-center
@@ -493,6 +498,7 @@ yasdl.com##p:nth-of-type(3) > a[href="http://www.payam-resan.com/"]
 yasdl.com##p:nth-of-type(5) > a[href="http://mahoot-leather.ir/"]
 zima.ir##.newslleterPop
 zima.ir##.overlayDiv
+|http://moviemag.ir/images/files/*/Ad/
 ||*.adnegah.net/$subdocument
 ||1000charge.com/gifbanner/
 ||1000site.ir/asset/media/banner/
@@ -577,6 +583,7 @@ zima.ir##.overlayDiv
 ||dabi.ir/Upload/*/130x200
 ||dabi.ir/Upload/StaticBanners/$image
 ||dande6.com/wp-content/uploads/*/*/*.gif$image
+||dariconline.ir^$popup
 ||darunama.com/Images/MasterPage/donateMain.jpg$image
 ||delbaraneh.com/Niazweb.jpg$image
 ||developer1.ir//Pic/ADS%20Banner/$image
@@ -707,6 +714,7 @@ zima.ir##.overlayDiv
 ||lasttours.net/images/banner_images/
 ||lavdan.ir/img/banner/
 ||linkyab.net/download/*.gif$image
+||magnetadservices.com^$third-party
 ||mardomsalari.com/upload/images/14771523021476531352613215377155978855.jpg$image
 ||mazandmajles.ir/public/uploads/resaneh/$image
 ||media.farsnews.com/Uploaded/Files/Documents/*/*/*/$image
@@ -734,7 +742,7 @@ zima.ir##.overlayDiv
 ||newsair.ir/wp-content/uploads/*/*/*.gif$image
 ||newsair.ir/wp-content/uploads/*/*/banner
 ||nex1network.com/$subdocument
-||nextads.ir/$subdocument
+||nextads.ir^
 ||nextholiday.ir/uploads/*/*/gif/*.gif
 ||niksalehi.com/wordpress/wp-content/uploads/*/*/*.gif$image
 ||niksalehi.com/wp-content/uploads/*/*/*.gif$image
@@ -765,12 +773,14 @@ zima.ir##.overlayDiv
 ||persianpet.org/s-img/
 ||persiantools.net/*/ads/
 ||persiantools.net/banners/$image
+||persianv.com/adtube
 ||persianv.com/random*/$subdocument
 ||pgnews.ir/uploads/*.gif
 ||pgnews.ir/uploads/banners/
 ||picofile.com/file/*/*.gif$image
 ||pishkhaan.net/pishkhaanads/$image
 ||popbox.skinak.ir^
+||popupha.com^
 ||popupme.net/Scripts/
 ||r.hitplus.ir^$popup
 ||rade.ir/images/upload/sponser/
@@ -827,6 +837,7 @@ zima.ir##.overlayDiv
 ||tehmovies.me/wp-content/uploads/2017/02/500x500
 ||telegram-channels.ir/wp-content/uploads/*/*/*adv
 ||tinymovies70.top/ads/
+||tiwall.com/api/adver/*
 ||tooptarinha.com/uploads/ads-new/$image
 ||top2download.com/wp-content/uploads/*/*/*.gif$image
 ||topnaz.com/wp-content/themes/topnaz_panab/psimgs/ads/
