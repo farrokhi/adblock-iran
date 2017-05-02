@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: /TpmxJZsBpk3oLuBuuOF+g
+! Checksum: YAM/rDO6JLoeAEx+nu60uw
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -86,6 +86,7 @@ akairan.com##.si120.fci
 akairan.com##iframe[src="http://www.akairan.com/khanevadeh/mbed/dabi120.html"]
 akharinnews.com###ads
 alamto.com###b130
+alamto.com##.custom_textwidget
 alamto.com##.posts.box_outer:nth-of-type(7) > .widget
 amadnews.com##.aas_wrapper
 amadnews.com##.aas_zone
@@ -327,6 +328,7 @@ mehrnews.com##[id^="ad"]
 mehrnews.com##a[href^="/redirect/ads/"]
 melipayamak.com##.er-popup-body
 melipayamak.com##.er-popup-overlay
+mepatogh.ir##.tablighs
 mihanblog.com###apanet_ads_bottom_left_120
 mihanblog.com###apanet_ads_bottom_right_120
 mihanblog.com###apanet_ads_top_right_120
@@ -430,6 +432,7 @@ seemorgh.com##.ads-all-spe.otherseemorgh
 seemorgh.com##.container:nth-of-type(4) > .middle-banner.row
 seemorgh.com##.fix-top-ad.middle-banner.row
 seemorgh.com##.middle-banner.top-banner-bts.row
+seemorgh.com##[class$="banner"]
 shahrekhabar.com##.hidden-xs.hidden-sm.col-md-2.col-lg-2 > .row
 shopkeeper.ir###sidebar_container
 shopkeeper.ir##.postbody > div > div > a[href^="http://go.shopkeeper.ir/"]
@@ -668,6 +671,7 @@ zima.ir##.overlayDiv
 ||img.bisms.ir//2016/10/nose-up-1.jpg
 ||img.soft98.ir/*.gif$image
 ||img7.ir/*.gif$image
+||imgs.seemorgh.com/*/banners/
 ||imovie-dl.org/upload/banner
 ||iranefarda.wpengine.netdna-cdn.com/wp-content/themes/jarida/images/*.gif
 ||iranefarda.wpengine.netdna-cdn.com/wp-content/themes/jarida/images/ad
@@ -802,6 +806,7 @@ zima.ir##.overlayDiv
 ||sabavision.com/$subdocument
 ||sabavision.com/public//public/user_data/user_banner/$image
 ||safarbaba.com/uploads/*/*/gif/*.gif
+||safarme.com/Dashboard/HotelAdvertisment/*
 ||safireaflak.ir/adv/
 ||salamatnews.com/uploads/ad
 ||sarasat95.tk/images/ehsan-pixell/pixell_rangh/images/*.gif$image
