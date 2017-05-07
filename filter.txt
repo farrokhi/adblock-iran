@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: YAM/rDO6JLoeAEx+nu60uw
+! Checksum: TfZrrj04lQJVnyj+OBr80w
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -203,6 +203,7 @@ fararu.com##[class^="text_adv"]
 fararu.com##[class^="urcm_"]
 fararu.com##[id^="mgbox-"]
 fardanews.com##.mgb-related
+farhangnews.ir##.vitrin_float
 farsnews.com##.advertisement
 farsnews.com##.col-md-2.ads-tile
 farsroid.com##.col.post-sabet:nth-of-type(2)
@@ -501,6 +502,7 @@ yasdl.com##p:nth-of-type(3) > a[href="http://www.payam-resan.com/"]
 yasdl.com##p:nth-of-type(5) > a[href="http://mahoot-leather.ir/"]
 zima.ir##.newslleterPop
 zima.ir##.overlayDiv
+zohur12.ir##.related-posts
 |http://moviemag.ir/images/files/*/Ad/
 ||*.adnegah.net/$subdocument
 ||1000charge.com/gifbanner/
@@ -520,6 +522,7 @@ zima.ir##.overlayDiv
 ||ad.utop.ir/b/$image
 ||adnegah.net/*.js
 ||adnegah.net/cpx/
+||ads.sahandar.com^$third-party
 ||afkarnews.ir/serve/*/*/*.gif$image
 ||afkarnews.ir/serve/*/*/*.jpg$image
 ||aftabir.com/campaigns/adv_images/
@@ -589,7 +592,6 @@ zima.ir##.overlayDiv
 ||dariconline.ir^$popup
 ||darunama.com/Images/MasterPage/donateMain.jpg$image
 ||delbaraneh.com/Niazweb.jpg$image
-||developer1.ir//Pic/ADS%20Banner/$image
 ||developer1.ir/Pic/ADS
 ||dezfil.ir/wp-content/themes/deznn0/images/ads
 ||dezfil.ir/wp-content/themes/deznn0/images/asj.site.jpg
@@ -628,6 +630,7 @@ zima.ir##.overlayDiv
 ||faraztteb.com/userfiles/babilis.jpg$image
 ||faraztteb.com/userfiles/Banner
 ||faraztteb.com/userfiles/wack%20ur%20ex.jpg$image
+||farhangnews.ir/sites/default/files/banner/*
 ||farnet.ir/*/*/*-300-x-100
 ||farsroid.com/wp-content/uploads/*-400x391
 ||farstoon.com/cartoons/2015/*.gif$image
@@ -790,6 +793,7 @@ zima.ir##.overlayDiv
 ||rade.ir/images/upload/sponser/
 ||rahnama.com/pub/img/SiteAdvert/
 ||rajanews.com/sites/default/files/superadmin/*.gif
+||rajanews.com^$popup
 ||ref4.com/userimages/img/*banner
 ||rokna.ir/serve/*/*/*.gif$image
 ||rond.ir/Content/DomainBannerFile/$image
