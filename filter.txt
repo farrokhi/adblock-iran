@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: TfZrrj04lQJVnyj+OBr80w
+! Checksum: W/GYrMnGABgo3oOxGvZlQw
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -54,6 +54,7 @@
 ##.vatanclick
 ##.widget_banner_ads
 ##[id^="ml-webforms-popup"]
+##[id^="yektanet-"]
 ##a[href^="http://www.alamto.com/ads/click.php"]
 .ir/ads/
 .ir/banner/
@@ -412,7 +413,6 @@ readbook.ir##td:nth-of-type(1) > .sidebar-right:nth-of-type(1)
 rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(1)
 rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(2)
 rokna.ir##.xcon12 > .mb16
-rokna.ir##[id^="yektanet-"]
 rond.ir##.banner-box
 rond.ir##.grid_6
 rondbaz.com##.hidden-xs:nth-of-type(1) > div > div
@@ -433,6 +433,7 @@ seemorgh.com##.ads-all-spe.otherseemorgh
 seemorgh.com##.container:nth-of-type(4) > .middle-banner.row
 seemorgh.com##.fix-top-ad.middle-banner.row
 seemorgh.com##.middle-banner.top-banner-bts.row
+seemorgh.com##.weblink-ads
 seemorgh.com##[class$="banner"]
 shahrekhabar.com##.hidden-xs.hidden-sm.col-md-2.col-lg-2 > .row
 shopkeeper.ir###sidebar_container
@@ -630,7 +631,7 @@ zohur12.ir##.related-posts
 ||faraztteb.com/userfiles/babilis.jpg$image
 ||faraztteb.com/userfiles/Banner
 ||faraztteb.com/userfiles/wack%20ur%20ex.jpg$image
-||farhangnews.ir/sites/default/files/banner/*
+||farhangnews.ir/sites/default/files/banner/
 ||farnet.ir/*/*/*-300-x-100
 ||farsroid.com/wp-content/uploads/*-400x391
 ||farstoon.com/cartoons/2015/*.gif$image
@@ -810,7 +811,7 @@ zohur12.ir##.related-posts
 ||sabavision.com/$subdocument
 ||sabavision.com/public//public/user_data/user_banner/$image
 ||safarbaba.com/uploads/*/*/gif/*.gif
-||safarme.com/Dashboard/HotelAdvertisment/*
+||safarme.com/Dashboard/HotelAdvertisment/
 ||safireaflak.ir/adv/
 ||salamatnews.com/uploads/ad
 ||sarasat95.tk/images/ehsan-pixell/pixell_rangh/images/*.gif$image
@@ -846,7 +847,7 @@ zohur12.ir##.related-posts
 ||tehmovies.me/wp-content/uploads/2017/02/500x500
 ||telegram-channels.ir/wp-content/uploads/*/*/*adv
 ||tinymovies70.top/ads/
-||tiwall.com/api/adver/*
+||tiwall.com/api/adver/
 ||tooptarinha.com/uploads/ads-new/$image
 ||top2download.com/wp-content/uploads/*/*/*.gif$image
 ||topnaz.com/wp-content/themes/topnaz_panab/psimgs/ads/
