@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: W/GYrMnGABgo3oOxGvZlQw
+! Checksum: 4jg3+wKzYdm0hsvfmi8XJg
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -198,6 +198,7 @@ fararu.com##.cont_main_txtadv
 fararu.com##.hidden-xs.hidden-ms.hidden-sm.logo_adv2
 fararu.com##.txt_adv_container
 fararu.com##.urcm
+fararu.com##.webgardi
 fararu.com##.webgardi_adv
 fararu.com##[class^="cont_adv_row"]
 fararu.com##[class^="text_adv"]
@@ -429,12 +430,13 @@ sarzamindownload.com##.GSLeftSide.col-lg-3.col-md-3.col-sm-12.col-xs-12 > .widge
 sarzamindownload.com##.widget_style_funcs.GSBlock:nth-of-type(1) > div
 saten.ir###mgbox-articles
 saten.ir###text-22
-seemorgh.com##.ads-all-spe.otherseemorgh
 seemorgh.com##.container:nth-of-type(4) > .middle-banner.row
 seemorgh.com##.fix-top-ad.middle-banner.row
 seemorgh.com##.middle-banner.top-banner-bts.row
 seemorgh.com##.weblink-ads
 seemorgh.com##[class$="banner"]
+seemorgh.com##[class*="ads-"]
+seemorgh.com##[class^="ad-"]
 shahrekhabar.com##.hidden-xs.hidden-sm.col-md-2.col-lg-2 > .row
 shopkeeper.ir###sidebar_container
 shopkeeper.ir##.postbody > div > div > a[href^="http://go.shopkeeper.ir/"]
@@ -639,6 +641,7 @@ zohur12.ir##.related-posts
 ||favanews.com/other/$object
 ||favanews.com/wp-content/uploads/*/*/logo*.png$image
 ||fera.ir/fera/ads/$image
+||fetch.yektanet.com/api/v1/*$third-party
 ||fibazar.ir/uploads/ad
 ||film2movie.biz/content/uploads/*.gif$image
 ||foxpush.net^
