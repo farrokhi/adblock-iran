@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: mrnncxwCSLM9RRZJ+aZUJg
+! Checksum: pL4LJHSxtflm/cRoYAypWA
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -528,9 +528,11 @@ zohur12.ir##.related-posts
 ||adnegah.net/*.js
 ||adnegah.net/cpx/
 ||ads.sahandar.com^$third-party
-||afkarnews.ir/serve/*/*/*.gif$image
-||afkarnews.ir/serve/*/*/*.jpg$image
+||afkarnews.ir/adtube
+||afkarnews.ir/serve/*.gif
+||afkarnews.ir/serve/*.jpg
 ||afkarnews.ir/servev2/*.gif
+||afkarnews.ir/servev2/*.jpg
 ||aftabir.com/campaigns/adv_images/
 ||agahiweb.com/uploads/*-468.gif$image
 ||akhbar-rooz.com/user/albums/*/*.gif$image
