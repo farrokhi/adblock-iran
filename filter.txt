@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 4jg3+wKzYdm0hsvfmi8XJg
+! Checksum: mrnncxwCSLM9RRZJ+aZUJg
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -353,6 +353,8 @@ namnak.com##.weblinks
 namnak.com##aside:nth-of-type(2)
 new4android.ir##body > div:nth-of-type(3) > .external
 news-bazar.com##.ads
+newsreaders.ir##.ads
+newsreaders.ir##.article-page
 nextholiday.ir##.carousel-inner
 nikcharge.net##.kadr
 niksalehi.com##.banner_content
@@ -528,6 +530,7 @@ zohur12.ir##.related-posts
 ||ads.sahandar.com^$third-party
 ||afkarnews.ir/serve/*/*/*.gif$image
 ||afkarnews.ir/serve/*/*/*.jpg$image
+||afkarnews.ir/servev2/*.gif
 ||aftabir.com/campaigns/adv_images/
 ||agahiweb.com/uploads/*-468.gif$image
 ||akhbar-rooz.com/user/albums/*/*.gif$image
@@ -626,6 +629,7 @@ zohur12.ir##.related-posts
 ||estekhtam.com/wp-content/uploads/2016/11/estekhtam*.jpg
 ||faaltarin.com/images/*.gif$image
 ||faaltarin.com/images/*.swf$object
+||facenama.com/popup.php?*$third-party
 ||facenama.com/postfix.php
 ||famo.ir/ad/
 ||faraztteb.com/products_pictures/*.gif$image
@@ -635,6 +639,7 @@ zohur12.ir##.related-posts
 ||faraztteb.com/userfiles/wack%20ur%20ex.jpg$image
 ||farhangnews.ir/sites/default/files/banner/
 ||farnet.ir/*/*/*-300-x-100
+||farsnews.com/shares/img/charter.jpg
 ||farsroid.com/wp-content/uploads/*-400x391
 ||farstoon.com/cartoons/2015/*.gif$image
 ||fastclick.click/Content/campaigns/$image
@@ -732,6 +737,7 @@ zohur12.ir##.related-posts
 ||media.mehrnews.com/d/*/*/*/*/*.gif$image
 ||melipayamak.com/wp-content/themes/melipayamak/images/banner/$image
 ||melipayamak.com/wp-content/themes/melipayamk/images/banner/$image
+||mesearch.xyz/sq.php?*$third-party
 ||mihandaramad.ir/images/
 ||mihandownload.com/wp-content/uploads/*.gif$image
 ||mihanfal.com/wp-content/uploads/*/*/*.gif
@@ -791,6 +797,7 @@ zohur12.ir##.related-posts
 ||picofile.com/file/*/*.gif$image
 ||pishkhaan.net/pishkhaanads/$image
 ||popbox.skinak.ir^
+||popmaster.ir/pop.php?*$third-party
 ||popupha.com^
 ||popupme.net/Scripts/
 ||r.hitplus.ir^$popup
@@ -849,6 +856,7 @@ zohur12.ir##.related-posts
 ||tehmovies.me/wp-content/uploads/*/*/*.gif$image
 ||tehmovies.me/wp-content/uploads/2017/02/500x500
 ||telegram-channels.ir/wp-content/uploads/*/*/*adv
+||tgju.org/webservice/global/snippet.php?*$third-party
 ||tinymovies70.top/ads/
 ||tiwall.com/api/adver/
 ||tooptarinha.com/uploads/ads-new/$image
