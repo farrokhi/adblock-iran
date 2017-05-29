@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: pL4LJHSxtflm/cRoYAypWA
+! Checksum: O4kmVq5OFyF1RLovNyFsgA
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -204,6 +204,7 @@ fararu.com##[class^="cont_adv_row"]
 fararu.com##[class^="text_adv"]
 fararu.com##[class^="urcm_"]
 fararu.com##[id^="mgbox-"]
+fardanews.com###mgbox-articles-text_style
 fardanews.com##.mgb-related
 farhangnews.ir##.vitrin_float
 farsnews.com##.advertisement
@@ -558,6 +559,7 @@ zohur12.ir##.related-posts
 ||axgig.com/images/*.gif
 ||b-amooz.com/wp-content/uploads/*/*/hikvision.gif
 ||badigi.com/wp-content/uploads/*/*/*.gif$image
+||bankemardom.ir/wp-content/uploads/*.gif
 ||banker.ir/img/banners/
 ||banki.ir/images/stories/*/ads_*.gif$image
 ||banner.dabi.ir/Banner.aspx
@@ -583,6 +585,7 @@ zohur12.ir##.related-posts
 ||cdn.gsm.ir/static/files/image/*/*/*/*.gif
 ||cdn.isna.ir/d/*/*/*/*/*.gif$image
 ||cdn.isna.ir/d/*/*/*/*/*.swf$object
+||cdn.last.upload.ir/*.gif
 ||cdn.mashreghnews.ir/d/*/*/*/*/*.gif
 ||cdn.persiangig.com/preview/$image
 ||chargereseller.com/img/banner/
@@ -718,6 +721,7 @@ zohur12.ir##.related-posts
 ||kalakamuz.ir/wp-content/uploads/*.gif$image
 ||kalakamuz.ir/wp-content/uploads/ad
 ||ketabesabz.com/images/banner/
+||ketabnak.com/images/*.gif
 ||khabarfoori.com/bundles/*banner
 ||khabarfori.ir/Portals/*/Sample/$object
 ||khabarlendeh.ir/sites/default/files/fullimages/
@@ -839,6 +843,7 @@ zohur12.ir##.related-posts
 ||softsaaz.ir/wp-content/uploads/*468-60
 ||softsaaz.ir/wp-content/uploads/Ad
 ||softsaaz.ir/wp-content/uploads/ban
+||sstarv.com/wp-content/uploads/*.gif
 ||static-cdn.anetwork.ir/aw/
 ||static.clix.ir/
 ||tableaumag.com/wp-content/uploads/sites/*/*banner
