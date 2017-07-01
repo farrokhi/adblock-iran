@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: O4kmVq5OFyF1RLovNyFsgA
+! Checksum: QtF5R/i0ulZRExOO98rYjw
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -71,9 +71,9 @@
 1pezeshk.com###herald-module-3-0
 1pezeshk.com###herald-module-4-0
 1pezeshk.com##.herald-sidebar-right.col-md-3.col-lg-3.herald-sidebar
+30nama.today###banner-header
 3pide.ir###b1
 3pide.ir###col-1:nth-of-type(1)
-30nama.today###banner-header
 4dah.ir##.wrap > .warpper > .head2-ads
 75news.top###SenBackLoginBox
 abipic.com###radsfix
@@ -375,11 +375,11 @@ omidiraniannewspaper.ir###\35 0
 omidnameh.com###ads
 p30download.com###content > div
 p30download.com###main-content > .tabliq-468:nth-of-type(2)
+p30download.com##.article-wrapper:nth-of-type(4)
+p30download.com##.article-wrapper:nth-of-type(5)
 p30download.com##.tabliq-468:nth-of-type(9)
 p30download.com##.text-tabliq
 p30download.com##[class^="tabliq-"]
-p30download.com##.article-wrapper:nth-of-type(4)
-p30download.com##.article-wrapper:nth-of-type(5)
 p30skill.ir###shop-banner
 p30skill.ir##.bg-white.sidebox:nth-of-type(2)
 p30skill.ir##.column.col-md-3:nth-of-type(1) > .sidebox:nth-of-type(1)
@@ -623,6 +623,7 @@ zohur12.ir##.related-posts
 ||download.ir/wp-content/uploads/*/*/ads$image
 ||downloadha.com/shop/sabavision$image
 ||dubai-land.ir/images/ad*.gif
+||dunro.com/embeded/pcdownload.html$subdocument
 ||e.weclick.ir/display/pre/$subdocument
 ||econews.com/files/images/*.gif$image
 ||econews.com/files/images/bank$image
@@ -900,4 +901,3 @@ zohur12.ir##.related-posts
 ||yeknet.ir/sites/default/files/js/
 ||zanboor.net/show.php$subdocument
 ||zoomit.ir/*/banners/
-||dunro.com/embeded/pcdownload.html$subdocument
