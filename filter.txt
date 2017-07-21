@@ -901,3 +901,5 @@ zohur12.ir##.related-posts
 ||yeknet.ir/sites/default/files/js/
 ||zanboor.net/show.php$subdocument
 ||zoomit.ir/*/banners/
+||paypop.org
+||radar.bayan.ir
