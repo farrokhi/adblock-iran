@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: QtF5R/i0ulZRExOO98rYjw
+! Checksum: As6AOVPw0mkekXxAgLWUUg
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -368,6 +368,7 @@ niksalehi.com##.web_box
 niksalehi.com##A[href*="/click.php?"]
 niksalehi.com##DIV[onclick="$('.litebox').hide();"]
 niksalehi.com##DIV[style="text-align: justify; direction: rtl; padding: 5px 25px;overflow: hidden;margin-bottom: 3px;"]
+ninisite.com##.lazy.d-inline.img-fluid
 ninjagram.ir###ti_box
 noda.ir##.header-right
 omidiraniannewspaper.ir###\34 6
@@ -541,6 +542,7 @@ zohur12.ir##.related-posts
 ||agahiweb.com/uploads/*-468.gif$image
 ||akhbar-rooz.com/user/albums/*/*.gif$image
 ||alamto.com/wp-content/uploads/*/*/*.gif$image
+||alodoctor.ir/Uploads/Picture/*.gif
 ||amadnews.com/wp-content/uploads/2017/01/4vm7hosdlqst0bjaecv.jpg$image
 ||amazing.ir/wp-content/uploads/*/*/*.gif$image
 ||ammarname.ir/sites/default/files/templateLogo/Baner/$object
@@ -625,6 +627,7 @@ zohur12.ir##.related-posts
 ||dubai-land.ir/images/ad*.gif
 ||dunro.com/embeded/pcdownload.html$subdocument
 ||e.weclick.ir/display/pre/$subdocument
+||ecdn.ninisite.com/statics/tabl/*.gif
 ||econews.com/files/images/*.gif$image
 ||econews.com/files/images/bank$image
 ||econews.com/files/images/econews$image
@@ -660,6 +663,8 @@ zohur12.ir##.related-posts
 ||film2movie.biz/content/uploads/*.gif$image
 ||foxpush.net^
 ||freescript.ir/wp-content/uploads/*/*/*.gif$image
+||funjoo.ir/www/*_*.jpg
+||funjoo.ir/www/baner-hader.gif
 ||funpatogh.com/images/$image
 ||game-island.ir/wp-content/uploads/insta.jpg$image
 ||gamefa.com/wp-content/uploads/*/*/*.gif$image
@@ -773,6 +778,7 @@ zohur12.ir##.related-posts
 ||nextholiday.ir/uploads/*/*/gif/*.gif
 ||niksalehi.com/wordpress/wp-content/uploads/*/*/*.gif$image
 ||niksalehi.com/wp-content/uploads/*/*/*.gif$image
+||ninisite.com/statics/ads/$image
 ||omidiraniannewspaper.ir/upload/File/afranet-logo.jpg$image
 ||omidnameh.com/sites/default/files/img/*-*.gif
 ||p30download.com/tabliq
@@ -835,7 +841,9 @@ zohur12.ir##.related-posts
 ||safireaflak.ir/adv/
 ||salamatnews.com/uploads/ad
 ||sarasat95.tk/images/ehsan-pixell/pixell_rangh/images/*.gif$image
+||saten.ir/wp-content/uploads/*.gif
 ||saten.ir/wp-content/uploads/*/*/banner$image
+||saten.ir/wp-content/uploads/*/glamora*
 ||sena.ir/ShowImages.ashx?Adv$image
 ||sena.ir/Upload/PicGallery/Adver/$object
 ||shahrekhabar.com/swf/
