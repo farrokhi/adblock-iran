@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: As6AOVPw0mkekXxAgLWUUg
+! Checksum: Ok7HP5f2VF8roEeU1yPJtQ
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -604,6 +604,7 @@ zohur12.ir##.related-posts
 ||dabi.ir/ScriptResource.axd?
 ||dabi.ir/Upload/*/130x200
 ||dabi.ir/Upload/StaticBanners/$image
+||damadam.ir/images/layout/other/*.gif
 ||dande6.com/wp-content/uploads/*/*/*.gif$image
 ||dariconline.ir^$popup
 ||darunama.com/Images/MasterPage/donateMain.jpg$image
@@ -660,6 +661,7 @@ zohur12.ir##.related-posts
 ||fera.ir/fera/ads/$image
 ||fetch.yektanet.com/api/v1/*$third-party
 ||fibazar.ir/uploads/ad
+||files.namnak.com/aup/$image
 ||film2movie.biz/content/uploads/*.gif$image
 ||foxpush.net^
 ||freescript.ir/wp-content/uploads/*/*/*.gif$image
@@ -733,8 +735,10 @@ zohur12.ir##.related-posts
 ||ketabnak.com/images/*.gif
 ||khabarfoori.com/bundles/*banner
 ||khabarfori.ir/Portals/*/Sample/$object
+||khabarland.com/images/*.gif
 ||khabarlendeh.ir/sites/default/files/fullimages/
 ||khabarpu.com/img/banner/$image
+||khargush.com/wp-content/uploads/*.gif
 ||khf.nz/cdn/farfuture/$image
 ||kimexa.com^$popup
 ||koidt1wn.bid^
