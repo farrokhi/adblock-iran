@@ -7,7 +7,7 @@ Ad blocking rules for iranian/persian websites.  Works with [adblock](https://ad
 If using uBlock, add following line to your custom filters under `Preferences -> 3rd-party filers -> Custom`:
 
 ```
-https://raw.githubusercontent.com/farrokhi/adblock-iran/master/filter.txt
+https://cdn.rawgit.com/farrokhi/adblock-iran/master/filter.txt
 ```
 
 In case of Adblock Plus, the list should be added to `Filter preferences -> Add filter subscription -> Add a different subscription`.
