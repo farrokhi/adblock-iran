@@ -8,6 +8,7 @@
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
 !
+##.banners
 ###adnFloatbr
 ###adpress_widget-2
 ###ads468
@@ -903,3 +904,4 @@ zohur12.ir##.related-posts
 ||zoomit.ir/*/banners/
 ||paypop.org
 ||radar.bayan.ir
+||widget.congoro.com
