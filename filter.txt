@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Ok7HP5f2VF8roEeU1yPJtQ
+! Checksum: m+Ew8gdnfXcg28AA4V70Og
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -8,7 +8,6 @@
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
 !
-##.banners
 ###adnFloatbr
 ###adpress_widget-2
 ###ads468
@@ -41,6 +40,7 @@
 ##.anetwork-b.anetwork-b-600x300
 ##.anetwork-b.anetwork-b-728x90
 ##.banner
+##.banners
 ##.cycle_adv_news
 ##.flix-float
 ##.logo_adv_container
@@ -96,7 +96,6 @@ amadnews.com##.aas_zone
 amazing.ir###main > .header > .nav-adsmb:nth-of-type(3)
 amazing.ir##.ads-box
 amazing.ir##p:nth-of-type(2) > a[href^="/counter/click.php"]
-androidha.com###container > .banners.litebox
 androidha.com##.app-inside-post
 androidha.com##a[href^="http://www.eligasht.com/"]
 androidineh.com##.a-1.b-4.g-col > .border-radius.post-ads
@@ -807,6 +806,7 @@ zohur12.ir##.related-posts
 ||parstv.tv/wp-content/uploads/2016/07/Magic-tel.jpg$image
 ||parstv.tv/wp-content/uploads/2016/07/Tehran.jpg$image
 ||parstv.tv/wp-content/uploads/2016/09/web-solution_00128.jpg$image
+||paypop.org
 ||persiangig.com/preview/SMSh7sPQoP/accfile.jpg$image
 ||persianpet.org/s-img/
 ||persiantools.net/*/ads/
@@ -822,6 +822,7 @@ zohur12.ir##.related-posts
 ||popupha.com^
 ||popupme.net/Scripts/
 ||r.hitplus.ir^$popup
+||radar.bayan.ir
 ||rade.ir/images/upload/sponser/
 ||rahnama.com/pub/img/SiteAdvert/
 ||rajanews.com/sites/default/files/superadmin/*.gif
@@ -904,6 +905,7 @@ zohur12.ir##.related-posts
 ||webii.ir/Images/*banner/$image
 ||weblogmaster.com/link-v3/
 ||wetravel.ir/wp-content/uploads/*/*/*.gif
+||widget.congoro.com
 ||widgets.takhfifan.com/pics/$image
 ||wikihoax.org/wp-content/uploads/*/*/*.gif
 ||wimaxnews.ir/images/main/null.gif$image
@@ -914,6 +916,3 @@ zohur12.ir##.related-posts
 ||yeknet.ir/sites/default/files/js/
 ||zanboor.net/show.php$subdocument
 ||zoomit.ir/*/banners/
-||paypop.org
-||radar.bayan.ir
-||widget.congoro.com
