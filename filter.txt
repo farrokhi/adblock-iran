@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: iILuldZPsA5yIYk4xvCmNQ
+! Checksum: AVX39LTEXs+YS7hB/U5HAQ
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
