@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: m+Ew8gdnfXcg28AA4V70Og
+! Checksum: iILuldZPsA5yIYk4xvCmNQ
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -62,6 +62,7 @@
 .ir/banners/
 /ads/files/*
 /adtube.js
+/adtube250.php
 /agahi/*
 /files/adv/*
 /images/banners/*
@@ -364,6 +365,7 @@ niksalehi.com##.banner_sid_desktop
 niksalehi.com##.block_box_threee
 niksalehi.com##.block_Special_look
 niksalehi.com##.div_banner
+niksalehi.com##.main_banner_single
 niksalehi.com##.web_box
 niksalehi.com##A[href*="/click.php?"]
 niksalehi.com##DIV[onclick="$('.litebox').hide();"]
@@ -642,7 +644,7 @@ zohur12.ir##.related-posts
 ||estekhtam.com/wp-content/uploads/2016/11/estekhtam*.jpg
 ||faaltarin.com/images/*.gif$image
 ||faaltarin.com/images/*.swf$object
-||facenama.com/popup.php?*$third-party
+||facenama.com/popup.php
 ||facenama.com/postfix.php
 ||famo.ir/ad/
 ||faraztteb.com/products_pictures/*.gif$image
@@ -659,7 +661,7 @@ zohur12.ir##.related-posts
 ||favanews.com/other/$object
 ||favanews.com/wp-content/uploads/*/*/logo*.png$image
 ||fera.ir/fera/ads/$image
-||fetch.yektanet.com/api/v1/*$third-party
+||fetch.yektanet.com/api/v1/
 ||fibazar.ir/uploads/ad
 ||files.namnak.com/aup/$image
 ||film2movie.biz/content/uploads/*.gif$image
@@ -756,7 +758,7 @@ zohur12.ir##.related-posts
 ||media.mehrnews.com/d/*/*/*/*/*.gif$image
 ||melipayamak.com/wp-content/themes/melipayamak/images/banner/$image
 ||melipayamak.com/wp-content/themes/melipayamk/images/banner/$image
-||mesearch.xyz/sq.php?*$third-party
+||mesearch.xyz/sq.php
 ||mihandaramad.ir/images/
 ||mihandownload.com/wp-content/uploads/*.gif$image
 ||mihanfal.com/wp-content/uploads/*/*/*.gif
@@ -780,6 +782,7 @@ zohur12.ir##.related-posts
 ||nex1network.com/$subdocument
 ||nextads.ir^
 ||nextholiday.ir/uploads/*/*/gif/*.gif
+||niksalehi.com/ads-left/
 ||niksalehi.com/wordpress/wp-content/uploads/*/*/*.gif$image
 ||niksalehi.com/wp-content/uploads/*/*/*.gif$image
 ||ninisite.com/statics/ads/$image
@@ -818,7 +821,7 @@ zohur12.ir##.related-posts
 ||picofile.com/file/*/*.gif$image
 ||pishkhaan.net/pishkhaanads/$image
 ||popbox.skinak.ir^
-||popmaster.ir/pop.php?*$third-party
+||popmaster.ir/pop.php
 ||popupha.com^
 ||popupme.net/Scripts/
 ||r.hitplus.ir^$popup
@@ -836,6 +839,7 @@ zohur12.ir##.related-posts
 ||rouzegar.com/wp-content/uploads/*/*/*.gif$image
 ||rouzegar.com/wp-content/uploads/2016/12/photo_*.jpg$image
 ||rozup.ir/up/asa-game/pars-design/banner/
+||rtb.adtube.ir^
 ||s.hitplus.ir^
 ||s3-us-west-2.amazonaws.com/iranefarda/00test/$image
 ||saat24.com/d/*/*/*/*/*.gif
@@ -849,7 +853,7 @@ zohur12.ir##.related-posts
 ||sarasat95.tk/images/ehsan-pixell/pixell_rangh/images/*.gif$image
 ||saten.ir/wp-content/uploads/*.gif
 ||saten.ir/wp-content/uploads/*/*/banner$image
-||saten.ir/wp-content/uploads/*/glamora*
+||saten.ir/wp-content/uploads/*/glamora
 ||sena.ir/ShowImages.ashx?Adv$image
 ||sena.ir/Upload/PicGallery/Adver/$object
 ||shahrekhabar.com/swf/
@@ -861,6 +865,7 @@ zohur12.ir##.related-posts
 ||softsaaz.ir/wp-content/uploads/*468-60
 ||softsaaz.ir/wp-content/uploads/Ad
 ||softsaaz.ir/wp-content/uploads/ban
+||ssads.net^
 ||sstarv.com/wp-content/uploads/*.gif
 ||static-cdn.anetwork.ir/aw/
 ||static.clix.ir/
@@ -881,7 +886,7 @@ zohur12.ir##.related-posts
 ||tehmovies.me/wp-content/uploads/*/*/*.gif$image
 ||tehmovies.me/wp-content/uploads/2017/02/500x500
 ||telegram-channels.ir/wp-content/uploads/*/*/*adv
-||tgju.org/webservice/global/snippet.php?*$third-party
+||tgju.org/webservice/global/snippet.php
 ||tinymovies70.top/ads/
 ||tiwall.com/api/adver/
 ||tooptarinha.com/uploads/ads-new/$image
