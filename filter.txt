@@ -73,7 +73,7 @@
 1pezeshk.com###herald-module-3-0
 1pezeshk.com###herald-module-4-0
 1pezeshk.com##.herald-sidebar-right.col-md-3.col-lg-3.herald-sidebar
-30nama.today###banner-header
+30nama8.today###banner-header
 3pide.ir###b1
 3pide.ir###col-1:nth-of-type(1)
 4dah.ir##.wrap > .warpper > .head2-ads
