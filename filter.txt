@@ -25,6 +25,7 @@
 ###takhfifan-widget
 ###Topadver
 ##.active.visible.transition.page.modals.dimmer.ui
+##.ad-container
 ##.ads-head
 ##.adsblockpop
 ##.adsssss
