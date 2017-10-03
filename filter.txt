@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: AVX39LTEXs+YS7hB/U5HAQ
+! Checksum: e36KG5FXh3qAImrhugxNbQ
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -351,6 +351,7 @@ myfablog.ir##[style="position: absolute;right: 1px; top: 1px;z-index: 100; width
 myfablog.ir##[style="position:absolute;left:1;top:1;width:122;border:1px solid #C0C0C0;z-index:10;background-color:white"]
 naghola.com###header_down > table:nth-of-type(3) > tbody
 namakstan.ir##.topads1
+namakstan.net##.topads1
 namnak.com###adsarea
 namnak.com##.weblinks
 namnak.com##aside:nth-of-type(2)
@@ -521,6 +522,7 @@ zohur12.ir##.related-posts
 ||1000site.ir/asset/media/banner/
 ||1fardadownload.net/wp-content/uploads/*/*/payamgps
 ||1pezeshk.com/wp-content/uploads/*/*/*.gif$image
+||1pezeshk.com/wp-content/uploads/*/Baner
 ||20script.com/banner/$image
 ||20tayi.ir/wp-content/uploads/1.png$image
 ||3iranfilm.me/wp-content/uploads/*/*/*.gif$image
@@ -560,6 +562,7 @@ zohur12.ir##.related-posts
 ||appget.ir/*.gif
 ||appleapps.ir/wp-content/uploads/*/*/*.gif$image
 ||appligh.ir/wp-content/uploads/ads
+||artdes.ir/mehdi/$subdocument
 ||asemooni.com/*/*/*.gif$image
 ||asrebank.ir/img/banners/
 ||avadl.biz/img/Reza/*banner
@@ -604,6 +607,7 @@ zohur12.ir##.related-posts
 ||clickyab.com^
 ||core.clix.ir/bc/$subdocument
 ||dabi.ir/ScriptResource.axd?
+||dabi.ir/Upload/*.gif
 ||dabi.ir/Upload/*/130x200
 ||dabi.ir/Upload/StaticBanners/$image
 ||damadam.ir/images/layout/other/*.gif
@@ -697,6 +701,7 @@ zohur12.ir##.related-posts
 ||image.hastidownload.biz/img/tya.gif$image
 ||image.hastidownload.co/img/ad
 ||images.khabaronline.ir/system/menus/*/
+||images.kojaro.com/*.gif
 ||img.bisms.ir//2016/10/426023421_5668.jpg
 ||img.bisms.ir//2016/10/nose-up-1.jpg
 ||img.soft98.ir/*.gif$image
@@ -772,6 +777,7 @@ zohur12.ir##.related-posts
 ||myiranfilm.ir/wp-content/uploads/*/*/*.gif$image
 ||naghola.com/tabligh*/$image
 ||namakstan.ir/wp-content/uploads/2016/11/unnamed.jpg$image
+||namakstan.net/wp-content/uploads/*.gif
 ||namnak.com/users/shop/files/*.gif$image
 ||new4android.ir/wp-content/uploads/*/*/*.gif$image
 ||news-bazar.com/Styles/Banner/$image
