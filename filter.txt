@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: e36KG5FXh3qAImrhugxNbQ
+! Checksum: Dv6LJqu/Q3unrbrBKJwrnQ
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -73,10 +73,13 @@
 1pezeshk.com###herald-module-3-0
 1pezeshk.com###herald-module-4-0
 1pezeshk.com##.herald-sidebar-right.col-md-3.col-lg-3.herald-sidebar
+2zaar.ir###ads
+2zaar.ir###topBanner
 30nama8.today###banner-header
 3pide.ir###b1
 3pide.ir###col-1:nth-of-type(1)
 4dah.ir##.wrap > .warpper > .head2-ads
+6sobh.com###RightAdsBar
 75news.top###SenBackLoginBox
 abipic.com###radsfix
 afkarnews.ir##.type-resource-swf.type-resource
@@ -528,6 +531,7 @@ zohur12.ir##.related-posts
 ||3iranfilm.me/wp-content/uploads/*/*/*.gif$image
 ||3iranfilm.me/wp-content/uploads/*/*/2-compressor.jpg$image
 ||4dah.ir/wp-content/uploads/ADS*.gif$image
+||6sobh.com/images/elitgashtL4.gif
 ||8pic.ir/images/*.gif$image
 ||abipic.com/wp-content/uploads/2016/06/bafterefect-2.gif$image
 ||accpress.com/baner/$image
