@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Dv6LJqu/Q3unrbrBKJwrnQ
+! Checksum: Ec/kiQHjO+nGL8eWkhTYvw
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -504,6 +504,7 @@ topnaz.com##.adstmp
 topnaz.com##.b130ads
 topnaz.com##.bxl
 toranji.ir###\32 b25e9d2_886e > .ruby-container.ruby-block-inner
+vajehyab.com##.vyads
 vbiran.ir##.adbox
 vbiran.ir##.vbiran-ads
 wetravel.ir###myModal
@@ -632,6 +633,7 @@ zohur12.ir##.related-posts
 ||dl.hdaneshjoo.ir/hdaneshjoo/ax/
 ||doctorwp.com/wp-content/uploads/*/*/ads-*.gif$image
 ||donya-e-eqtesad.com/Images/Bitrix//BannerFile/$image
+||donya-e-eqtesad.com/servev2/*.gif$image
 ||download.ir/wp-content/uploads/*/*/*.gif$image
 ||download.ir/wp-content/uploads/*/*/ads$image
 ||downloadha.com/shop/sabavision$image
@@ -915,6 +917,7 @@ zohur12.ir##.related-posts
 ||up.sibgraph.ir/up/admin-sibgraph/sibgraph/theme/Images/*.gif$image
 ||up.skinak.ir/up/skinak/temps/forum/v3/images/bg.jpg$image
 ||uupload.ir/files/*.gif
+||vajehyab.com/img/ads/$image
 ||varzesh3.com/v3/static/img/banner/$image
 ||vbiran.ir/uploads/hit_*.png
 ||webii.ir/Images/*banner/$image
