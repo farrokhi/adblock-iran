@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Ec/kiQHjO+nGL8eWkhTYvw
+! Checksum: jbUZxKfi2UrgndiEK9lsQQ
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! 
@@ -758,6 +758,7 @@ zohur12.ir##.related-posts
 ||lahzeakhar.com/images/rightBanners/*.gif
 ||lahzeakhar.com/images/Slider/
 ||lahzeakhar.com/images/topRotator/*.gif
+||lastsecond.ir/uploads/files/*.gif
 ||lasttours.net/*.gif
 ||lasttours.net/images/banner_images/
 ||lavdan.ir/img/banner/
@@ -869,6 +870,7 @@ zohur12.ir##.related-posts
 ||sena.ir/ShowImages.ashx?Adv$image
 ||sena.ir/Upload/PicGallery/Adver/$object
 ||shahrekhabar.com/swf/
+||sheypoor.com/static/ra/mininofollow.html
 ||shopkeeper.ir/images/*.gif$image
 ||shoptou.in/
 ||simcart.com/a/$image
