@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: sz27rVxHb/vM3sIqBudhTg
+! Checksum: 4yeWUfUv5dPAAxYAN2DANQ
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! Title :    Adblock-Iran
@@ -291,6 +291,9 @@ isna.ir###box32
 itiran.com##.pull-right.addver2.span12
 itna.ir##[id^="advertise"]
 itresan.com###fsml_ff
+jahannews.com###adsid
+jahannews.com##.advertise_div2
+jahannews.com##.hidden-xs.col-sm-4.col-md-4.col-lg-4
 jamnews.ir###AdvertsHolderWI_1041 > .Adverts
 japanmusic.ir##.banerri
 jazzaab.ir##.CBS.TopAdssss
@@ -631,6 +634,7 @@ zohur12.ir##.related-posts
 ||dl.economya.ir/wp-files/uploads/output_BOPF0B.gif$image
 ||dl.hdaneshjoo.ir/hdaneshjoo/ax/
 ||doctorwp.com/wp-content/uploads/*/*/ads-*.gif$image
+||dolatebahar.com/media/image/userdata/*.gif
 ||donya-e-eqtesad.com/Images/Bitrix//BannerFile/$image
 ||donya-e-eqtesad.com/servev2/*.gif$image
 ||download.ir/wp-content/uploads/*/*/*.gif$image
