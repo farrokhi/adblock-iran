@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 4yeWUfUv5dPAAxYAN2DANQ
+! Checksum: kpl+U4JWZM22yfut2BV8eg
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! Title :    Adblock-Iran
@@ -508,6 +508,7 @@ topnaz.com##.b130ads
 topnaz.com##.bxl
 toranji.ir###\32 b25e9d2_886e > .ruby-container.ruby-block-inner
 vajehyab.com##.vyads
+varzesh3.com##.page-content-bg.hidden-xs.page-content-ads
 vbiran.ir##.adbox
 vbiran.ir##.vbiran-ads
 wetravel.ir###myModal
@@ -899,6 +900,7 @@ zohur12.ir##.related-posts
 ||talab.org/talab/m1.php
 ||talab.org/wp-content/uploads/baner/$image
 ||talarekhabar.com/wp-content/uploads/*/*/banner
+||tamasha.com/v3/static/bpx/
 ||tarafdari.com/sites/all/themes/hope/images/advertise/
 ||tasnimnews.com/Static/img/*.gif
 ||taya.ir/uploads/General/*.gif
