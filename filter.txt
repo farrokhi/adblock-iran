@@ -610,6 +610,8 @@ zohur12.ir##.related-posts
 ||clicksite.org/img/*takhfif
 ||clicksite.org/img/antivirus.gif$image
 ||clickyab.com^
+||kaprila.com^
+||beta.kaprila.com^
 ||core.clix.ir/bc/$subdocument
 ||dabi.ir/ScriptResource.axd?
 ||dabi.ir/Upload/*.gif
@@ -802,6 +804,7 @@ zohur12.ir##.related-posts
 ||omidiraniannewspaper.ir/upload/File/afranet-logo.jpg$image
 ||omidnameh.com/sites/default/files/img/*-*.gif
 ||p30download.com/tabliq
+||p30download.com/agahi
 ||p30rank.ir^
 ||p30skill.ir/wp-content/uploads/*/*/ModelingShop2.jpg$image
 ||p30skill.ir/wp-content/uploads/Alert1.jpg$image
