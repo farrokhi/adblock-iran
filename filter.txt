@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /p650fcOfOG997eSgNos1g
+! Checksum: KrS9j7u/TWL9DGe78qOT9Q
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! Title :    Adblock-Iran
-! Download : https://raw.githubusercontent.com/farrokhi/adblock-iran/master/filter.txt
+! Download : https://cdn.rawgit.com/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
 !
