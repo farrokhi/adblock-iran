@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: kpl+U4JWZM22yfut2BV8eg
+! Checksum: /p650fcOfOG997eSgNos1g
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! Title :    Adblock-Iran
@@ -13,9 +13,12 @@
 ###adsx
 ###advertise_div2
 ###agahi
+###apanet_iframe
 ###ban57
 ###divADV
 ###GlobalAdBlock
+###mediaad-A
+###mediaad-B
 ###mihan_page_advert
 ###nex1network-PB
 ###popup
@@ -32,6 +35,7 @@
 ##.adv
 ##.adv_display
 ##.adv_inner
+##.adv_sheypoor
 ##.advCon
 ##.advContainer
 ##.anetwork-b.anetwork-b-300x100
@@ -43,6 +47,7 @@
 ##.banners
 ##.cycle_adv_news
 ##.flix-float
+##.iranweb_iframe
 ##.logo_adv_container
 ##.mom_ads250.box_outer
 ##.mom_ads300.box_outer
@@ -332,6 +337,7 @@ lineblog.ir##[class^="adsblog"]
 lineblog.ir##[id^="ads"]
 linemovie.biz##.ads-ronakweb
 linemovie.biz##.category9
+m.rozup.ir##.ads
 manidl.ir###\33 4591733458887cfbe640d
 marde-rooz.com##.column-2.columns.entries.grid-4
 mashreghnews.ir##[id^="ad"]
@@ -349,6 +355,7 @@ mihanmarket.com##.spnsor_holder
 mizbanblog.com##[id^="ads"]
 momtaznews.com##.b130ads
 movie.downloadfreenewa.com###varoone_ads_top_right_540
+mstiran.com###banner-popup
 mstiran.com##.fancybox
 mstiran.com##.fancybox-overlay-fixed
 multisearch.ir##.tbox
@@ -430,6 +437,7 @@ readbook.ir##td:nth-of-type(1) > .sidebar-right:nth-of-type(1)
 rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(1)
 rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(2)
 rokna.ir##.xcon12 > .mb16
+rokna.net##.banner-sabet
 rond.ir##.banner-box
 rond.ir##.grid_6
 rondbaz.com##.hidden-xs:nth-of-type(1) > div > div
@@ -440,6 +448,7 @@ rouzegar.com##.sidebar-right > .ads.sidebar-box
 rozblog.com##.content-ads:nth-of-type(1) > .content-ads-bg
 rozblog.com##[style="position:fixed;left:1px;bottom:1px;width:122px;border:1px solid #C0C0C0;z-index:9999999999;background-color:white;direction:ltr;"]
 saat24.com##.box.ads
+saat24.news##a[href^="/redirect/ads/"]
 safarbaba.com##.hobab_msg
 sarzaminbazi.com###html_javascript_adder-7
 sarzamindownload.com##.GSLeftSide.col-lg-3.col-md-3.col-sm-12.col-xs-12 > .widget_style_funcs.GSBlock:nth-of-type(4) > div > .GSblock
@@ -543,6 +552,7 @@ zohur12.ir##.related-posts
 ||ad.adtube.ir^
 ||ad.nowaroos.com/images/banner/
 ||ad.utop.ir/b/$image
+||adment.space/
 ||adnegah.net/*.js
 ||adnegah.net/cpx/
 ||ads.sahandar.com^$third-party
@@ -566,6 +576,7 @@ zohur12.ir##.related-posts
 ||androidineh.com/wp-content/uploads/instafollower_600.jpg$image
 ||anobanini.net/forum/adsg/
 ||apanet.net/index2.php?img=$subdocument
+||apanet.net/index_show.php
 ||apkpars.ir/img/*banner
 ||apktops.ir/wp-content/uppic/*.gif$image
 ||appget.ir/*.gif
@@ -606,6 +617,7 @@ zohur12.ir##.related-posts
 ||cdn.isna.ir/d/*/*/*/*/*.swf$object
 ||cdn.last.upload.ir/*.gif
 ||cdn.mashreghnews.ir/d/*/*/*/*/*.gif
+||cdn.mediaad.org/mediaad/
 ||cdn.persiangig.com/preview/$image
 ||chargereseller.com/img/banner/
 ||cinemakhabar.ir/Picture/*.gif
@@ -775,6 +787,7 @@ zohur12.ir##.related-posts
 ||mazandmajles.ir/public/uploads/resaneh/$image
 ||media.farsnews.com/Uploaded/Files/Documents/*/*/*/$image
 ||media.mehrnews.com/d/*/*/*/*/*.gif$image
+||mediaad.org/static/
 ||melipayamak.com/wp-content/themes/melipayamak/images/banner/$image
 ||melipayamak.com/wp-content/themes/melipayamk/images/banner/$image
 ||mesearch.xyz/sq.php
@@ -865,6 +878,7 @@ zohur12.ir##.related-posts
 ||s3-us-west-2.amazonaws.com/iranefarda/00test/$image
 ||saat24.com/d/*/*/*/*/*.gif
 ||saat24.com/d/2016/08/29/0/328182.jpg
+||saat24.news/d/
 ||sabavision.com/$subdocument
 ||sabavision.com/public//public/user_data/user_banner/$image
 ||safarbaba.com/uploads/*/*/gif/*.gif
@@ -879,6 +893,7 @@ zohur12.ir##.related-posts
 ||sena.ir/Upload/PicGallery/Adver/$object
 ||shahrekhabar.com/swf/
 ||sheypoor.com/static/ra/mininofollow.html
+||sheypoor.com/static/ra/nofollow.html
 ||shopkeeper.ir/images/*.gif$image
 ||shoptou.in/
 ||simcart.com/a/$image
@@ -891,6 +906,7 @@ zohur12.ir##.related-posts
 ||sstarv.com/wp-content/uploads/*.gif
 ||static-cdn.anetwork.ir/aw/
 ||static.clix.ir/
+||static2.rokna.net/servev2/$image
 ||tableaumag.com/wp-content/uploads/sites/*/*banner
 ||taknaz.net/taknaz/pish2.php$subdocument
 ||taknaz.net/taknaz/test.php$subdocument
@@ -943,5 +959,6 @@ zohur12.ir##.related-posts
 ||yasdl.com/wp-content/uploads/*/*/faranesh.gif$image
 ||yasell.biz
 ||yeknet.ir/sites/default/files/js/
+||yektanet.com/assets/yektanet-branding/index.html
 ||zanboor.net/show.php$subdocument
 ||zoomit.ir/*/banners/
