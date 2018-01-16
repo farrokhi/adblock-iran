@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: tDiHontwufetji3fASjtUQ
+! Checksum: ofrSk+ceNLmXKmqUVLMOSg
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! Title :    Adblock-Iran
@@ -242,7 +242,9 @@ gamesib.ir##[id*="next1-*"]
 gardesh.info###SenBackLoginBox
 ghasreshayan.com###snppopup-welcome
 ghasreshayan.com##.snp-pop-9485-overlay.fancybox-overlay
+ghatreh.com###adtube-314
 ghatreh.com##.ads
+ghatreh.com##.ads_body
 gooya.com###AutoNumber1
 gooyait.com##.widget.widget_text
 graphiran.com##.textadsa1
@@ -722,6 +724,7 @@ zohur12.ir##.related-posts
 ||gamelive.ir/wp-content/uploads/2015/08/negar-khaneh.jpg$image
 ||gashtnet.net/uploadFiles/banner/
 ||getandroid.ir/Files/Banner/
+||ghatreh.com/ads/
 ||gooya.com/*/banners
 ||graphiran.com/wp-content/uploads/*/*/ads
 ||graphiran.com/wp-content/uploads/*/*/filestore
