@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: KrS9j7u/TWL9DGe78qOT9Q
+! Checksum: tDiHontwufetji3fASjtUQ
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! Title :    Adblock-Iran
@@ -91,7 +91,10 @@ afkarnews.ir##.type-resource-swf.type-resource
 afkarnews.ir##IFRAME[src*="adtube"]
 afkarnews.ir##IFRAME[src*="anetwork"]
 aftabeyazd.ir##div:nth-of-type(7) > div:nth-of-type(4)
+aftabir.com##.hidden-xs:nth-of-type(6)
+aftabir.com##.hidden-xs:nth-of-type(8)
 aftabir.com##.sidebar-fixed > .block
+aftabir.com##a[href^="/redirect.php"]
 aftabnews.ir##.adv_l_inner5
 akairan.com##.moduletable-banner:nth-of-type(3)
 akairan.com##.si120.fci
@@ -180,6 +183,8 @@ dl4all.ir##.center > .fadeInDown.animated.visible.hidden.body-main:nth-of-type(1
 dl4all.ir##.left > .fadeInDown.animated.visible.hidden.body-main:nth-of-type(1)
 dlbook.net##.mom_custom_text.widget:nth-of-type(3) > .custom_textwidget
 dlroozane.com##.static-post
+donya-e-eqtesad.com##.mrgtalfiq
+donya-e-eqtesad.com##.position-i0
 doustiha.ir##.fixed-ads
 download.ir###hdd_rss_reader-2
 downloadha.com###main > .main-container > .maincontent > .topbanners468
@@ -221,6 +226,7 @@ farsnews.com##.advertisement
 farsnews.com##.col-md-2.ads-tile
 farsroid.com##.col.post-sabet:nth-of-type(2)
 farsroid.com##.row.post-sabets:nth-of-type(1)
+fartaknews.com##a[href^="/advertisements/"]
 fibazar.ir##.kornertabligh
 fibazar.ir##[class*="-tblg-"]
 film2movie.biz##.middle > .right-main > .main > .box:nth-of-type(3)
@@ -247,6 +253,7 @@ hadana.ir##.ulp-content
 hadana.ir##[id^="ulp-"]
 hamgardi.com###PlaceHolderDivMainContent_MainContent_MainContent_HamgardiInnerPageDetailView_InnerPageTop_twoBoxes
 hamgardi.com##.web_crawler.row-fluid
+harfetaze.com##.moded.vc_sidebar
 harimeasmani.ir##[style="position:fixed;left:1px;bottom:1px;width:122px;border:1px solid #C0C0C0;z-index:9999999999;background-color:white;direction:ltr;"]
 harmonydl.info##.q46
 hastidl.org###skinak_ads_bottom_left_125
@@ -270,6 +277,7 @@ ictna.ir###sidebar > .margint10.clearfix.squer.sidebar-footer-ad
 ictna.ir##.content-right-ad
 ilna.ir###sticker
 imovie-dl.org###banners_index
+inet.ir###filmnetBox
 ir###adnFloatbl
 ir##.sidebar-box.Ads-Text
 ir##[id^="anetwork-"]
@@ -350,6 +358,7 @@ mepatogh.ir##.tablighs
 mihanblog.com###apanet_ads_bottom_left_120
 mihanblog.com###apanet_ads_bottom_right_120
 mihanblog.com###apanet_ads_top_right_120
+mihandl10.xyz###SenBackLoginBox
 mihangame.com##.widget_text.widget
 mihanmarket.com##.spnsor_holder
 mizbanblog.com##[id^="ads"]
@@ -367,9 +376,12 @@ namakstan.ir##.topads1
 namakstan.net##.topads1
 namnak.com###adsarea
 namnak.com##.weblinks
+namnak.com##a[href^="/ag_"]
 namnak.com##aside:nth-of-type(2)
 new4android.ir##body > div:nth-of-type(3) > .external
 news-bazar.com##.ads
+newsfa10.xyz###SenBackLoginBox
+newsfa10.xyz##.ads
 newsreaders.ir##.ads
 newsreaders.ir##.article-page
 nextholiday.ir##.carousel-inner
@@ -387,6 +399,8 @@ niksalehi.com##DIV[style="text-align: justify; direction: rtl; padding: 5px 25px
 ninisite.com##.lazy.d-inline.img-fluid
 ninjagram.ir###ti_box
 noda.ir##.header-right
+nodud.ir##.cardset
+nodud.ir##.lazyloaded.tags
 omidiraniannewspaper.ir###\34 6
 omidiraniannewspaper.ir###\35 0
 omidnameh.com###ads
@@ -430,6 +444,7 @@ persianv.com##.wrapper2:nth-of-type(8)
 persianv.com##[class^="ads_"]
 persianv.com##a[href^="http://panel.persianv.com/counter/click.php"]
 pesedit.ir##a[href="http://www.pesedit.ir/ads/index.html"]
+photokade.com###mediaad-C
 plus.ir##.advBanner.text-center
 rajanews.com##.ads
 rasane241.com###LiteBoxWindow
@@ -463,6 +478,7 @@ seemorgh.com##[class$="banner"]
 seemorgh.com##[class*="ads-"]
 seemorgh.com##[class^="ad-"]
 shahrekhabar.com##.hidden-xs.hidden-sm.col-md-2.col-lg-2 > .row
+shami98.ir##.ads
 shopkeeper.ir###sidebar_container
 shopkeeper.ir##.postbody > div > div > a[href^="http://go.shopkeeper.ir/"]
 skinak.ir###dis_ads > .dadsd
@@ -524,6 +540,7 @@ wetravel.ir###myModal
 wetravel.ir##.in.fade.modal-backdrop
 wetravel.ir/wp-content/uploads/*/*/ads
 wimaxnews.ir##.Advert
+www.ilna.ir##a[href^="/advertisements/"]
 yaranews.ir###ads
 yasbooks.com##tr:nth-of-type(2) > td > table > tbody > tr > td:nth-of-type(1) > table:nth-of-type(2)
 yasdl.com##.post.fixed-post.row
@@ -619,10 +636,12 @@ zohur12.ir##.related-posts
 ||cdn.mashreghnews.ir/d/*/*/*/*/*.gif
 ||cdn.mediaad.org/mediaad/
 ||cdn.persiangig.com/preview/$image
+||cdn.yektanet.com/assets/
 ||chargereseller.com/img/banner/
 ||cinemakhabar.ir/Picture/*.gif
 ||cinemakhabar.ir/Picture/*.swf$object
 ||cinematicket.org/images/a-d/$image
+||click.sabavision.com//public/
 ||clicksite.org/img/*takhfif
 ||clicksite.org/img/antivirus.gif$image
 ||clickyab.com^
@@ -819,6 +838,7 @@ zohur12.ir##.related-posts
 ||niksalehi.com/wordpress/wp-content/uploads/*/*/*.gif$image
 ||niksalehi.com/wp-content/uploads/*/*/*.gif$image
 ||ninisite.com/statics/ads/$image
+||nodud.com/source/ntvds/
 ||omidiraniannewspaper.ir/upload/File/afranet-logo.jpg$image
 ||omidnameh.com/sites/default/files/img/*-*.gif
 ||p30download.com/agahi
@@ -892,8 +912,7 @@ zohur12.ir##.related-posts
 ||sena.ir/ShowImages.ashx?Adv$image
 ||sena.ir/Upload/PicGallery/Adver/$object
 ||shahrekhabar.com/swf/
-||sheypoor.com/static/ra/mininofollow.html
-||sheypoor.com/static/ra/nofollow.html
+||sheypoor.com/static/ra/
 ||shopkeeper.ir/images/*.gif$image
 ||shoptou.in/
 ||simcart.com/a/$image
@@ -906,6 +925,7 @@ zohur12.ir##.related-posts
 ||sstarv.com/wp-content/uploads/*.gif
 ||static-cdn.anetwork.ir/aw/
 ||static.clix.ir/
+||static2.ilna.ir/servev2/
 ||static2.rokna.net/servev2/$image
 ||tableaumag.com/wp-content/uploads/sites/*/*banner
 ||taknaz.net/taknaz/pish2.php$subdocument
