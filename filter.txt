@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: rMcnvMO0DcFs6KvZ0aUytA
+! Checksum: uZ5htlJu2qcFu5ik6Y4mCg
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! Title :    Adblock-Iran
@@ -565,11 +565,11 @@ zohur12.ir##.related-posts
 |http://moviemag.ir/images/files/*/Ad/
 ||*.adnegah.net/$subdocument
 ||1000charge.com/gifbanner/
+||1000click.ir/
 ||1000site.ir/asset/media/banner/
 ||1fardadownload.net/wp-content/uploads/*/*/payamgps
 ||1pezeshk.com/wp-content/uploads/*/*/*.gif$image
 ||1pezeshk.com/wp-content/uploads/*/Baner
-||1000click.ir*
 ||20script.com/banner/$image
 ||20tayi.ir/wp-content/uploads/1.png$image
 ||3iranfilm.me/wp-content/uploads/*/*/*.gif$image
@@ -656,7 +656,7 @@ zohur12.ir##.related-posts
 ||cinemakhabar.ir/Picture/*.swf$object
 ||cinematicket.org/images/a-d/$image
 ||click.sabavision.com//public/
-||clickbux.ir*
+||clickbux.ir/
 ||clicksite.org/img/*takhfif
 ||clicksite.org/img/antivirus.gif$image
 ||clickyab.com^
