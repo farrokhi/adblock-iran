@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ofrSk+ceNLmXKmqUVLMOSg
+! Checksum: rMcnvMO0DcFs6KvZ0aUytA
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! Title :    Adblock-Iran
@@ -75,6 +75,8 @@
 /tabligh/*
 /tabliq/*
 1000site.ir##.col-md-2
+1pezeshk.com###adtube-261
+1pezeshk.com###better_rss_widget-14
 1pezeshk.com###herald-module-3-0
 1pezeshk.com###herald-module-4-0
 1pezeshk.com##.herald-sidebar-right.col-md-3.col-lg-3.herald-sidebar
@@ -208,6 +210,7 @@ estekhtam.com###text-2
 estekhtam.com###text-9
 faaltarin.com##body > div:nth-of-type(2) > div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(3)
 faradeed.ir##.hidden-xs.hidden-ms.hidden-sm.col-md-4.col-lg-5 > .padding_r2
+fararu.com###owl-demo-newspage2
 fararu.com##.box
 fararu.com##.cont_main_txtadv
 fararu.com##.hidden-xs.hidden-ms.hidden-sm.logo_adv2
@@ -278,6 +281,7 @@ ictna.ir###sidebar > .clearfix.sidebar-header-ad
 ictna.ir###sidebar > .margint10.clearfix.squer.sidebar-footer-ad
 ictna.ir##.content-right-ad
 ilna.ir###sticker
+imemar.icivil.ir###snppopup-welcome
 imovie-dl.org###banners_index
 inet.ir###filmnetBox
 ir###adnFloatbl
@@ -343,6 +347,7 @@ lahzeakhar.com##.adsSlide
 lahzeakhar.com##.lside
 lahzeakhar.com##.tbadss
 lasttours.net##.map
+lenzak.com###text-31
 lineblog.ir##[class^="adsblog"]
 lineblog.ir##[id^="ads"]
 linemovie.biz##.ads-ronakweb
@@ -382,6 +387,8 @@ namnak.com##a[href^="/ag_"]
 namnak.com##aside:nth-of-type(2)
 new4android.ir##body > div:nth-of-type(3) > .external
 news-bazar.com##.ads
+news.kodoom.com###large-ad-widget-slider-2849
+news.kodoom.com###large-ad-widget-slider-5484
 newsfa10.xyz###SenBackLoginBox
 newsfa10.xyz##.ads
 newsreaders.ir##.ads
@@ -455,6 +462,7 @@ rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(1)
 rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(2)
 rokna.ir##.xcon12 > .mb16
 rokna.net##.banner-sabet
+rokna.net##a[href^="/advertisements/"]
 rond.ir##.banner-box
 rond.ir##.grid_6
 rondbaz.com##.hidden-xs:nth-of-type(1) > div > div
@@ -527,6 +535,7 @@ tehmovies.me##.litebox
 tickonline.ir##.widget-right:nth-of-type(6)
 tigatravel.com##.fade
 tigatravel.com##.popup_block
+tinn.ir##a[href^="/advertisements/"]
 top.gamesharing.ir###ulp-dwF18auU389Mlg3o
 top.gamesharing.ir###ulp-dwF18auU389Mlg3o-overlay
 topdownloadha.com##.ads.box
@@ -536,6 +545,7 @@ topnaz.com##.bxl
 toranji.ir###\32 b25e9d2_886e > .ruby-container.ruby-block-inner
 vajehyab.com##.vyads
 varzesh3.com##.page-content-bg.hidden-xs.page-content-ads
+vazeh.com##.mainx1
 vbiran.ir##.adbox
 vbiran.ir##.vbiran-ads
 wetravel.ir###myModal
@@ -737,6 +747,7 @@ zohur12.ir##.related-posts
 ||hastidownload.biz/img/7uy.jpg$image
 ||hidoctor.ir/wp-content/uploads/*/*/*.gif$image
 ||icinema.ir/uploads/ad
+||icivil.ir/wp-content/uploads/*.gif$image
 ||icoff.ee/fa/wp-content/uploads/*/*/*.gif$image
 ||icoff.ee/fa/wp-content/uploads/*/*/*banner
 ||icoff.ee/fa/wp-content/uploads/2016/07/cafe-paradiso.jpg$image
@@ -803,6 +814,7 @@ zohur12.ir##.related-posts
 ||lasttours.net/*.gif
 ||lasttours.net/images/banner_images/
 ||lavdan.ir/img/banner/
+||lenzak.com/photos/*.gif$image
 ||linkyab.net/download/*.gif$image
 ||magnetadservices.com^$third-party
 ||mardomsalari.com/upload/images/14771523021476531352613215377155978855.jpg$image
@@ -949,6 +961,7 @@ zohur12.ir##.related-posts
 ||tehmovies.me/wp-content/uploads/2017/02/500x500
 ||telegram-channels.ir/wp-content/uploads/*/*/*adv
 ||tgju.org/webservice/global/snippet.php
+||tinn.ir/servev2/$image
 ||tinymovies70.top/ads/
 ||tiwall.com/api/adver/
 ||tooptarinha.com/uploads/ads-new/$image
