@@ -569,6 +569,7 @@ zohur12.ir##.related-posts
 ||1fardadownload.net/wp-content/uploads/*/*/payamgps
 ||1pezeshk.com/wp-content/uploads/*/*/*.gif$image
 ||1pezeshk.com/wp-content/uploads/*/Baner
+||1000click.ir*
 ||20script.com/banner/$image
 ||20tayi.ir/wp-content/uploads/1.png$image
 ||3iranfilm.me/wp-content/uploads/*/*/*.gif$image
@@ -617,6 +618,7 @@ zohur12.ir##.related-posts
 ||avadl.biz/img/Reza/*banner
 ||axgig.com/images/*.gif
 ||b-amooz.com/wp-content/uploads/*/*/hikvision.gif
+||backority.ir^$script
 ||badigi.com/wp-content/uploads/*/*/*.gif$image
 ||bankemardom.ir/wp-content/uploads/*.gif
 ||banker.ir/img/banners/
@@ -654,6 +656,7 @@ zohur12.ir##.related-posts
 ||cinemakhabar.ir/Picture/*.swf$object
 ||cinematicket.org/images/a-d/$image
 ||click.sabavision.com//public/
+||clickbux.ir*
 ||clicksite.org/img/*takhfif
 ||clicksite.org/img/antivirus.gif$image
 ||clickyab.com^
@@ -909,6 +912,7 @@ zohur12.ir##.related-posts
 ||rouzegar.com/wp-content/uploads/2016/12/photo_*.jpg$image
 ||rozup.ir/up/asa-game/pars-design/banner/
 ||rtb.adtube.ir^
+||rzb.ir^$script
 ||s.hitplus.ir^
 ||s3-us-west-2.amazonaws.com/iranefarda/00test/$image
 ||saat24.com/d/*/*/*/*/*.gif
@@ -985,6 +989,7 @@ zohur12.ir##.related-posts
 ||vbiran.ir/uploads/hit_*.png
 ||webii.ir/Images/*banner/$image
 ||weblogmaster.com/link-v3/
+||weclick.ir^$script
 ||wetravel.ir/wp-content/uploads/*/*/*.gif
 ||widget.congoro.com
 ||widgets.takhfifan.com/pics/$image
