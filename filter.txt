@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: rtZvAXdJScuUUyIcK3GmHA
+! Checksum: dL7MRJaQQCcBt0oOF0SW1w
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! Title :    Adblock-Iran
@@ -283,6 +283,7 @@ ictna.ir###sidebar > .clearfix.sidebar-header-ad
 ictna.ir###sidebar > .margint10.clearfix.squer.sidebar-footer-ad
 ictna.ir##.content-right-ad
 ilna.ir###sticker
+ilnanews.com###sticker
 imemar.icivil.ir###snppopup-welcome
 imovie-dl.org###banners_index
 inet.ir###filmnetBox
@@ -761,6 +762,8 @@ zohur12.ir##.related-posts
 ||icoff.ee/fa/wp-content/uploads/2016/07/cafe-paradiso.jpg$image
 ||icoff.ee/fa/wp-content/uploads/2016/08/logoundeux.jpg$image
 ||ilna.ir/serve/*/*/$image
+||ilnanews.com/servev2/*.gif
+||ilnanews.com/servev2/*.swf
 ||image.hastidownload.biz/img/Linux-iran.jpg$image
 ||image.hastidownload.biz/img/tya.gif$image
 ||image.hastidownload.co/img/ad
