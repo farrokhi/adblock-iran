@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: uLamikSs1JEjndENTH9tAg
+! Checksum: 6sFO1/NKFrBQjH7t/tPkNw
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! Title :    Adblock-Iran
@@ -568,6 +568,8 @@ yasdl.com##p:nth-of-type(5) > a[href="http://mahoot-leather.ir/"]
 zima.ir##.newslleterPop
 zima.ir##.overlayDiv
 zohur12.ir##.related-posts
+zoomit.ir##.clearfix.text-adv-box.panel-default.panel
+zoomit.ir##.text-adv-row
 |http://moviemag.ir/images/files/*/Ad/
 ||*.adnegah.net/$subdocument
 ||1000charge.com/gifbanner/
