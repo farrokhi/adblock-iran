@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 6sFO1/NKFrBQjH7t/tPkNw
+! Checksum: VMz1NEQqHGvrTiBHFoAZIQ
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! Title :    Adblock-Iran
@@ -70,8 +70,6 @@
 /adtube250.php
 /agahi/*
 /files/adv/*
-/images/banners/*
-/static/images/banner/*
 /tabligh/*
 /tabliq/*
 1000site.ir##.col-md-2
