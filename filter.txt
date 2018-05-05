@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
+! Checksum: Rq36lT9eq7zQ4zngulgYBQ
 ! Checksum: 
 ! 
 ! Ad blocking rules for iranian/persian websites.
@@ -128,10 +129,10 @@ appleapps.ir##.ulp-window-middle-center.ulp-window
 ariapix.net##a[href^="http://ariapix.net/click/click.php"]
 asemooni.com###text-6
 aslomid.ir###adv2
-asriran.com##.padd_adv
 asriran.com##.adv_ifram_ticket
 asriran.com##.h_iframe-sabavision_responsive_ads_260x200
 asriran.com##.marquee_container
+asriran.com##.padd_adv
 asriran.com##.webgardi_main.row
 asriran.com##[class*="neshan_"]
 asriran.com##[class^="mgbox-"]
@@ -583,13 +584,13 @@ yasdl.com##p:nth-of-type(5) > a[href="http://mahoot-leather.ir/"]
 zima.ir##.newslleterPop
 zima.ir##.overlayDiv
 zohur12.ir##.related-posts
-zoomit.ir##text-adv-box
+zoomit.ir##.bannercontainer
 zoomit.ir##.text-adv-row
+zoomit.ir##text-adv-box
 zoomtech.ir###rss-2
 zoomtech.ir###text-10
 zoomtech.ir###text-19
 zoomtech.ir###text-3
-zoomit.ir##.bannercontainer
 |http://moviemag.ir/images/files/*/Ad/
 ||*.adnegah.net/$subdocument
 ||1000charge.com/gifbanner/
@@ -681,9 +682,7 @@ zoomit.ir##.bannercontainer
 ||cdn.mashreghnews.ir/d/*/*/*/*/*.gif
 ||cdn.mediaad.org/mediaad/
 ||cdn.persiangig.com/preview/$image
-||cdn.tabnak.ir/files/adv/*$image
 ||cdn.yektanet.com/assets/
-||cdn.yjc.ir/files/adv/*$image
 ||chargereseller.com/img/banner/
 ||cinemakhabar.ir/Picture/*.gif
 ||cinemakhabar.ir/Picture/*.swf$object
@@ -792,7 +791,6 @@ zoomit.ir##.bannercontainer
 ||ilna.ir/serve/*/*/$image
 ||ilnanews.com/servev2/*.gif
 ||ilnanews.com/servev2/*.swf
-||irannaz.com/baner*/*
 ||image.hastidownload.biz/img/Linux-iran.jpg$image
 ||image.hastidownload.biz/img/tya.gif$image
 ||image.hastidownload.co/img/ad
@@ -811,6 +809,7 @@ zoomit.ir##.bannercontainer
 ||iranjib.ir/uploads/*.gif$image
 ||iranjib.ir/uploads/*.swf$object
 ||irannaz.com/ax/$image
+||irannaz.com/baner*/
 ||iranpars1.in/banners/$image
 ||iranrada.com/wp-content/uploads/*/*/*.gif$image
 ||irebooks.com/wp-content/uploads/*/*/*-*x*.$image
@@ -888,9 +887,8 @@ zoomit.ir##.bannercontainer
 ||newsair.ir/wp-content/uploads/*/*/*.gif$image
 ||newsair.ir/wp-content/uploads/*/*/banner
 ||newsfa.ir/uploads/banner/$image
+||nex1music.ir/bnr/
 ||nex1network.com/$subdocument
-||nex1music.ir/banner/*
-||nex1music.ir/bnr/*
 ||nextads.ir^
 ||nextholiday.ir/uploads/*/*/gif/*.gif
 ||niksalehi.com/ads-left/
@@ -900,7 +898,6 @@ zoomit.ir##.bannercontainer
 ||nodud.com/source/ntvds/
 ||omidiraniannewspaper.ir/upload/File/afranet-logo.jpg$image
 ||omidnameh.com/sites/default/files/img/*-*.gif
-||p30day.com/images/tabligh/*$image
 ||p30download.com/agahi
 ||p30download.com/tabliq
 ||p30rank.ir^
@@ -970,10 +967,9 @@ zoomit.ir##.bannercontainer
 ||saten.ir/wp-content/uploads/*.gif
 ||saten.ir/wp-content/uploads/*/*/banner$image
 ||saten.ir/wp-content/uploads/*/glamora
+||scriptplus.ir/*/uploads/ads-
 ||sena.ir/ShowImages.ashx?Adv$image
 ||sena.ir/Upload/PicGallery/Adver/$object
-||scriptplus.ir/*/uploads/ads-*
-||scriptplus.ir/ads/*
 ||shahrekhabar.com/swf/
 ||shenoto.com/dist/banner
 ||sheypoor.com/static/ra/
