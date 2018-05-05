@@ -7,6 +7,11 @@
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
 !
+! General third party ads, tracking, annoyances
+||onesignal.com^$third-party
+||lwadm.com^$third-party
+
+! General ads and tracking rules
 ###adnFloatbr
 ###adpress_widget-2
 ###ads468
