@@ -1,6 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Rq36lT9eq7zQ4zngulgYBQ
-! Checksum: 
+! Checksum: n2JUXkvrowTlBYVvY8ucEQ
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! Title :    Adblock-Iran
