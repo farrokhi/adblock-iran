@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ouMkyCagkE+aY9NjV0wQhg
+! Checksum: 
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! Title :    Adblock-Iran
@@ -128,6 +128,7 @@ appleapps.ir##.ulp-window-middle-center.ulp-window
 ariapix.net##a[href^="http://ariapix.net/click/click.php"]
 asemooni.com###text-6
 aslomid.ir###adv2
+asriran.com##.padd_adv
 asriran.com##.adv_ifram_ticket
 asriran.com##.h_iframe-sabavision_responsive_ads_260x200
 asriran.com##.marquee_container
@@ -582,12 +583,13 @@ yasdl.com##p:nth-of-type(5) > a[href="http://mahoot-leather.ir/"]
 zima.ir##.newslleterPop
 zima.ir##.overlayDiv
 zohur12.ir##.related-posts
-zoomit.ir##.clearfix.text-adv-box.panel-default.panel
+zoomit.ir##text-adv-box
 zoomit.ir##.text-adv-row
 zoomtech.ir###rss-2
 zoomtech.ir###text-10
 zoomtech.ir###text-19
 zoomtech.ir###text-3
+zoomit.ir##.bannercontainer
 |http://moviemag.ir/images/files/*/Ad/
 ||*.adnegah.net/$subdocument
 ||1000charge.com/gifbanner/
@@ -679,7 +681,9 @@ zoomtech.ir###text-3
 ||cdn.mashreghnews.ir/d/*/*/*/*/*.gif
 ||cdn.mediaad.org/mediaad/
 ||cdn.persiangig.com/preview/$image
+||cdn.tabnak.ir/files/adv/*$image
 ||cdn.yektanet.com/assets/
+||cdn.yjc.ir/files/adv/*$image
 ||chargereseller.com/img/banner/
 ||cinemakhabar.ir/Picture/*.gif
 ||cinemakhabar.ir/Picture/*.swf$object
@@ -788,6 +792,7 @@ zoomtech.ir###text-3
 ||ilna.ir/serve/*/*/$image
 ||ilnanews.com/servev2/*.gif
 ||ilnanews.com/servev2/*.swf
+||irannaz.com/baner*/*
 ||image.hastidownload.biz/img/Linux-iran.jpg$image
 ||image.hastidownload.biz/img/tya.gif$image
 ||image.hastidownload.co/img/ad
@@ -815,6 +820,7 @@ zoomtech.ir###text-3
 ||islamquest.net/templates/islamquest_temp/images/$image
 ||isna.ir/images/shared/*.gif
 ||itbazar.com/UploadFiles/*.gif
+||itbazar.com/UploadFiles/*ADS
 ||itgheymat.com/uploadFiles/*.gif$image
 ||itgheymat.com/uploadFiles/app-itgheymat.jpg$image
 ||itiran.com/sites/default/files/*.gif$image
@@ -883,6 +889,8 @@ zoomtech.ir###text-3
 ||newsair.ir/wp-content/uploads/*/*/banner
 ||newsfa.ir/uploads/banner/$image
 ||nex1network.com/$subdocument
+||nex1music.ir/banner/*
+||nex1music.ir/bnr/*
 ||nextads.ir^
 ||nextholiday.ir/uploads/*/*/gif/*.gif
 ||niksalehi.com/ads-left/
@@ -892,6 +900,7 @@ zoomtech.ir###text-3
 ||nodud.com/source/ntvds/
 ||omidiraniannewspaper.ir/upload/File/afranet-logo.jpg$image
 ||omidnameh.com/sites/default/files/img/*-*.gif
+||p30day.com/images/tabligh/*$image
 ||p30download.com/agahi
 ||p30download.com/tabliq
 ||p30rank.ir^
@@ -963,6 +972,8 @@ zoomtech.ir###text-3
 ||saten.ir/wp-content/uploads/*/glamora
 ||sena.ir/ShowImages.ashx?Adv$image
 ||sena.ir/Upload/PicGallery/Adver/$object
+||scriptplus.ir/*/uploads/ads-*
+||scriptplus.ir/ads/*
 ||shahrekhabar.com/swf/
 ||shenoto.com/dist/banner
 ||sheypoor.com/static/ra/
