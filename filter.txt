@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Klb47ETIvyyjJzuEIJkz2w
+! Checksum: 1iXXgB7HyidVuEE8ZkO4aA
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! Title :    Adblock-Iran
@@ -225,6 +225,7 @@ eghtesadonline.com###mgbox-articles
 ensafnews.com##[id^="shahba_ad-"]
 entekhab.ir##.col-xs-36.attention
 entekhab.ir##.col-xs-36.news-web
+entekhab.ir##.yn-bnr__branding
 epapers.ir##.widgetleft
 estekhtam.com###text-2
 estekhtam.com###text-9
@@ -1058,7 +1059,7 @@ zoomtech.ir###text-3
 ||yasell.biz
 ||yeknet.ir/sites/default/files/js/
 ||yektanet.com/assets/yektanet-branding/index.html
-||yektanet.com/media/iframes/
+||yektanet.com/media/
 ||zanboor.net/show.php$subdocument
 ||zoomit.ir/*/banners/
 ||zoomtech.ir/wp-content/uploads/*.gif$image
