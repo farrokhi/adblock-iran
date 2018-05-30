@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 1iXXgB7HyidVuEE8ZkO4aA
+! Checksum: AqOy4D500W1qicMrdymjHA
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! Title :    Adblock-Iran
@@ -255,6 +255,8 @@ fastdic.com##div.results__ads
 fibazar.ir##.kornertabligh
 fibazar.ir##[class*="-tblg-"]
 film2movie.biz##.middle > .right-main > .main > .box:nth-of-type(3)
+film2movie.us##.fixed120
+film2movie.us##.headbanners
 freedanload.com###shortcodes-ultimate-2
 freegames.ir##.sidebar-box:nth-of-type(1)
 freegames.ir##.sidebar-box:nth-of-type(2)
@@ -773,6 +775,7 @@ zoomtech.ir###text-3
 ||fibazar.ir/uploads/ad
 ||files.namnak.com/aup/$image
 ||film2movie.biz/content/uploads/*.gif$image
+||film2movie.us/content/uploads/*.gif
 ||foxpush.net^
 ||freescript.ir/wp-content/uploads/*/*/*.gif$image
 ||funjoo.ir/www/*_*.jpg
