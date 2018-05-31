@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: xxg1a+HuDVpSU0K1Fv7d6A
+! Checksum: K3ChVgO2OfHxON5M3ijGOA
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! Title :    Adblock-Iran
@@ -526,12 +526,16 @@ shopkeeper.ir##.postbody > div > div > a[href^="http://go.shopkeeper.ir/"]
 skinak.ir###dis_ads > .dadsd
 skinak.ir##.bg > center > .dadsd:nth-of-type(2)
 skinak.ir##header > .ads
+soft98.ir###sidebar-sticky
 soft98.ir##.adx-image
 soft98.ir##.adx-link
 soft98.ir##.adx-sidebar
 soft98.ir##.adx__inner
+soft98.ir##.adxx
+soft98.ir##.adxx__inner
 soft98.ir##.list-post
 soft98.ir##.soft98-ad
+soft98.ir##[class^="ad"]
 softgozar.com###backgray-layout
 softgozar.com###dtlAdvertiseRightPan
 softgozar.com###PopAlert
@@ -630,6 +634,7 @@ zoomtech.ir###text-3
 ||adnegah.net/*.js
 ||adnegah.net/cpx/
 ||ads.sahandar.com^$third-party
+||adziran.cf/
 ||adziran.gq/
 ||afkarnews.ir/adtube
 ||afkarnews.ir/serve/*.gif
