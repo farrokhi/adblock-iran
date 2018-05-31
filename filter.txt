@@ -548,6 +548,7 @@ sourceiran.com##.text-ads-widget.widget
 static.mailerlite.com##.mailerlite-container
 static.mailerlite.com##.mailerlite-vertical-align-center
 static.mailerlite.com##.overlay
+subf2m.co##[class$="banner"]
 tabnak.ir##.adv_height
 tabnak.ir##.home_adv_height.padd_home_right.visible-md.visible-lg.col-md-5
 tabnak.ir##.marquee_container.row
@@ -661,7 +662,6 @@ zoomtech.ir###text-3
 ||anobanini.net/forum/adsg/
 ||apanet.net/index2.php?img=$subdocument
 ||apanet.net/index_show.php
-||api.sabavision.com^
 ||api.ticketing-service.com/topTickets/
 ||apkpars.ir/img/*banner
 ||apktops.ir/wp-content/uppic/*.gif$image
@@ -713,7 +713,6 @@ zoomtech.ir###text-3
 ||cinemakhabar.ir/Picture/*.gif
 ||cinemakhabar.ir/Picture/*.swf$object
 ||cinematicket.org/images/a-d/$image
-||click.sabavision.com//public/
 ||clickbux.ir/
 ||clicksite.org/img/*takhfif
 ||clicksite.org/img/antivirus.gif$image
@@ -745,8 +744,7 @@ zoomtech.ir###text-3
 ||donya-e-eqtesad.com/servev2/*.gif$image
 ||download.ir/wp-content/uploads/*/*/*.gif$image
 ||download.ir/wp-content/uploads/*/*/ads$image
-||downloadha.com/shop/*
-||downloadha.com/shop/sabavision$image
+||downloadha.com/shop/$image
 ||dubai-land.ir/images/ad*.gif
 ||dunro.com/embeded/pcdownload.html$subdocument
 ||e.weclick.ir/display/pre/$subdocument
@@ -989,8 +987,7 @@ zoomtech.ir###text-3
 ||saat24.com/d/*/*/*/*/*.gif
 ||saat24.com/d/2016/08/29/0/328182.jpg
 ||saat24.news/d/
-||sabavision.com/$subdocument
-||sabavision.com/public//public/user_data/user_banner/$image
+||sabavision.com^
 ||safarbaba.com/uploads/*/*/gif/*.gif
 ||safarme.com/Dashboard/HotelAdvertisment/
 ||safireaflak.ir/adv/
