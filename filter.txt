@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: K3ChVgO2OfHxON5M3ijGOA
+! Checksum: yEnuw5kyCcqAsFmgQKmIQA
 ! 
 ! Ad blocking rules for iranian/persian websites.
 ! Title :    Adblock-Iran
@@ -212,6 +212,7 @@ downloadha.com###main > .main-container > .maincontent > .topbanners468
 downloadha.com##.entry-etc
 downloadha.com##.rightsidebarc.adsright
 downloadha.com##.widget.aside.collapse
+downloadha.com##[class*="-ads "]
 downloadkral.com###shop
 downloadkral.com##a[href^="http://store.downloadkral.com/product.php"]
 downloadsoftware.ir##.boxadstext_side
@@ -520,6 +521,7 @@ seemorgh.com##[class$="banner"]
 seemorgh.com##[class*="ads-"]
 seemorgh.com##[class^="ad-"]
 shahrekhabar.com##.hidden-xs.hidden-sm.col-md-2.col-lg-2 > .row
+shahrsakhtafzar.com##[class*="banner"]
 shami98.ir##.ads
 shopkeeper.ir###sidebar_container
 shopkeeper.ir##.postbody > div > div > a[href^="http://go.shopkeeper.ir/"]
@@ -704,7 +706,6 @@ zoomtech.ir###text-3
 ||cdn.mashreghnews.ir/d/*/*/*/*/*.gif
 ||cdn.mediaad.org/mediaad/
 ||cdn.persiangig.com/preview/$image
-||cdn.yektanet.com/assets/
 ||chargereseller.com/img/banner/
 ||cinemakhabar.ir/Picture/*.gif
 ||cinemakhabar.ir/Picture/*.swf$object
@@ -778,7 +779,6 @@ zoomtech.ir###text-3
 ||favanews.com/other/$object
 ||favanews.com/wp-content/uploads/*/*/logo*.png$image
 ||fera.ir/fera/ads/$image
-||fetch.yektanet.com/api/v1/
 ||fibazar.ir/uploads/ad
 ||files.namnak.com/aup/$image
 ||film2movie.biz/content/uploads/*.gif$image
@@ -1000,6 +1000,7 @@ zoomtech.ir###text-3
 ||sena.ir/ShowImages.ashx?Adv$image
 ||sena.ir/Upload/PicGallery/Adver/$object
 ||shahrekhabar.com/swf/
+||shahrsakhtafzar.com/fa/images/banners
 ||shenoto.com/dist/banner
 ||sheypoor.com/static/ra/
 ||shopkeeper.ir/images/*.gif$image
@@ -1070,8 +1071,7 @@ zoomtech.ir###text-3
 ||yasdl.com/wp-content/uploads/*/*/faranesh.gif$image
 ||yasell.biz
 ||yeknet.ir/sites/default/files/js/
-||yektanet.com/assets/yektanet-branding/index.html
-||yektanet.com/media/
+||yektanet.com^
 ||zanboor.net/show.php$subdocument
 ||zoomit.ir/*/banners/
 ||zoomtech.ir/wp-content/uploads/*.gif$image
