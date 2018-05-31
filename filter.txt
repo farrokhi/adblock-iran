@@ -209,10 +209,12 @@ donya-e-eqtesad.com##div.zxc.overview-auto.home-desk
 doustiha.ir##.fixed-ads
 download.ir###hdd_rss_reader-2
 downloadha.com###main > .main-container > .maincontent > .topbanners468
+downloadha.com##.ads
 downloadha.com##.entry-etc
 downloadha.com##.rightsidebarc.adsright
 downloadha.com##.widget.aside.collapse
 downloadha.com##[class*="-ads "]
+downloadha.com##[class*="sabavision"]
 downloadkral.com###shop
 downloadkral.com##a[href^="http://store.downloadkral.com/product.php"]
 downloadsoftware.ir##.boxadstext_side
@@ -659,6 +661,7 @@ zoomtech.ir###text-3
 ||anobanini.net/forum/adsg/
 ||apanet.net/index2.php?img=$subdocument
 ||apanet.net/index_show.php
+||api.sabavision.com^
 ||api.ticketing-service.com/topTickets/
 ||apkpars.ir/img/*banner
 ||apktops.ir/wp-content/uppic/*.gif$image
@@ -742,6 +745,7 @@ zoomtech.ir###text-3
 ||donya-e-eqtesad.com/servev2/*.gif$image
 ||download.ir/wp-content/uploads/*/*/*.gif$image
 ||download.ir/wp-content/uploads/*/*/ads$image
+||downloadha.com/shop/*
 ||downloadha.com/shop/sabavision$image
 ||dubai-land.ir/images/ad*.gif
 ||dunro.com/embeded/pcdownload.html$subdocument
