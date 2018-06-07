@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: 4cm6NyEYl5M6D0lRJ06wJQ
+! Checksum: S+DAATRCrYWlYhBjFAfR4Q
 !--------------------------------------------------------------------------
 ! A more strict filterlist for trackers (mostly whitelisted anywhere else)
 !
 ! Title :    Adblock-Strict-Trackers
 ! Expires:   2 days (update frequency)
-! Version:   104
+! Version:   105
 ! Download:  https://cdn.rawgit.com/farrokhi/adblock-iran/master/additional-trackers.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -27,7 +27,10 @@
 ||gravatar.com^$script
 ||histats.com^$script
 ||hitplus.ir^$script
+||hotjar.com^$subdocument,script
 ||persianstat.com^$script
 ||rating-widget.com^$stylesheet,script
+||scarabresearch.com^$script
 ||statcounter.com^$script
 ||stats.wp.com^$script
+||webgozar.ir^
