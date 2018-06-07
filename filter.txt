@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: nwzk+qnZhLEBK5gNpyL9Mg
+! Checksum: tMggMxgLgng38tMwhHsimw
 !--------------------------------------------------------------------------
 ! Ad blocking rules for iranian/persian websites.
 !
 ! Title :    Adblock-Iran
 ! Expires:   2 days (update frequency)
-! Version:   103
+! Version:   104
 ! Download:  https://cdn.rawgit.com/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -232,6 +232,8 @@ econews.com##.advertise-place
 eghtesadnews.com##.propaganda
 eghtesadnews.com##a[href^="/advertisements/"]
 eghtesadonline.com###mgbox-articles
+eghtesadtimes.com##.fake
+eghtesadtimes.com##[href^="/advertisements/"]
 ensafnews.com##[id^="shahba_ad-"]
 entekhab.ir##.col-xs-36.attention
 entekhab.ir##.col-xs-36.news-web
@@ -394,6 +396,7 @@ mihangame.com##.widget_text.widget
 mihanmarket.com##.spnsor_holder
 mizbanblog.com##[id^="ads"]
 momtaznews.com##.b130ads
+moroornews.com##.overview-auto
 movie.downloadfreenewa.com###varoone_ads_top_right_540
 mstiran.com##.fancybox
 mstiran.com##.fancybox-overlay-fixed
@@ -761,8 +764,10 @@ zoomtech.ir###text-3
 ||eghtesadnews.com/serve/$image
 ||eghtesadonline.com/serve/*/*/$image
 ||eghtesadonline.com/servev2/$image
+||eghtesadtimes.com/servev2/*.gif
 ||elmefarda.com/wp-content/uploads/*/*/ad
 ||emalls.ir/files/da/
+||emalls.ir^$subdocument
 ||emeg.ir/theme/img/Ad
 ||ensafnews.com/wp-content/uploads/*/*/*.gif
 ||estekhtam.com/wp-content/uploads/*/*/*.gif
@@ -866,6 +871,7 @@ zoomtech.ir###text-3
 ||itresan.com/banner/
 ||itresan.com/wp-content/plugins/better-adsmanager/
 ||itresan.com/wp-content/uploads/*/*/*.gif
+||itresan.com/wp-content/uploads/Banner/
 ||jahansite.com/wp-content/uploads/*/*/*.gif
 ||japanmusic.ir/free-upload/$image
 ||javanmobile.com/wp-content/uploads/*/*/*.gif
@@ -910,6 +916,7 @@ zoomtech.ir###text-3
 ||mihanfal.com/wp-content/uploads/*/*/*.gif
 ||mihanmarket.com/Objects/*.gif
 ||mihanscript.ir/ads.jpg
+||moroornews.com/servev2/*.gif
 ||motelyab.com/images/hotel/reserve-hotel-mashhad.gif
 ||moviemag.ir/images/files/*/Ad/
 ||mstiran.com/resource/javascripts/jquery.fancybox.pack.js
@@ -1097,5 +1104,6 @@ zoomtech.ir###text-3
 ||yeknet.ir/sites/default/files/js/
 ||yektanet.com^
 ||zanboor.net/show.php$subdocument
+||zarpop.com^$script
 ||zoomit.ir/*/banners/
 ||zoomtech.ir/wp-content/uploads/*.gif
