@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: sOjbIkBD6Xb1YCcygkfTqg
+! Checksum: nwzk+qnZhLEBK5gNpyL9Mg
 !--------------------------------------------------------------------------
 ! Ad blocking rules for iranian/persian websites.
 !
 ! Title :    Adblock-Iran
 ! Expires:   2 days (update frequency)
-! Version:   102
+! Version:   103
 ! Download:  https://cdn.rawgit.com/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -22,12 +22,7 @@
 ###ban57
 ###divADV
 ###GlobalAdBlock
-###mediaad-A
-###mediaad-B
-###mediaad-C
-###mediaad-D
 ###mihan_page_advert
-###nex1network-PB
 ###popup
 ###popupMask
 ###sabalightBox
@@ -50,6 +45,7 @@
 ##.banner
 ##.banners
 ##.cycle_adv_news
+##.fixedadv.post
 ##.flix-float
 ##.iranweb_iframe
 ##.logo_adv_container
@@ -66,11 +62,15 @@
 ##[class*="anetwork-b"]
 ##[class*="responsive_ads"]
 ##[class*="sabavision_"]
+##[href^="https://tankionline.com"]
 ##[id^="ads_bottom"]
 ##[id^="adtube-"]
 ##[id^="apanet_ads"]
+##[id^="banner"]
 ##[id^="faradars"]
+##[id^="mediaad-"]
 ##[id^="ml-webforms-popup"]
+##[id^="nex1network-"]
 ##[id^="sanjagh"]
 ##[id^="skinak_ads"]
 ##[id^="yektanet-"]
@@ -102,7 +102,6 @@
 1pezeshk.com##.su-clearfix.su-box-content
 2zaar.ir###ads
 2zaar.ir###topBanner
-30nama8.today###banner-header
 3pide.ir###b1
 3pide.ir###col-1:nth-of-type(1)
 4dah.ir##.wrap > .warpper > .head2-ads
@@ -317,7 +316,6 @@ ictna.ir##.content-right-ad
 ilna.ir###sticker
 ilnanews.com###sticker
 imemar.icivil.ir###snppopup-welcome
-imovie-dl.org###banners_index
 inet.ir###filmnetBox
 ir##.sidebar-box.Ads-Text
 ir##[id^="anetwork-"]
@@ -364,9 +362,6 @@ kalakamuz.ir##.middle.inner-el.container > .row.box
 kalakamuz.ir##.row.box:nth-of-type(9)
 ketabnak.com##.featherlight
 khabarban.com##.layercontainer
-khabarduni.ir##[id^="nex1network"]
-khabarfarsi.com###banners_120_top
-khabarfarsi.com###banners_300_top
 khabarfarsi.com###block-block-10
 khabarfarsi.com###block-block-7
 khabarfarsi.com##.region-banners-120-bottom
@@ -400,7 +395,6 @@ mihanmarket.com##.spnsor_holder
 mizbanblog.com##[id^="ads"]
 momtaznews.com##.b130ads
 movie.downloadfreenewa.com###varoone_ads_top_right_540
-mstiran.com###banner-popup
 mstiran.com##.fancybox
 mstiran.com##.fancybox-overlay-fixed
 multisearch.ir##.tbox
@@ -414,6 +408,8 @@ namnak.com###adsarea
 namnak.com##.weblinks
 namnak.com##a[href^="/ag_"]
 namnak.com##aside:nth-of-type(2)
+netshahr.com###latestNewspapersSection
+netshahr.com##[class^="ads"]
 new4android.ir##body > div:nth-of-type(3) > .external
 news-bazar.com##.ads
 news.kodoom.com###large-ad-widget-slider-2849
@@ -455,6 +451,7 @@ p30skill.ir##.column.col-md-3:nth-of-type(1) > .sidebox:nth-of-type(2) > .sidebo
 p30skill.ir##.column.col-md-3:nth-of-type(3) > .sidebox:nth-of-type(1)
 p30skill.ir##.column.col-md-6 > .row
 p30world.com###ad_global_below_navbar
+par30game.ir##.top-large-ads
 pardad.ir###ctl00_LeftBox_pnlLeft > .PT_Top:nth-of-type(1)
 pardad.ir###ctl00_RightBox1_pnlRight
 pardad.ir###modal-overlay
@@ -642,6 +639,7 @@ zoomtech.ir###text-3
 ||ads.sahandar.com^$third-party
 ||adziran.cf/
 ||adziran.gq/
+||afkarnews.com/servev2/*.gif
 ||afkarnews.ir/adtube
 ||afkarnews.ir/serve/*.gif
 ||afkarnews.ir/serve/*.jpg
@@ -688,6 +686,7 @@ zoomtech.ir###text-3
 ||beytoote.com/images/banners/
 ||beytoote.com/shops/
 ||bia2movies1.in/wp-content/uploads/*/*/*.gif
+||blog.giant.ir/weblink/run/$script
 ||boyernews.com/flash/*.swf$object
 ||boyernews.com/sadraclinic468_p.swf$object
 ||boyernews.com/wp-content/uploads/*.gif
@@ -730,6 +729,7 @@ zoomtech.ir###text-3
 ||dande6.com/wp-content/uploads/*/*/*.gif
 ||dariconline.ir^$popup
 ||darunama.com/Images/MasterPage/donateMain.jpg
+||deema.agency^
 ||delbaraneh.com/Niazweb.jpg
 ||developer1.ir/Pic/ADS
 ||dezfil.ir/wp-content/themes/deznn0/images/ads
@@ -864,6 +864,7 @@ zoomtech.ir###text-3
 ||itiran.com/sites/default/files/*banner
 ||itiran.com/sites/default/files/*bner
 ||itresan.com/banner/
+||itresan.com/wp-content/plugins/better-adsmanager/
 ||itresan.com/wp-content/uploads/*/*/*.gif
 ||jahansite.com/wp-content/uploads/*/*/*.gif
 ||japanmusic.ir/free-upload/$image
@@ -946,6 +947,7 @@ zoomtech.ir###text-3
 ||p30world.com/wp/wp-content/uploads/*/*/*.gif
 ||panel.hamshahrionline.ir/system/menus/*/*.gif
 ||paperhub.ir/*.gif
+||par30game.ir/wp-content/*.gif$image
 ||parandco.com/media/uploads/banners/
 ||pardad.ir/images/site1rbHeader.png
 ||pardad.ir/UploadFiles/*.gif
@@ -1065,6 +1067,7 @@ zoomtech.ir###text-3
 ||topnaz.com/wp-content/themes/topnaz_panab/psimgs/free.jpg
 ||toppopup.com/pop.php
 ||toranji.ir/wp-content/uploads/*/*/*.gif
+||tourismonline.co/images/banners/
 ||tourline.ir/images/*.gif
 ||tourline.ir/images/download.jpg
 ||tourline.ir/images/upload.jpg
@@ -1074,6 +1077,7 @@ zoomtech.ir###text-3
 ||up.ariapix.net/images/*.gif
 ||up.sibgraph.ir/up/admin-sibgraph/sibgraph/theme/Images/*.gif
 ||up.skinak.ir/up/skinak/temps/forum/v3/images/bg.jpg
+||users-api.com^$script
 ||uupload.ir/files/*.gif
 ||vajehyab.com/img/ads/$image
 ||varzesh3.com/v3/static/img/banner/$image
