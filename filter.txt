@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: DscVlkEBopGB61EwDofGVA
+! Checksum: 6oTkt1yA0XGIUbS6qUh3bQ
 !--------------------------------------------------------------------------
 ! Ad blocking rules for iranian/persian websites.
 !
@@ -986,6 +986,7 @@ zoomtech.ir###text-3
 ||popmaster.ir/pop.php
 ||popupha.com^
 ||popupme.net/Scripts/
+||popupplus.ir^
 ||r.hitplus.ir^$popup
 ||radar.bayan.ir
 ||rade.ir/images/upload/sponser/
