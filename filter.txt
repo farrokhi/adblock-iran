@@ -1,12 +1,16 @@
 [Adblock Plus 2.0]
-! Checksum: yglJC10/SvE7Z2w4B8XLdA
-! 
+! Checksum: DscVlkEBopGB61EwDofGVA
+!--------------------------------------------------------------------------
 ! Ad blocking rules for iranian/persian websites.
+!
 ! Title :    Adblock-Iran
-! Download : https://cdn.rawgit.com/farrokhi/adblock-iran/master/filter.txt
+! Expires:   2 days (update frequency)
+! Version:   101
+! Download:  https://cdn.rawgit.com/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
-!
+! License:   BSD Simplified
+!--------------------------------------------------------------------------
 ###adnFloatbr
 ###adpress_widget-2
 ###ads468
@@ -62,6 +66,7 @@
 ##.txtadsbox
 ##.vatanclick
 ##.widget_banner_ads
+##[id^="adtube-"]
 ##[id^="ml-webforms-popup"]
 ##[id^="yektanet-"]
 ##a[href^="http://account.zula.ir/"]
@@ -77,7 +82,6 @@
 /tabligh/*
 /tabliq/*
 1000site.ir##.col-md-2
-1pezeshk.com###adtube-261
 1pezeshk.com###better_rss_widget-14
 1pezeshk.com###better_rss_widget-16
 1pezeshk.com###herald-module-3-0
@@ -227,7 +231,6 @@ downloadsoftware.ir##.boxadstext_side
 downloadsoftware.ir##.hidden-xs.ads656
 dustaan.com##.wp-image-66603.size-full.aligncenter
 econews.com##.advertise-place
-eghtesadnews.com###adtube-365
 eghtesadnews.com##.propaganda
 eghtesadnews.com##a[href^="/advertisements/"]
 eghtesadonline.com###mgbox-articles
@@ -280,7 +283,6 @@ gamesib.ir##[id*="next1-*"]
 gardesh.info###SenBackLoginBox
 ghasreshayan.com###snppopup-welcome
 ghasreshayan.com##.snp-pop-9485-overlay.fancybox-overlay
-ghatreh.com###adtube-314
 ghatreh.com##.ads
 ghatreh.com##.ads_body
 gooya.com###AutoNumber1
@@ -507,7 +509,6 @@ rokna.net##a[href^="/advertisements/"]
 rond.ir##.banner-box
 rond.ir##.grid_6
 rondbaz.com##.hidden-xs:nth-of-type(1) > div > div
-rooziato.com###adtube-235
 rooziato.com##div.single_section
 roozno.com##[id^="next"]
 rouzegar.com##.linkbox.noindex
@@ -550,6 +551,7 @@ soft98.ir##.adx-sidebar
 soft98.ir##.adx__inner
 soft98.ir##.adxx
 soft98.ir##.adxx__inner
+soft98.ir##.bg-light.d-block.card
 soft98.ir##.list-post
 soft98.ir##.soft98-ad
 soft98.ir##[class^="ad"]
@@ -651,8 +653,7 @@ zoomtech.ir###text-3
 ||ad.nowaroos.com/images/banner/
 ||ad.utop.ir/b/$image
 ||adment.space/
-||adnegah.net/*.js
-||adnegah.net/cpx/
+||adnegah.net^
 ||ads.sahandar.com^$third-party
 ||adziran.cf/
 ||adziran.gq/
@@ -1027,6 +1028,7 @@ zoomtech.ir###text-3
 ||sheypoor.com/static/ra/
 ||shopkeeper.ir/images/*.gif$image
 ||shoptou.in/
+||sigmaad.com^
 ||simcart.com/a/$image
 ||softgozar.com/Image/SiteAde/$image
 ||softsaaz.ir/wp-content/uploads/*.gif$image
