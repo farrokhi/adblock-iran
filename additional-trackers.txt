@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: xFWfC+ExUsSxnNL+4hztOA
+! Checksum: G7L3K3Fw+R+3gW/iWI9f8g
 !--------------------------------------------------------------------------
 ! A more strict filterlist for trackers (mostly whitelisted anywhere else)
 !
@@ -16,4 +16,6 @@
 ||cdn.onesignal.com^$script
 ||cloudfront.net/atrk.js$script
 ||cloudfront.net/test.png
+||gravatar.com^$script
 ||histats.com^$script
+||stats.wp.com^$script
