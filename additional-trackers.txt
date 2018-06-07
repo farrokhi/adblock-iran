@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: G7L3K3Fw+R+3gW/iWI9f8g
+! Checksum: sx+CGU1oiLZrBv095hikuQ
 !--------------------------------------------------------------------------
 ! A more strict filterlist for trackers (mostly whitelisted anywhere else)
 !
@@ -13,7 +13,9 @@
 !--------------------------------------------------------------------------
 ||alexametrics.com/atrk.gif
 ||alexametrics.com^$script
+||analytics.aasaam.com^
 ||cdn.onesignal.com^$script
+||cdn.sendpulse.com^
 ||cloudfront.net/atrk.js$script
 ||cloudfront.net/test.png
 ||gravatar.com^$script
