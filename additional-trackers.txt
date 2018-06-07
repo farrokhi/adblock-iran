@@ -1,0 +1,15 @@
+[Adblock Plus 2.0]
+! Checksum: X2KmvEKjXb/0uq68wXj9KA
+!--------------------------------------------------------------------------
+! A more strict filterlist for trackers (mostly whitelisted anywhere else)
+!
+! Title :    Adblock-Strict-Trackers
+! Expires:   2 days (update frequency)
+! Version:   101
+! Download:  https://cdn.rawgit.com/farrokhi/adblock-iran/master/additional-trackers.txt
+! Homepage:  https://github.com/farrokhi/adblock-iran
+! Support:   https://github.com/farrokhi/adblock-iran/issues 
+! License:   BSD Simplified
+!--------------------------------------------------------------------------
+||certify.alexametrics.com/atrk.gif?*
+||cloudfront.net/atrk.js$script
