@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: X2KmvEKjXb/0uq68wXj9KA
+! Checksum: wJMh8GK4g11xFtpRfrMedw
 !--------------------------------------------------------------------------
 ! A more strict filterlist for trackers (mostly whitelisted anywhere else)
 !
@@ -11,5 +11,6 @@
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
 ! License:   BSD Simplified
 !--------------------------------------------------------------------------
-||certify.alexametrics.com/atrk.gif?*
+||alexametrics.com/atrk.gif
 ||cloudfront.net/atrk.js$script
+||histats.com^$script
