@@ -5,12 +5,15 @@
 !
 ! Title :    Adblock-Strict-Trackers
 ! Expires:   2 days (update frequency)
-! Version:   101
+! Version:   102
 ! Download:  https://cdn.rawgit.com/farrokhi/adblock-iran/master/additional-trackers.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
 ! License:   BSD Simplified
 !--------------------------------------------------------------------------
 ||alexametrics.com/atrk.gif
+||alexametrics.com^$script
+||cdn.onesignal.com^$script
 ||cloudfront.net/atrk.js$script
+||cloudfront.net/test.png
 ||histats.com^$script
