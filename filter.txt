@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 7e3rDhmvOluxknIRLchZuQ
+! Checksum: UuRpSZ31Kmvgox2Dkws3Mg
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   1 days
@@ -1047,7 +1047,7 @@ zoomtech.ir###text-3
 ||shoptou.in/
 ||sigmaad.com^
 ||simcart.com/a/$image
-||soft98.ir/templates/soft98_default/^$script
+||soft98.ir/templates/soft98_default/js/$script
 ||soft98.ir^$popup
 ||softgozar.com/Image/SiteAde/$image
 ||softsaaz.ir/wp-content/uploads/*.gif
