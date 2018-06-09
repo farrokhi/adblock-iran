@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
-! Checksum: wnwAgsAvPprPnlegoK/vMA
-!--------------------------------------------------------------------------
-! Title :    Babak's-Strict-Tracker-List
-! Expires:   2 days (update frequency)
-! Version:   106
+! Checksum: YlQGOWWLot1IB+pfC3qHiw
+! Title :    BSTF (Babak's Strict Trackers Filterlist)
+! Expires:   1 days
+! Version:   107
 ! Download:  https://cdn.rawgit.com/farrokhi/adblock-iran/master/additional-trackers.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
 ! License:   BSD Simplified
 !--------------------------------------------------------------------------
+/piwik.js
 ||addtoany.com^$script
 ||adform.net^
 ||akairan.com/analytics.js
@@ -19,7 +19,7 @@
 ||app.najva.com^$script
 ||cdn.onesignal.com^$script
 ||cdn.sendpulse.com^
-||cloudfront.net/atrk.js$script
+||cloudfront.net/atrk.js
 ||cloudfront.net/test.png
 ||crazyegg.com^$script
 ||crsspxl.com^
