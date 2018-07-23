@@ -3,13 +3,12 @@
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   110
+! Version:   111
 ! Download:  https://cdn.rawgit.com/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
 ! License:   BSD Simplified
 !--------------------------------------------------------------------------
-###adnFloatbl
 ###adnFloatbr
 ###adpress_widget-2
 ###ads468
@@ -550,6 +549,7 @@ soft98.ir##.adx-sidebar
 soft98.ir##.adx__inner
 soft98.ir##.adxx
 soft98.ir##.adxx__inner
+soft98.ir##.alert.alert-warning
 soft98.ir##.bg-light.d-block.card
 soft98.ir##.list-post
 soft98.ir##.soft98-ad
