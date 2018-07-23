@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KTH0nmg/4KWVi4ux6kBmEA
+! Checksum: Z+Yt8e2PxREtzkUIfLmkxg
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   109
+! Version:   110
 ! Download:  https://cdn.rawgit.com/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -1079,6 +1079,7 @@ zoomtech.ir###text-3
 ||tableaumag.com/wp-content/uploads/sites/*/*banner
 ||taknaz.net/taknaz/pish2.php$subdocument
 ||taknaz.net/taknaz/test.php$subdocument
+||taknaz.net/up/
 ||taktemp.com/wp-content/uploads/*/*/*.gif
 ||talab.ir/wp-content/uploads/baner/2/$image
 ||talab.org/talab/m.php
