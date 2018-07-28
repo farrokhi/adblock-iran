@@ -64,7 +64,6 @@
 ##[id^="ads_bottom"]
 ##[id^="adtube-"]
 ##[id^="apanet_ads"]
-##[id^="banner"]
 ##[id^="faradars"]
 ##[id^="mediaad-"]
 ##[id^="ml-webforms-popup"]
