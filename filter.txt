@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DV71M1guDJaxF5qGMaEzqw
+! Checksum: ryGs+92o1I26xJvj6a4H7w
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   120
+! Version:   121
 ! Download:  https://cdn.rawgit.com/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -456,6 +456,8 @@ p30download.com##.tabliq-468:nth-of-type(9)
 p30download.com##.text-tabliq
 p30download.com##[class^="tabliq-"]
 p30download.com##[href^="http://p30download.com/agahi/"]
+p30download.com##div.article-wrapper:nth-of-type(10)
+p30download.com##div.article-wrapper:nth-of-type(3)
 p30skill.ir###shop-banner
 p30skill.ir##.bg-white.sidebox:nth-of-type(2)
 p30skill.ir##.column.col-md-3:nth-of-type(1) > .sidebox:nth-of-type(1)
@@ -599,6 +601,7 @@ zohur12.ir##.related-posts
 zoomit.ir##.bannercontainer
 zoomit.ir##.showBanner
 zoomit.ir##.text-adv-row
+zoomit.ir##.Text5Ad
 zoomit.ir##text-adv-box
 zoomtech.ir###rss-2
 zoomtech.ir###text-10
