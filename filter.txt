@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2gI4iTqh8919GgKuPqtLzg
+! Checksum: zjm5sDMH/JrRUqFnGH39lg
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   121
+! Version:   122
 ! Download:  https://cdn.rawgit.com/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -480,6 +480,7 @@ parsnews.com##.type-script
 parsnews.com##IFRAME[src="/anetwork250.htm"]
 parstv.tv##.image-container
 patoghu.com##.top-tabligh
+pedal.ir##.appear.disappear.widgets
 peransis.xyz###LiteBoxBackground
 peransis.xyz###LiteBoxWindow
 persiantools.com##.ptbbox
@@ -607,7 +608,6 @@ zoomtech.ir###rss-2
 zoomtech.ir###text-10
 zoomtech.ir###text-19
 zoomtech.ir###text-3
-||*.adnegah.net/$subdocument
 ||1000charge.com/gifbanner/
 ||1000click.ir/
 ||130.185.76.109^
@@ -931,6 +931,7 @@ zoomtech.ir###text-3
 ||parstv.tv/wp-content/uploads/2016/09/web-solution_00128.jpg
 ||patoghu.com/new/*.gif
 ||paypop.org
+||pedal.ir/*.gif
 ||persiangig.com/preview/SMSh7sPQoP/accfile.jpg
 ||persianpet.org/s-img/
 ||persiantools.net/*/ads/
