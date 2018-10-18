@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: foMhfPmFsDbKn4TyfqLcRA
+! Checksum: xY1n0XX8yagAj+yxi6sSUw
 ! Title :    BSTF (Babak's Strict Trackers Filterlist)
 ! Expires:   5 days
 ! Version:   107
-! Download:  https://cdn.rawgit.com/farrokhi/adblock-iran/master/additional-trackers.txt
+! Download:  https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/additional-trackers.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
 ! License:   BSD Simplified
