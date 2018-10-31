@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: H1/Egx0AjoaxIicV7xpIPQ
+! Checksum: LHtBXlGWQ2ry1WyXk719WQ
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   138
+! Version:   139
 ! Download:  https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -633,6 +633,7 @@ yasdl.com##p:nth-of-type(5) > a[href="http://mahoot-leather.ir/"]
 zima.ir##.newslleterPop
 zima.ir##.overlayDiv
 zohur12.ir##.related-posts
+zoomit.ir##+js(abort-on-property-read.js, setHeightOfAd)
 zoomit.ir##.bannercontainer
 zoomit.ir##.showBanner
 zoomit.ir##.text-adv-row
