@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: QQ7ylj/RYQ7SCtVw7BOPEQ
+! Checksum: +g2ALOg6A3aFQ1+fk75Wfg
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
@@ -926,7 +926,6 @@ zoomtech.ir###text-3
 ||lastsecond.ir/uploads/files/*.gif
 ||lasttours.net/*.gif
 ||lasttours.net/images/banner_images/
-||lavinmovie.org/wp-content/uploads/2018/11/*
 ||lenzak.com/photos/*.gif
 ||linkyab.net/download/*.gif
 ||macneed.ir/*.gif
