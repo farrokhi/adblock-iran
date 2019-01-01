@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Wr7hACx1uUqhBjWQ6T73Mg
+! Checksum: YdFLfeyhYDux8aEqNVO5IA
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   149
+! Version:   150
 ! Download:  https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -579,6 +579,10 @@ shopkeeper.ir##.postbody > div > div > a[href^="http://go.shopkeeper.ir/"]
 skinak.ir###dis_ads > .dadsd
 skinak.ir##.bg > center > .dadsd:nth-of-type(2)
 skinak.ir##header > .ads
+soft98.ir##*[class="card d-block bg-light"]:style(height: 1px !important; width: 1px !important; visibility: collapse !important;)
+soft98.ir##*[class="col-lg pl-0 pr-0 pl-sm-3 pr-sm-3 pr-sm-3"]
+soft98.ir##*[class="col-lg pt-3 pl-0 pr-0 pl-sm-3 pr-sm-3 pt-lg-0 pr-lg-0"]:style(height: 1px !important; width: 1px !important; visibility: collapse !important;)
+soft98.ir##*[class^="adx-image"]:style(height: 1px !important; width: 1px !important; visibility: collapse !important;)
 softgozar.com###backgray-layout
 softgozar.com###dtlAdvertiseRightPan
 softgozar.com###PopAlert
@@ -917,6 +921,7 @@ zoomtech.ir###text-3
 ||kafebook.ir/wp-content/uploads/*.gif
 ||kalakamuz.ir/wp-content/uploads/*.gif
 ||kalakamuz.ir/wp-content/uploads/ad
+||kaprila.com*/show.*$third-party
 ||kaprila.com^
 ||ketabesabz.com/images/banner/
 ||ketabnak.com/images/*.gif
