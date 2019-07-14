@@ -1041,6 +1041,7 @@ zoomtech.ir###text-3
 ||pic.beautyhome.ir/*.gif
 ||picofile.com/file/*/*.gif
 ||pishkhaan.net/pishkhaanads/$image
+||poparya.com^
 ||popbox.skinak.ir^
 ||popmaster.ir/pop.php
 ||popupha.com^
