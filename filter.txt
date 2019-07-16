@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 472q7bYAg/EG953Th+DUlQ
+! Checksum: DnIIlWc5djzpd687iDfngg
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   156
+! Version:   157
 ! Download:  https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -1041,6 +1041,7 @@ zoomtech.ir###text-3
 ||pic.beautyhome.ir/*.gif
 ||picofile.com/file/*/*.gif
 ||pishkhaan.net/pishkhaanads/$image
+||poparya.com^
 ||popbox.skinak.ir^
 ||popmaster.ir/pop.php
 ||popupha.com^
