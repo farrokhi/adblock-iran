@@ -336,6 +336,8 @@ hastidownload.biz##a[href^="http://www.takhfifan.com/"]
 hastidownload.biz##a[href^="https://www.digikala.com/Search/"]
 hastidownload.biz##a[href^="https://www.modiseh.com/"]
 hidoctor.ir##.pdslanbox
+hidoctor.ir##.advertise-banner-anchor
+hidoctor.ir###single-right-sidebar-banners
 hotnaz.com###tabligheirani_ads_bottom_right_121
 icoff.ee##[id^="image-"]
 icoff.ee##[id^="sow-image-"]
@@ -872,6 +874,7 @@ zoomtech.ir###text-3
 ||hastidownload.biz/img/7uy.jpg
 ||hastidownload.biz/img/Linux-iran.jpg
 ||hastidownloadz.info/zq9content/uploads/
+||hidoctor.ir/hiads/
 ||hidoctor.ir/wp-content/uploads/*/*/*.gif
 ||hitfile.ir/do.php?$third-party
 ||icinema.ir/uploads/ad
