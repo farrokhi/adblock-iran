@@ -1114,6 +1114,7 @@ zoomtech.ir###text-3
 ||static2.ilna.ir/servev2/
 ||static2.rokna.net/servev2/$image
 ||subf2m.co/files/*.gif
+||t3l.ir^$popup
 ||tableaumag.com/wp-content/uploads/sites/*/*banner
 ||taknaz.net/taknaz/pish2.php$subdocument
 ||taknaz.net/taknaz/test.php$subdocument
