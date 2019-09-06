@@ -937,8 +937,7 @@ zoomtech.ir###text-3
 ||kafebook.ir/wp-content/uploads/*.gif
 ||kalakamuz.ir/wp-content/uploads/*.gif
 ||kalakamuz.ir/wp-content/uploads/ad
-||kaprila.com*/show.*$third-party
-||kaprila.com^
+||kaprila.com^$third-party
 ||ketabesabz.com/images/banner/
 ||ketabnak.com/images/*.gif
 ||khabarfarsi.com/sites/default/files/upload_banner/
