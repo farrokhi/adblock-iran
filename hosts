@@ -1,0 +1,107 @@
+# Title: adblock-iran/hosts
+#
+# Host files to block ads and trackers used in persian websites
+#
+# Date: 10 Sept 2019
+#
+#
+# Fetch the latest version : https://raw.githubusercontent.com/farrokhi/adblock-iran/master/hosts
+# Project home page: https://github.com/farrokhi/adblock-iran
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start adblock-iran
+
+#=====================================
+
+0.0.0.0 1000click.ir
+0.0.0.0 ad.nowaroos.com
+0.0.0.0 ad.utop.ir
+0.0.0.0 adment.space
+0.0.0.0 adnegah.net
+0.0.0.0 ads.sahandar.com
+0.0.0.0 adtube.ir
+0.0.0.0 adziran.gq
+0.0.0.0 banner.dabi.ir
+0.0.0.0 c3.gostats.ir
+0.0.0.0 clickbux.ir
+0.0.0.0 clickyab.com
+0.0.0.0 coding.1100011.ir
+0.0.0.0 congoro.com
+0.0.0.0 core.clix.ir
+0.0.0.0 dariconline.ir
+0.0.0.0 deema.agency
+0.0.0.0 e.weclick.ir
+0.0.0.0 fastclick.ir
+0.0.0.0 foxpush.net
+0.0.0.0 gostats.ir
+0.0.0.0 hackerz.ir
+0.0.0.0 irandigitalads.com
+0.0.0.0 iranweb.click
+0.0.0.0 irblue.ml
+0.0.0.0 irgreen.ml
+0.0.0.0 irjo.ga
+0.0.0.0 irpopup.ir
+0.0.0.0 js.foxpush.com
+0.0.0.0 kaprila.com
+0.0.0.0 khf.nz
+0.0.0.0 kimexa.com
+0.0.0.0 laleh.itrc.ac.ir
+0.0.0.0 magnetadservices.com
+0.0.0.0 mediaad.org
+0.0.0.0 mesearch.xyz
+0.0.0.0 netbina.com
+0.0.0.0 nutnet.ir
+0.0.0.0 p30rank.ir
+0.0.0.0 paypop.org
+0.0.0.0 poparya.com
+0.0.0.0 popbox.skinak.ir
+0.0.0.0 popmaster.ir
+0.0.0.0 popupha.com
+0.0.0.0 popupme.net
+0.0.0.0 popupplus.ir
+0.0.0.0 qoo.sh
+0.0.0.0 r.hitplus.ir
+0.0.0.0 radar.bayan.ir
+0.0.0.0 randewoo.ir
+0.0.0.0 rzb.ir
+0.0.0.0 s.hitplus.ir
+0.0.0.0 sabavision.com
+0.0.0.0 sigmaad.com
+0.0.0.0 ssads.net
+0.0.0.0 static.clix.ir
+0.0.0.0 tapsell.ir
+0.0.0.0 te1.ir
+0.0.0.0 toppopup.com
+0.0.0.0 up.video-learn.net
+0.0.0.0 uploado.xyz
+0.0.0.0 vista.ir
+0.0.0.0 weclick.ir
+0.0.0.0 widget.congoro.com
+0.0.0.0 widgets.takhfifan.com
+0.0.0.0 wikiforosh.ir
+0.0.0.0 www.persianstat.ir
+0.0.0.0 www.randewoo.ir
+0.0.0.0 www.webgozar.ir
+0.0.0.0 yasell.biz
+0.0.0.0 yektanet.com
+0.0.0.0 zarpop.com
