@@ -959,7 +959,7 @@ zoomtech.ir###text-3
 ||khabarland.com/images/*.gif
 ||khabarpu.com/img/banner/$image
 ||khargush.com/wp-content/uploads/*.gif
-||khf.nz/cdn/farfuture/$image
+||khf.nz/cdn/farfuture/$image,domain=~khabarfarsi.com
 ||kimexa.com^$popup
 ||koolakmag.ir/wp-content/uploads/*.gif
 ||lahzeakhar.com/images/rightBanners/*.gif
