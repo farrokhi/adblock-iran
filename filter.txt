@@ -43,6 +43,7 @@
 ##.cycle_adv_news
 ##.fixedadv.post
 ##.flix-float
+##.headads
 ##.img-adv-mobile
 ##.instant_adv
 ##.iranweb_iframe
