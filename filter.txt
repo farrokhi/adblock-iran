@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 7EysaaKVF+Tx2JfZW5ycPw
+! Checksum: qJW9W2heVx5BJTtUQYJkvQ
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
@@ -20,6 +20,7 @@
 ###divADV
 ###GlobalAdBlock
 ###mihan_page_advert
+###page_ads
 ###popup
 ###popupMask
 ###sabalightBox
@@ -652,6 +653,7 @@ topnaz.com##.adstmp
 topnaz.com##.b130ads
 topnaz.com##.bxl
 toranji.ir###\32 b25e9d2_886e > .ruby-container.ruby-block-inner
+v.persiangig.com###page_ads
 varoone.ir##.fixpost
 varoone.ir##.gsh[style*="120px"][style*="240px"]
 vajehyab.com##.vyads
@@ -704,9 +706,10 @@ zoomtech.ir###text-3
 ||ad.utop.ir^
 ||adment.space^
 ||adnegah.net^
+||ads.sahandar.com^
+||adtube.ir^
+||adverse.persiangig.com/pgads/ads/$subdocument
 ||ads.rzb.ir^
-||ads.sahandar.com^$third-party
-||adtube.ir^$third-party
 ||adziran.gq^
 ||afkarnews.com/servev2/*.gif
 ||afkarnews.ir/adtube
@@ -1092,6 +1095,7 @@ zoomtech.ir###text-3
 ||rouzegar.com/wp-content/uploads/2016/12/photo_*.jpg
 ||rtb.adtube.ir^$script
 ||rzb.ir^$script
+||ads.rzb.ir^
 ||s.hitplus.ir^
 ||s3-us-west-2.amazonaws.com/iranefarda/00test/$image
 ||saat24.com/d/*/*/*/*/*.gif
