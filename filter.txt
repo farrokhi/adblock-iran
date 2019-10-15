@@ -20,6 +20,7 @@
 ###divADV
 ###GlobalAdBlock
 ###mihan_page_advert
+###page_ads
 ###popup
 ###popupMask
 ###sabalightBox
@@ -641,6 +642,7 @@ topnaz.com##.adstmp
 topnaz.com##.b130ads
 topnaz.com##.bxl
 toranji.ir###\32 b25e9d2_886e > .ruby-container.ruby-block-inner
+v.persiangig.com###page_ads
 vajehyab.com##.vyads
 varzesh3.com##.page-content-bg.hidden-xs.page-content-ads
 vazeh.com##.mainx1
@@ -672,7 +674,7 @@ zoomtech.ir###text-10
 zoomtech.ir###text-19
 zoomtech.ir###text-3
 ||1000charge.com/gifbanner/
-||1000click.ir/
+||1000click.ir^
 ||130.185.76.109^
 ||1fardadl.com/wp-content/*.gif
 ||1fardadownload.net/wp-content/uploads/*/*/payamgps
@@ -690,8 +692,9 @@ zoomtech.ir###text-3
 ||ad.utop.ir^
 ||adment.space^
 ||adnegah.net^
-||ads.sahandar.com^$third-party
-||adtube.ir^$third-party
+||ads.sahandar.com^
+||adtube.ir^
+||adverse.persiangig.com/pgads/ads/$subdocument
 ||adziran.gq^
 ||afkarnews.com/servev2/*.gif
 ||afkarnews.ir/adtube
@@ -1073,6 +1076,7 @@ zoomtech.ir###text-3
 ||rouzegar.com/wp-content/uploads/2016/12/photo_*.jpg
 ||rtb.adtube.ir^$script
 ||rzb.ir^$script
+||ads.rzb.ir^
 ||s.hitplus.ir^
 ||s3-us-west-2.amazonaws.com/iranefarda/00test/$image
 ||saat24.com/d/*/*/*/*/*.gif
