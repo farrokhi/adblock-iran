@@ -40,6 +40,7 @@
 ##.adv_sheypoor
 ##.advCon
 ##.advContainer
+##.app_ads_banner
 ##.bottom-left-ad
 ##.cycle_adv_news
 ##.fixedadv.post
