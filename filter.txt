@@ -358,7 +358,12 @@ ictna.ir###sidebar > .margint10.clearfix.squer.sidebar-footer-ad
 ictna.ir##.content-right-ad
 ilna.ir###sticker
 ilna.ir##.zxc_type_text
+ilna.ir##a[href^="/advertisements/"]
 ilnanews.com###sticker
+ilna.news###sticker
+ilna.news###.zxc
+ilna.news###.zxc_type_text
+ilna.news##[href^="/advertisements/triggered"]
 imemar.icivil.ir###snppopup-welcome
 inet.ir###filmnetBox
 ir##.sidebar-box.Ads-Text
@@ -390,9 +395,9 @@ isna.ir###box108
 isna.ir###box109
 isna.ir###box114 > div > ul
 isna.ir###box32
-isna.ir##.hidden-sm.hidden-xs._border-right._bg-gray.ads.box
+isna.ir##.ads.box
 isna.ir##[id^="ad100_"]
-itiran.com##.pull-right.addver2.span12
+itiran.com##.addver2
 itna.ir##[id^="advertise"]
 itresan.com###fsml_ff
 jahannews.com###adsid
@@ -552,8 +557,7 @@ plus.ir##.advBanner.text-center
 rajanews.com##.ads
 ravan.e-teb.com##.ads
 readbook.ir##td:nth-of-type(1) > .sidebar-right:nth-of-type(1)
-rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(1)
-rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc:nth-of-type(2)
+rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc
 rokna.ir##.xcon12 > .mb16
 rokna.net##.banner-sabet
 rokna.net##a[href^="/advertisements/"]
@@ -669,7 +673,6 @@ wetravel.ir###myModal
 wetravel.ir##.in.fade.modal-backdrop
 wetravel.ir/wp-content/uploads/*/*/ads
 wimaxnews.ir##.Advert
-www.ilna.ir##a[href^="/advertisements/"]
 yaranews.ir###ads
 yasbooks.com##tr:nth-of-type(2) > td > table > tbody > tr > td:nth-of-type(1) > table:nth-of-type(2)
 yasdl.com##.post.fixed-post.row
