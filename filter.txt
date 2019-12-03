@@ -31,6 +31,7 @@
 ##.active.visible.transition.page.modals.dimmer.ui
 ##.ad-container
 ##.ads-head
+##.ads468_box
 ##.adsblockpop
 ##.adsssss
 ##.ADTUBE
@@ -253,6 +254,7 @@ donya-e-eqtesad.com##.mrgtalfiq
 donya-e-eqtesad.com##.overview-auto
 donya-e-eqtesad.com##.position-i0
 doradu.com##.flads
+doostihaa.com##[class^="ads"][class$="box"]
 doustiha.ir##.fixed-ads
 download.ir###hdd_rss_reader-2
 downloadha.com###main > .main-container > .maincontent > .topbanners468
