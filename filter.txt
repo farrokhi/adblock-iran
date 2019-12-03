@@ -451,6 +451,7 @@ lavinmovie.org###adsgiftcard
 lavinmovie.org##[href^="https://glamora.com/"]
 lavinmovie.org##[href^="https://goo.gl/"]
 lenzak.com###text-31
+lianmovie.com###ad1
 lineblog.ir##[class^="adsblog"]
 lineblog.ir##[id^="ads"]
 linemovie.biz##.ads-ronakweb
