@@ -9,6 +9,7 @@
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
 ! License:   BSD Simplified
 !--------------------------------------------------------------------------
+###ADbox-2
 ###adnFloatbr
 ###adpress_widget-2
 ###ads468
@@ -255,6 +256,7 @@ donya-e-eqtesad.com##.overview-auto
 donya-e-eqtesad.com##.position-i0
 doradu.com##.flads
 doostihaa.com##[class^="ads"][class$="box"]
+doostihaa.com##[id*="ADbox-"]
 doustiha.ir##.fixed-ads
 download.ir###hdd_rss_reader-2
 downloadha.com###main > .main-container > .maincontent > .topbanners468
