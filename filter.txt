@@ -478,6 +478,7 @@ mstiran.com##.fancybox
 mstiran.com##.fancybox-overlay-fixed
 multisearch.ir##.tbox
 multisearch.ir##.tmask
+my-filmm.pro##.entry > .post-content > center a[href*="esam.ir"]
 myfablog.ir##[style="position: absolute;right: 1px; top: 1px;z-index: 100; width: 120px; border: #F0F0F0 1px solid; background-color: #fff; padding: 0; margin: 0"]
 myfablog.ir##[style="position:absolute;left:1;top:1;width:122;border:1px solid #C0C0C0;z-index:10;background-color:white"]
 naghola.com###header_down > table:nth-of-type(3) > tbody
