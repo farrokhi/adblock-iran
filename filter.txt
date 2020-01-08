@@ -319,6 +319,9 @@ fibazar.ir##[class*="-tblg-"]
 film2movie.biz##.middle > .right-main > .main > .box:nth-of-type(3)
 film2movie.us##.fixed120
 film2movie.us##.headbanners
+film2serial.ir##.warpper > center a[target="_blank"]
+film2serial.ir##.entry > .socialfa
+film2serial.ir##div[style*="width: 100%; position: fixed; bottom: 0px"]
 freedanload.com###shortcodes-ultimate-2
 freegames.ir##.sidebar-box:nth-of-type(1)
 freegames.ir##.sidebar-box:nth-of-type(2)
@@ -882,6 +885,7 @@ zoomtech.ir###text-3
 ||files.namnak.com/aup/$image
 ||film2movie.biz/content/uploads/*.gif
 ||film2movie.us/content/uploads/*.gif
+||film2serial.ir/wp-content/uploads/*/esam-*.gif
 ||findatour.co/UserFile/Banner/
 ||foxpush.net^
 ||freescript.ir/wp-content/uploads/*/*/*.gif
