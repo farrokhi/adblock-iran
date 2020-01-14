@@ -153,6 +153,7 @@ androidha.com##.app-inside-post
 androidha.com##a[href^="http://www.eligasht.com/"]
 androidineh.com##.a-1.b-4.g-col > .border-radius.post-ads
 androidineh.com##.a-4.b-4.g-col > .border-radius.post-ads > .post-ads-content
+aparat.com##.ad-box
 aparat.com##.aparat-ads-box
 aparat.com##.filimo-banner-wrapper
 aparat.com##.hidden-end-recom.videoonepromotion--wrapper
