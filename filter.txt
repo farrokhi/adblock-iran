@@ -637,6 +637,8 @@ soft98.ir###kaprila_soft98_ir_related
 soft98.ir##.nav-item:contains(تبلیغات)
 soft98.ir##.download-list-item:has(a[href*=kaprila])
 soft98.ir##.download-list-item-buysellads
+soft98.ir##.card:has(.a1d2x)
+soft98.ir##.card:has(.a1d2x-image)
 soft98.ir##.card:has(.a1d2x-sidebar)
 softgozar.com###backgray-layout
 softgozar.com###dtlAdvertiseRightPan
