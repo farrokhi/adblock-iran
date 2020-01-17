@@ -624,11 +624,16 @@ shopkeeper.ir##.postbody > div > div > a[href^="http://go.shopkeeper.ir/"]
 skinak.ir###dis_ads > .dadsd
 skinak.ir##.bg > center > .dadsd:nth-of-type(2)
 skinak.ir##header > .ads
-soft98.ir##*[class="card d-block bg-light"]:style(height: 1px !important; width: 1px !important; visibility: collapse !important;)
-soft98.ir##*[class="col-lg pl-0 pr-0 pl-sm-3 pr-sm-3 pr-sm-3"]
-soft98.ir##*[class="col-lg pt-3 pl-0 pr-0 pl-sm-3 pr-sm-3 pt-lg-0 pr-lg-0"]:style(height: 1px !important; width: 1px !important; visibility: collapse !important;)
-soft98.ir##*[class^="adx-image"]:style(height: 1px !important; width: 1px !important; visibility: collapse !important;)
-soft98.ir##.adx
+soft98.ir##+js(set, Object.prototype.checkAdBlocker, noopFunc)
+soft98.ir##*[class^="a1d2x"]
+soft98.ir##.a1d2x-link
+soft98.ir##.a1d2x-image
+soft98.ir##.a1d2x-download
+soft98.ir##.a1d2x-sidebar
+soft98.ir##.a1d2x__inner
+soft98.ir##.a1d2x
+soft98.ir###a1d2x-header
+soft98.ir###kaprila_soft98_ir_related
 softgozar.com###backgray-layout
 softgozar.com###dtlAdvertiseRightPan
 softgozar.com###PopAlert
