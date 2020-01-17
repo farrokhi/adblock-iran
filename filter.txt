@@ -595,6 +595,9 @@ saednews.com##.w-10rem
 saednews.com##[href^="https://sina-pub.ir/"]
 safarbaba.com##.hobab_msg
 sakhtafzar.com##[class*="banner"]
+sakhtafzarmag.com##[class^="banner"]
+sakhtafzarmag.com##.bannergroup
+sakhtafzarmag.com##.banneritem
 samatak.com##.CBS.TopAdssss
 samenpress.com##.adv-section
 sarzamindownload.com##.GSLeftSide.col-lg-3.col-md-3.col-sm-12.col-xs-12 > .widget_style_funcs.GSBlock:nth-of-type(4) > div > .GSblock
