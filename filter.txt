@@ -3,7 +3,7 @@
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   165
+! Version:   166
 ! Download:  https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -131,8 +131,9 @@ afkarnews.ir##.type-resource-swf.type-resource
 afkarnews.ir##IFRAME[src*="adtube"]
 afkarnews.ir##IFRAME[src*="anetwork"]
 aftabeyazd.ir##div:nth-of-type(7) > div:nth-of-type(4)
-aftabir.com##.hidden-xs:nth-of-type(6)
-aftabir.com##.hidden-xs:nth-of-type(8)
+aftabir.com###footer_js_d1
+aftabir.com##.banner
+aftabir.com##.banner-container
 aftabir.com##.sidebar-fixed > .block
 aftabir.com##a[href^="/redirect.php"]
 aftabnews.ir##.adv_l_inner5
@@ -751,6 +752,7 @@ zoomtech.ir###text-3
 ||afkarnews.ir/serve/*.jpg
 ||afkarnews.ir/servev2/*.gif
 ||afkarnews.ir/servev2/*.jpg
+||aftabir.com/*/adv_images/*$image
 ||aftabir.com/campaigns/adv_images/
 ||agahiweb.com/uploads/*-468.gif
 ||agkn.com/adscores/
