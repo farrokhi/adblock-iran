@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: D1aIVORTo6c61F8WNibY6Q
+! Checksum: Ep/FyIVBdouxFQi3Sm5FDg
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   166
+! Version:   167
 ! Download:  https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -252,11 +252,11 @@ digikala.com###popup-mask
 dl4all.ir##.center > .fadeInDown.animated.visible.hidden.body-main:nth-of-type(1)
 dl4all.ir##.left > .fadeInDown.animated.visible.hidden.body-main:nth-of-type(1)
 dlbook.net##.mom_custom_text.widget:nth-of-type(3) > .custom_textwidget
+dlroozane.net##.index-adstop
 dlroozane.net##[id*="ADbox-"]
 dlroozane.net##center a[href*="utm_medium=banner"]
 dlroozane.net##center a[target="_blank"] img[width="90%"]
 dlroozane.net##div.static-post:contains(تبلیغات)
-dlroozane.net##.index-adstop
 donya-e-eqtesad.com##.mrgtalfiq
 donya-e-eqtesad.com##.overview-auto
 donya-e-eqtesad.com##.position-i0
@@ -273,7 +273,6 @@ downloadha.com##.rightsidebarc.adsright
 downloadha.com##.widget.aside.collapse
 downloadha.com##[class*="-ads "]
 downloadha.com##[class*="sabavision"]
-downloadha.com##.post.fixed-posts.panel-warning.panel
 downloadkral.com###shop
 downloadkral.com##a[href^="http://store.downloadkral.com/product.php"]
 downloadly.ir##.mom-e3lanat-wrap
@@ -356,12 +355,12 @@ harfetaze.com##.moded.vc_sidebar
 harmonydl.info##.q46
 hastidl.org###wpfront-notification-bar
 hastidownload.biz##.boxes
-hastidownload.biz##a[href="http://mahoot-leather.ir/"]
-hastidownload.biz##a[href="http://mihanwebhost.com/"]
 hastidownload.biz##a[href^="http://my.mihanwebhost.com/cart.php"]
 hastidownload.biz##a[href^="http://www.takhfifan.com/"]
 hastidownload.biz##a[href^="https://www.digikala.com/Search/"]
 hastidownload.biz##a[href^="https://www.modiseh.com/"]
+hastidownload.biz##a[href="http://mahoot-leather.ir/"]
+hastidownload.biz##a[href="http://mihanwebhost.com/"]
 hidoctor.ir###single-right-sidebar-banners
 hidoctor.ir##.advertise-banner-anchor
 hidoctor.ir##.pdslanbox
@@ -631,28 +630,27 @@ shopkeeper.ir##.postbody > div > div > a[href^="http://go.shopkeeper.ir/"]
 skinak.ir###dis_ads > .dadsd
 skinak.ir##.bg > center > .dadsd:nth-of-type(2)
 skinak.ir##header > .ads
+soft98.ir###a1d2x-header
+soft98.ir###kaprila_soft98_ir_related
+soft98.ir###sidebar .card:has(.a1d2x-image)
+soft98.ir###sidebar .card:has(.a1d2x-sidebar)
+soft98.ir###sidebar .card:has(.a1d2x)
+soft98.ir##*[class^="adx-image"]:style(height: 1px !important; width: 1px !important; visibility: collapse !important;)
 soft98.ir##*[class="card d-block bg-light"]:style(height: 1px !important; width: 1px !important; visibility: collapse !important;)
 soft98.ir##*[class="col-lg pl-0 pr-0 pl-sm-3 pr-sm-3 pr-sm-3"]
 soft98.ir##*[class="col-lg pt-3 pl-0 pr-0 pl-sm-3 pr-sm-3 pt-lg-0 pr-lg-0"]:style(height: 1px !important; width: 1px !important; visibility: collapse !important;)
-soft98.ir##*[class^="adx-image"]:style(height: 1px !important; width: 1px !important; visibility: collapse !important;)
-soft98.ir##.adx
-soft98.ir###a1d2x-header
-soft98.ir###kaprila_soft98_ir_related
-soft98.ir###sidebar .card:has(.a1d2x)
-soft98.ir###sidebar .card:has(.a1d2x-image)
-soft98.ir###sidebar .card:has(.a1d2x-sidebar)
-soft98.ir##+js(set, Object.prototype.checkAdBlocker, noopFunc)
 soft98.ir##.a1d2x
 soft98.ir##.a1d2x-download
 soft98.ir##.a1d2x-image
 soft98.ir##.a1d2x-link
 soft98.ir##.a1d2x-sidebar
 soft98.ir##.a1d2x__inner
+soft98.ir##.adx
 soft98.ir##.download-list-item-buysellads
 soft98.ir##.download-list-item:has(a[href*=kaprila])
 soft98.ir##.nav-item:contains(تبلیغات)
 soft98.ir##[class^="a1d2x"]
->>>>>>> develop
+soft98.ir##+js(set, Object.prototype.checkAdBlocker, noopFunc)
 softgozar.com###backgray-layout
 softgozar.com###dtlAdvertiseRightPan
 softgozar.com###PopAlert
@@ -700,8 +698,6 @@ topnaz.com##.b130ads
 topnaz.com##.bxl
 toranji.ir###\32 b25e9d2_886e > .ruby-container.ruby-block-inner
 v.persiangig.com###page_ads
-varoone.ir##.fixpost
-varoone.ir##.gsh[style*="120px"][style*="240px"]
 vajehyab.com##.vyads
 varoone.ir##.fixpost
 varoone.ir##.gsh[style*="120px"][style*="240px"]
@@ -723,11 +719,11 @@ zima.ir##.newslleterPop
 zima.ir##.overlayDiv
 zohur12.ir##.related-posts
 zoomg.ir##.banner
-zoomit.ir##+js(abort-on-property-read.js, setHeightOfAd)
 zoomit.ir##.bannercontainer
 zoomit.ir##.showBanner
 zoomit.ir##.text-adv-row
 zoomit.ir##.Text5Ad
+zoomit.ir##+js(abort-on-property-read.js, setHeightOfAd)
 zoomit.ir##A[href*="//app.adjust.com"]
 zoomit.ir##text-adv-box
 zoomtech.ir###rss-2
@@ -742,8 +738,8 @@ zoomtech.ir###text-3
 ||1pezeshk.com/wp-content/*/%D9%BE%D9%88%D8%B3%D8%AA%D8%B1-%D8%B3%D9%88%D9%85.jpg
 ||1pezeshk.com/wp-content/uploads/*/*/*.gif
 ||1pezeshk.com/wp-content/uploads/*/Baner
-||20tayi.ir/wp-content/uploads/1.png
 ||20script.ir/banner/*$image
+||20tayi.ir/wp-content/uploads/1.png
 ||2gheroon.ir/*.gif
 ||30nama.fun/ads/
 ||4dah.ir/wp-content/uploads/ADS*.gif
@@ -754,9 +750,6 @@ zoomtech.ir###text-3
 ||ad.utop.ir^
 ||adment.space^
 ||adnegah.net^
-||ads.sahandar.com^
-||adtube.ir^
-||adverse.persiangig.com/pgads/ads/$subdocument
 ||ads.rzb.ir^
 ||ads.sahandar.com^
 ||adtube.ir^
@@ -777,7 +770,6 @@ zoomtech.ir###text-3
 ||alamto.com/wp-content/uploads/*/*/*.gif
 ||alef.ir^$third-party
 ||alodoctor.ir/Uploads/Picture/*.gif
-||api.sabavision.com/$subdocument
 ||amadnews.com/wp-content/uploads/2017/01/4vm7hosdlqst0bjaecv.jpg
 ||amazing.ir/wp-content/uploads/*/*/*.gif
 ||ammarname.ir/sites/default/files/templateLogo/Baner/$object
@@ -787,6 +779,7 @@ zoomtech.ir###text-3
 ||anobanini.net/forum/adsg/
 ||aparat.com/*/campains/$image
 ||aparat.com/public/public/images/banner
+||api.sabavision.com/$subdocument
 ||apktops.ir/wp-content/*.gif
 ||appget.ir/*.gif
 ||appleapps.ir/wp-content/uploads/*/*/*.gif
@@ -797,7 +790,6 @@ zoomtech.ir###text-3
 ||asemooni.com/*/*/*.gif
 ||atighgasht.com^$third-party
 ||avadl.biz/img/Reza/*banner
-||blogfa.com/ad/
 ||b-amooz.com/wp-content/uploads/*/*/hikvision.gif
 ||backority.ir^$script
 ||backtory.com/mediaad
