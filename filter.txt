@@ -691,6 +691,9 @@ topnaz.com##.adstmp
 topnaz.com##.b130ads
 topnaz.com##.bxl
 toranji.ir###\32 b25e9d2_886e > .ruby-container.ruby-block-inner
+v.persiangig.com###page_ads
+varoone.ir##.fixpost
+varoone.ir##.gsh[style*="120px"][style*="240px"]
 vajehyab.com##.vyads
 varoone.ir##.fixpost
 varoone.ir##.gsh[style*="120px"][style*="240px"]
@@ -742,6 +745,9 @@ zoomtech.ir###text-3
 ||ad.utop.ir^
 ||adment.space^
 ||adnegah.net^
+||ads.sahandar.com^
+||adtube.ir^
+||adverse.persiangig.com/pgads/ads/$subdocument
 ||ads.rzb.ir^
 ||ads.sahandar.com^
 ||adtube.ir^
@@ -1133,6 +1139,7 @@ zoomtech.ir###text-3
 ||rouzegar.com/wp-content/uploads/*/*/*.gif
 ||rouzegar.com/wp-content/uploads/2016/12/photo_*.jpg
 ||rzb.ir^$script
+||ads.rzb.ir^
 ||s.hitplus.ir^
 ||s3-us-west-2.amazonaws.com/iranefarda/00test/$image
 ||saat24.com/d/*/*/*/*/*.gif
