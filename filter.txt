@@ -1150,7 +1150,6 @@ zoomtech.ir###text-3
 ||rouzegar.com/wp-content/uploads/*/*/*.gif
 ||rouzegar.com/wp-content/uploads/2016/12/photo_*.jpg
 ||rzb.ir^$script
-||ads.rzb.ir^
 ||s.hitplus.ir^
 ||s3-us-west-2.amazonaws.com/iranefarda/00test/$image
 ||saat24.com/d/*/*/*/*/*.gif
