@@ -256,6 +256,7 @@ dlroozane.net##[id*="ADbox-"]
 dlroozane.net##center a[href*="utm_medium=banner"]
 dlroozane.net##center a[target="_blank"] img[width="90%"]
 dlroozane.net##div.static-post:contains(تبلیغات)
+dlroozane.net##.index-adstop
 donya-e-eqtesad.com##.mrgtalfiq
 donya-e-eqtesad.com##.overview-auto
 donya-e-eqtesad.com##.position-i0
@@ -290,6 +291,7 @@ entekhab.ir##.col-xs-36.news-web
 entekhab.ir##.yn-bnr__branding
 epapers.ir##.widgetleft
 esam.ir###ctl00_ctl00_RightCornerBanner
+esam.ir##[id$="RightCornerBanner"]
 estekhtam.com###text-2
 estekhtam.com###text-9
 faaltarin.com##body > div:nth-of-type(2) > div:nth-of-type(4) > table > tbody > tr > td:nth-of-type(3)
