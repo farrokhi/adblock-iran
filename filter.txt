@@ -126,6 +126,7 @@
 2zaar.ir###topBanner
 6sobh.com###RightAdsBar
 abipic.com###radsfix
+afkarnews.com##.main-zxc
 afkarnews.com##.overview-auto
 afkarnews.ir##.type-resource-swf.type-resource
 afkarnews.ir##IFRAME[src*="adtube"]
