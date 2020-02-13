@@ -250,6 +250,8 @@ digiboy.ir##.sidebar-digiads
 digiboy.ir##.vertical
 digiboy.ir##li.sponsors-item
 digikala.com###popup-mask
+digikala.com##.c-listing-sidebar a[data-adro-ad-click-id]
+digikala.com##.c-listing__items li:has(.c-product-box .c-adplacement__badge-container--txt:contains(Ads))
 dl4all.ir##.center > .fadeInDown.animated.visible.hidden.body-main:nth-of-type(1)
 dl4all.ir##.left > .fadeInDown.animated.visible.hidden.body-main:nth-of-type(1)
 dlbook.net##.mom_custom_text.widget:nth-of-type(3) > .custom_textwidget
