@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 1kEKcblZ5N6QWm+fh01lNQ
+! Checksum: 6ONa8yLKADHA29TfVcpFIw
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
@@ -691,6 +691,7 @@ tgju.org##[class*="advertise"]
 tigatravel.com##.fade
 tigatravel.com##.popup_block
 tinn.ir##a[href^="/advertisements/"]
+timecity.ir##.banner
 topnaz.com##.adstmp
 topnaz.com##.b130ads
 topnaz.com##.bxl
