@@ -263,6 +263,7 @@ dlroozane.net##div.static-post:contains(تبلیغات)
 donya-e-eqtesad.com##.mrgtalfiq
 donya-e-eqtesad.com##.overview-auto
 donya-e-eqtesad.com##.position-i0
+doostihaa.com##.lefts_sides:has(.adsf_letfs)
 doostihaa.com##[class^="ads"][class$="box"]
 doostihaa.com##[id*="ADbox-"]
 doradu.com##.flads
