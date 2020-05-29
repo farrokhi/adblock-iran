@@ -476,6 +476,7 @@ majalesalamat.com###text-13
 manidl.ir###\33 4591733458887cfbe640d
 marde-rooz.com##.column-2.columns.entries.grid-4
 mashreghnews.ir##[id^="ad"]
+mashreghnews.ir##[href*="/redirect/ads/"]
 mazandmajles.ir##.ad
 mehrnews.com##[id^="ad"]
 mehrnews.com##a[href^="/redirect/ads/"]
