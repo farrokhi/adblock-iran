@@ -654,8 +654,11 @@ soft98.ir##[class^="a1d2x"]
 soft98.ir##+js(set, Object.prototype.checkAdBlocker, noopFunc)
 softgozar.com###backgray-layout
 softgozar.com###dtlAdvertiseRightPan
+softgozar.com###left_panel .Label:has(.adv_text)
 softgozar.com###PopAlert
+softgozar.com##.adv_scr_dwnl
 softgozar.com##.adv_text
+softgozar.com##.btnDonate
 sourcebaran.com##a[href="http://bartaren.ir"]
 sourceiran.com##.text-ads-widget.widget
 static.mailerlite.com##.mailerlite-container
