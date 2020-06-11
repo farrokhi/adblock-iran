@@ -899,6 +899,7 @@ zoomtech.ir###text-3
 ||emalls.ir^$subdocument
 ||emeg.ir/theme/img/Ad
 ||ensafnews.com/wp-content/uploads/*/*/*.gif
+||esetupdate.ir/adv/*$image
 ||estekhtam.com/wp-content/uploads/*/*/*.gif
 ||estekhtam.com/wp-content/uploads/2016/11/estekhtam*.jpg
 ||faaltarin.com/images/*.gif
