@@ -579,9 +579,10 @@ plus.ir##.advBanner.text-center
 rajanews.com##.ads
 ravan.e-teb.com##.ads
 readbook.ir##td:nth-of-type(1) > .sidebar-right:nth-of-type(1)
-rokna.ir##.noprint.pb16.fullw_800.left_column.float > .v_zxc
+rokna.ir##.v_zxc
 rokna.ir##.xcon12 > .mb16
 rokna.net##.banner-sabet
+rokna.net##.zxc-padding-custom
 rokna.net##a[href^="/advertisements/"]
 rond.ir##.banner-box
 rond.ir##.grid_6
