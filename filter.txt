@@ -415,6 +415,9 @@ isna.ir###box114 > div > ul
 isna.ir###box32
 isna.ir##.ads.box
 isna.ir##[id^="ad100_"]
+itbazar.com##[href*="itbazar.com/banner/"]
+itbazar.com##[id^="banner-"]
+itbazar.com##[class^="col-"]:has(> .box[id^="banner-"])
 itiran.com##.addver2
 itna.ir##[id^="advertise"]
 itresan.com###fsml_ff
@@ -997,6 +1000,8 @@ zoomtech.ir###text-3
 ||isna.ir/images/shared/*.gif
 ||itbazar.com/UploadFiles/*.gif
 ||itbazar.com/UploadFiles/*ADS
+||itbazar.com/uploadfiles/banners/*$image
+@@||itbazar.com/uploadfiles/banners/*.jpg$image
 ||itgheymat.com/uploadFiles/*.gif
 ||itgheymat.com/uploadFiles/app-itgheymat.jpg
 ||itiran.com/sites/default/files/*.gif
