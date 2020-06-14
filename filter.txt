@@ -492,6 +492,8 @@ mizbanblog.com##[id^="ads"]
 mojnews.com##.propaganda
 momtaznews.com##.b130ads
 moroornews.com##.overview-auto
+mostafa3d.com##.bannergroup, .banneritem
+mostafa3d.com###top-b
 mstiran.com##.fancybox
 mstiran.com##.fancybox-overlay-fixed
 multisearch.ir##.tbox
