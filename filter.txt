@@ -1064,6 +1064,7 @@ zoomtech.ir###text-3
 ||mihanscript.ir/ads.jpg
 ||mojnews.com/servev2/*.gif
 ||moroornews.com/servev2/*.gif
+||mostafa3d.com/images/banners/*
 ||motelyab.com/images/hotel/reserve-hotel-mashhad.gif
 ||movie98.org/wp-content/uploads/*.gif
 ||mstiran.com/resource/javascripts/jquery.fancybox.pack.js
