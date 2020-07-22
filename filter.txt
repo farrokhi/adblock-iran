@@ -289,6 +289,7 @@ eghtesadnews.com##.zxc
 eghtesadonline.com###mgbox-articles
 eghtesadtimes.com##.fake
 eghtesadtimes.com##[href^="/advertisements/"]
+emalls.ir##[id$="_divBanner"]
 ensafnews.com##[id^="shahba_ad-"]
 entekhab.ir##.col-xs-36.attention
 entekhab.ir##.col-xs-36.news-web
@@ -642,6 +643,8 @@ shopkeeper.ir##.postbody > div > div > a[href^="http://go.shopkeeper.ir/"]
 skinak.ir###dis_ads > .dadsd
 skinak.ir##.bg > center > .dadsd:nth-of-type(2)
 skinak.ir##header > .ads
+snn.ir##.hidden-ms.hidden-xs.hidden-sm:has([href*="/ads/"])
+snn.ir##.adv_mobile
 soft98.ir###a1d2x-header
 soft98.ir###kaprila_soft98_ir_related
 soft98.ir###sidebar .card:has(.a1d2x-image)
@@ -1189,6 +1192,7 @@ zoomtech.ir###text-3
 ||sigmaad.com^
 ||simcart.com/a/$image
 ||skinak.ir/up/skinak/temps/forum/v3/images/bg.jpg
+||snn.ir/files/adv/$image
 ||soft98.ir/*.gif
 ||softgozar.com/Image/SiteAde/$image
 ||softsaaz.ir/wp-content/uploads/*.gif
