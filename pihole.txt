@@ -1,4 +1,6 @@
-# update: 15 Sept 2019
+# update: 22-07-2020
+(^|\.)adro\.co$
+(^|\.)yektanet\.com$
 1000click.ir
 ad.nowaroos.com
 ad.utop.ir
@@ -70,6 +72,7 @@ wikiforosh.ir
 www.persianstat.ir
 www.randewoo.ir
 www.webgozar.ir
+xar-pay.ml
 yasell.biz
 yektanet.com
 zarpop.com
