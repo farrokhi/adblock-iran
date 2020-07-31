@@ -409,6 +409,7 @@ irebooks.com###sidebar-secondary > .widget-container:nth-of-type(8)
 irebooks.com###text-10
 irebooks.com##div:nth-of-type(2) > center
 irexpert.ir##object
+irna.ir##.ads.box
 islamquest.net##.atize.custom
 isna.ir###box108
 isna.ir###box109
