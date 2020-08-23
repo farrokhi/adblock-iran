@@ -1,18 +1,19 @@
-# update: 22-07-2020
-(^|\.)adro\.co$
-(^|\.)yektanet\.com$
+# update: 23-08-2020
+(|\.)adro\.co$
+(|\.)yektanet\.com$
+(|\.)gostats.ir$
 1000click.ir
 ad.nowaroos.com
 ad.utop.ir
 adment.space
 adnegah.net
 adro.co
+ads.rzb.ir
 ads.sahandar.com
 adtube.ir
 adziran.gq
 anetwork.ir
 banner.dabi.ir
-c3.gostats.ir
 clickbux.ir
 clickyab.com
 coding.1100011.ir
@@ -26,6 +27,7 @@ foxpush.net
 gostats.ir
 hackerz.ir
 irandigitalads.com
+iranjo.cf
 iranweb.click
 irblue.ml
 irgreen.ml
@@ -43,8 +45,10 @@ netbina.com
 nutnet.ir
 p30rank.ir
 paypop.org
+persianstat.ir
 poparya.com
 popbox.skinak.ir
+popfa.ir
 popmaster.ir
 popupha.com
 popupme.net
@@ -65,13 +69,11 @@ toppopup.com
 up.video-learn.net
 uploado.xyz
 vista.ir
+webgozar.ir
 weclick.ir
 widget.congoro.com
 widgets.takhfifan.com
 wikiforosh.ir
-www.persianstat.ir
-www.randewoo.ir
-www.webgozar.ir
 xar-pay.ml
 yasell.biz
 yektanet.com
