@@ -1,7 +1,8 @@
-# update: 23-08-2020
-(|\.)adro\.co$
-(|\.)yektanet\.com$
-(|\.)gostats.ir$
+# update: 17-11-2020
+(\.|^)adro\.co$
+(\.|^)gostats.ir$
+(\.|^)matterlytics\.com$
+(\.|^)yektanet\.com$
 1000click.ir
 ad.nowaroos.com
 ad.utop.ir
