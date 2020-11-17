@@ -1,6 +1,6 @@
 # update: 17-11-2020
 (\.|^)adro\.co$
-(\.|^)gostats.ir$
+(\.|^)gostats\.ir$
 (\.|^)matterlytics\.com$
 (\.|^)yektanet\.com$
 1000click.ir
