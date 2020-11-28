@@ -1,28 +1,41 @@
-# update: 18-11-2020
+# update: 28-11-2020
 1000click.ir
 a.clickyab.com
+ad.adtube.ir
 ad.anetwork.ir
 ad.nowaroos.com
 ad.utop.ir
 adment.space
 adnegah.net
 adro.co
+ads.4ml.ir
+ads.aranesh.ir
+ads.baadesaba.ir
+ads.lll5.ir
+ads.rade.ir
 ads.rzb.ir
 ads.sahandar.com
+ads2.tweetna.ir
+adserver.adad.ir
 adtube.ir
 adziran.gq
 affstat.adro.co
+androidads.ir
 anetwork.ir
 api.mediaad.org
 app.clickyab.com
 audience.yektanet.com
+balootads.ir
 banner.dabi.ir
+bannerclick.lll1.ir
 bfetch.yektanet.com
 box.mediaad.org
 c.clickyab.com
 cashback.takhfifan.com
+cdn.iranweb.click
 cdn.yektanet.com
 ck.yektanet.com
+click.baburnadir.com
 clickbux.ir
 clickyab.com
 coding.1100011.ir
@@ -64,6 +77,7 @@ native.yektanet.com
 netbina.com
 nfetch.yektanet.com
 nfetch.yektanet.net
+notificationclick.ir
 nutnet.ir
 p30rank.ir
 paypop.org
@@ -84,6 +98,7 @@ radar.bayan.ir
 randewoo.ir
 rfetch.yektanet.com
 rfetch.yektanet.net
+rtb.adtube.ir
 rzb.ir
 s.adnegah.net
 s.hitplus.ir
@@ -93,6 +108,7 @@ sabavision.com
 scrapper.yektanet.com
 sigmaad.com
 ssads.net
+ssl.vatanclick.ir
 static-cdn.anetwork.ir
 static.clix.ir
 tapsell.ir
