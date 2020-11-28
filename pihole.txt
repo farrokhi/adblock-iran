@@ -1,16 +1,20 @@
 # update: 28-11-2020
 1000click.ir
 a.clickyab.com
+ad-push.ir
 ad.adtube.ir
 ad.anetwork.ir
+ad.cafebazaar.ir
 ad.nowaroos.com
 ad.utop.ir
 adment.space
 adnegah.net
+adplaces.ir
 adro.co
 ads.4ml.ir
 ads.aranesh.ir
 ads.baadesaba.ir
+ads.boozar.ir
 ads.lll5.ir
 ads.rade.ir
 ads.rzb.ir
@@ -18,6 +22,7 @@ ads.sahandar.com
 ads2.tweetna.ir
 adserver.adad.ir
 adtube.ir
+advert.setno.ir
 adziran.gq
 affstat.adro.co
 androidads.ir
