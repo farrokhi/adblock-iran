@@ -13,7 +13,7 @@ Alternative URLs if the above doesn't work for you:
 - https://combinatronics.com/farrokhi/adblock-iran/master/filter.txt
 - https://cdn.statically.io/gh/farrokhi/adblock-iran/master/filter.txt
 
-In case of **Adblock Plus**, the list should be added to `Filter preferences -> Add filter subscription -> Add a different subscription` or simply click the below link to import the filter list into ABP.
+In case of **Adblock Plus**, the list should be added to `Advanced -> Filter lists -> Add filter list via URL` or simply click the below link to import the filter list into ABP.
 
 - https://subscribe.adblockplus.org/?location=https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt
 
