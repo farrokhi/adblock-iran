@@ -650,6 +650,12 @@ soft98.ir##.download-list-item-buysellads
 soft98.ir##.download-list-item:has(a[href*=kaprila])
 soft98.ir##.nav-item:contains(تبلیغات)
 soft98.ir##[class^="a1d2x"]
+soft98.ir###a7d5x-header > a.a7d5x-link > img.a7d5x-image
+soft98.ir###a7d5x-header > a.a7d5x-link > img.a7d5x-image
+soft98.ir###a7d5x-s1pecial > div.a7d5x__inner > section.card:first-child
+soft98.ir###sid2ebar > section.card:first-child
+##.a7d5x-image
+###a7d5x-s1pecial > div.a7d5x__inner
 softgozar.com###backgray-layout
 softgozar.com###dtlAdvertiseRightPan
 softgozar.com###PopAlert
