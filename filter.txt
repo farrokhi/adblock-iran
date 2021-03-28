@@ -1267,3 +1267,4 @@ zoomtech.ir###text-3
 ||zoomit.ir/*.gif
 ||zoomit.ir/*/declarationPics/*.jpg
 ||zoomtech.ir/wp-content/uploads/*.gif
+||tavoos.net/tavoos_contents/uploads/*/*/*/*/*-vast.mp4$media,redirect=noopmp4-1s
