@@ -718,7 +718,6 @@ zima.ir##.newslleterPop
 zima.ir##.overlayDiv
 zohur12.ir##.related-posts
 zoomg.ir##.banner
-zoomit.ir##+js(abort-on-property-read.js, setHeightOfAd)
 zoomit.ir##.bannercontainer
 zoomit.ir##.showBanner
 zoomit.ir##.text-adv-row
