@@ -650,6 +650,7 @@ soft98.ir##.a1d2x-image
 soft98.ir##.a1d2x-link
 soft98.ir##.a1d2x-sidebar
 soft98.ir##.a1d2x__inner
+soft98.ir##.a7d6x__inner
 soft98.ir##.download-list-item-buysellads
 soft98.ir##.download-list-item:has(a[href*=kaprila])
 soft98.ir##.nav-item:contains(تبلیغات)
