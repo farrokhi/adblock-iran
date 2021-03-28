@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: PwMMzoAgyP00WmRR99vV/w
+! Checksum: KPme8Ock1NPr8gXPdj8qyw
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
@@ -378,8 +378,8 @@ ictna.ir##.content-right-ad
 ilna.ir###sticker
 ilna.ir##.zxc_type_text
 ilna.ir##a[href^="/advertisements/"]
-ilna.news###.zxc
-ilna.news###.zxc_type_text
+ilna.news##.zxc
+ilna.news##.zxc_type_text
 ilna.news###sticker
 ilna.news##[href^="/advertisements/triggered"]
 ilnanews.com###sticker
