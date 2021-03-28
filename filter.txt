@@ -1,14 +1,15 @@
 [Adblock Plus 2.0]
-! Checksum: 0gXqjfYJ+d0TQ13+qgKG9A
+! Checksum: x5AfJmDro4CnOFM5jEm32w
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   171
+! Version:   172
 ! Download:  https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
 ! License:   BSD Simplified
 !--------------------------------------------------------------------------
+###a7d5x-s1pecial > div.a7d5x__inner
 ###ADbox-2
 ###adnFloatbr
 ###adpress_widget-2
@@ -28,6 +29,7 @@
 ###SenCodeLoginBox
 ###takhfifan-widget
 ###Topadver
+##.a7d5x-image
 ##.active.visible.transition.page.modals.dimmer.ui
 ##.ad-container
 ##.ads-head
@@ -637,6 +639,7 @@ skinak.ir##.bg > center > .dadsd:nth-of-type(2)
 skinak.ir##header > .ads
 soft98.ir###a1d2x-header
 soft98.ir###kaprila_soft98_ir_related
+soft98.ir###sid2ebar > section.card:first-child
 soft98.ir###sidebar .card:has(.a1d2x)
 soft98.ir###sidebar .card:has(.a1d2x-image)
 soft98.ir###sidebar .card:has(.a1d2x-sidebar)
