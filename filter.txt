@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: x5AfJmDro4CnOFM5jEm32w
+! Checksum: SC3I0BHDLqMDYk3fOVbxpw
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
@@ -854,6 +854,7 @@ zoomtech.ir###text-3
 ||clicksite.org/img/*takhfif
 ||clicksite.org/img/antivirus.gif
 ||clickyab.com^
+||cloudirs.
 ||congoro.com/widget
 ||core.clix.ir/bc/$subdocument
 ||dabi.ir/ScriptResource.axd?
