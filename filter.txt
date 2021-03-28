@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: SC3I0BHDLqMDYk3fOVbxpw
+! Checksum: PwMMzoAgyP00WmRR99vV/w
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
@@ -9,6 +9,7 @@
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
 ! License:   BSD Simplified
 !--------------------------------------------------------------------------
+
 ###a7d5x-s1pecial > div.a7d5x__inner
 ###ADbox-2
 ###adnFloatbr
@@ -288,6 +289,7 @@ eghtesadnews.com##.zxc
 eghtesadonline.com###mgbox-articles
 eghtesadtimes.com##.fake
 eghtesadtimes.com##[href^="/advertisements/"]
+emalls.ir##.side-bar-wrapper > div
 emalls.ir##[id$="_divBanner"]
 ensafnews.com##[id^="shahba_ad-"]
 entekhab.ir##.col-xs-36.attention
@@ -655,6 +657,7 @@ soft98.ir##.download-list-item-buysellads
 soft98.ir##.download-list-item:has(a[href*=kaprila])
 soft98.ir##.nav-item:contains(تبلیغات)
 soft98.ir##[class^="a1d2x"]
+softgozar.com###advBan
 softgozar.com###backgray-layout
 softgozar.com###dtlAdvertiseRightPan
 softgozar.com###PopAlert
