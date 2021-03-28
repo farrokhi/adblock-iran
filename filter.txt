@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: I4nh4+uNHEitIXXspBQvnA
+! Checksum: E5yeyEhL/NdBKRnBbVUGDw
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   169
+! Version:   170
 ! Download:  https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -22,7 +22,6 @@
 ###GlobalAdBlock
 ###mihan_page_advert
 ###page_ads
-###popup
 ###popupMask
 ###sabalightBox
 ###SenBackLoginBox
@@ -81,6 +80,7 @@
 ##a[href^="http://account.zula.ir/"]
 ##a[href^="http://www.alamto.com/ads/click.php"]
 ##div[style*="position:fixed"][style*="z-index:300"] a[target=_blank]
+.ir###popup
 .ir/*/ad/
 .ir/*/ads/
 .ir/*/banner/
@@ -116,6 +116,7 @@
 1pezeshk.com##.enhanced-text-widget.widget_text.widget
 1pezeshk.com##.herald-sidebar-right.col-md-3.col-lg-3.herald-sidebar
 1pezeshk.com##.rayanic-top-ads
+1pezeshk.com##.rd-sidebar.rd-main-sidebar
 1pezeshk.com##.rd-widget-row.widget-container
 1pezeshk.com##.su-box-style-noise.su-box
 1pezeshk.com##.su-clearfix.su-box-content
@@ -962,6 +963,7 @@ zoomtech.ir###text-3
 ||icoff.ee/fa/wp-content/uploads/2016/08/logoundeux.jpg
 ||ilna.ir/serve/*/*/$image
 ||ilna.ir/servev2/*.gif
+||ilna.news/servev2/*.gif$image
 ||ilnanews.com/servev2/*.gif
 ||ilnanews.com/servev2/*.swf
 ||images.khabaronline.ir/system/menus/*/
@@ -989,6 +991,7 @@ zoomtech.ir###text-3
 ||irgreen.ml^$third-party
 ||irjo.ga^
 ||irlanguage.com/baner/$image
+||irna.ir/d/*.gif$image
 ||irpopup.ir/go.php?$popup
 ||irpopup.ir/show.php?
 ||islamquest.net/templates/islamquest_temp/images/$image
