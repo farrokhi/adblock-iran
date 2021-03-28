@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: KPme8Ock1NPr8gXPdj8qyw
+! Checksum: h+UZ/4SlwyVrwY/gbdsJRg
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
@@ -9,8 +9,6 @@
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
 ! License:   BSD Simplified
 !--------------------------------------------------------------------------
-
-###a7d5x-s1pecial > div.a7d5x__inner
 ###ADbox-2
 ###adnFloatbr
 ###adpress_widget-2
@@ -30,7 +28,6 @@
 ###SenCodeLoginBox
 ###takhfifan-widget
 ###Topadver
-##.a7d5x-image
 ##.active.visible.transition.page.modals.dimmer.ui
 ##.ad-container
 ##.ads-head
@@ -378,9 +375,9 @@ ictna.ir##.content-right-ad
 ilna.ir###sticker
 ilna.ir##.zxc_type_text
 ilna.ir##a[href^="/advertisements/"]
+ilna.news###sticker
 ilna.news##.zxc
 ilna.news##.zxc_type_text
-ilna.news###sticker
 ilna.news##[href^="/advertisements/triggered"]
 ilnanews.com###sticker
 imemar.icivil.ir###snppopup-welcome
@@ -640,6 +637,7 @@ skinak.ir###dis_ads > .dadsd
 skinak.ir##.bg > center > .dadsd:nth-of-type(2)
 skinak.ir##header > .ads
 soft98.ir###a1d2x-header
+soft98.ir###a7d5x-s1pecial > div.a7d5x__inner
 soft98.ir###kaprila_soft98_ir_related
 soft98.ir###sid2ebar > section.card:first-child
 soft98.ir###sidebar .card:has(.a1d2x)
@@ -652,6 +650,7 @@ soft98.ir##.a1d2x-image
 soft98.ir##.a1d2x-link
 soft98.ir##.a1d2x-sidebar
 soft98.ir##.a1d2x__inner
+soft98.ir##.a7d5x-image
 soft98.ir##.a7d6x__inner
 soft98.ir##.download-list-item-buysellads
 soft98.ir##.download-list-item:has(a[href*=kaprila])
