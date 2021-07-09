@@ -1244,7 +1244,6 @@ zoomtech.ir###text-3
 ||static*.ilna.ir/servev*/
 ||static*.rokna.net/servev*/$image
 ||static*.borna.news/servev*/*.gif
-||static*.*/servev*/*.gif$image
 ||subf2m.co/files/*.gif
 ||subtitlepedia.biz/images/banners/$image
 ||t3l.ir^$popup
