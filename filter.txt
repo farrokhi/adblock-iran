@@ -149,6 +149,7 @@ alamto.com###b130
 alamto.com###text-15
 alamto.com##.custom_textwidget
 alamto.com##.posts.box_outer:nth-of-type(7) > .widget
+androidzoom.ir##.download-link-ads-below
 amadnews.com##.aas_wrapper
 amadnews.com##.aas_zone
 amazing.ir###main > .header > .nav-adsmb:nth-of-type(3)
@@ -165,6 +166,8 @@ aparat.com##.hidden-end-recom.videoonepromotion--wrapper
 aparat.com##.pause-ad__responsive
 apktops.ir###popup1Modal
 apktops.ir##.widgetwrap
+apktops.ir##a[target=_blank]:has(img[data-src*="cdn.hostdl.com/img/apktops"])
+apktops.ir##ul li.menu-item:has(a:contains(تبلیغات))
 appleapps.ir##.ulp-window-middle-center.ulp-window
 arga-mag.com##.custom.mks_adswidget_ul
 ariapix.net##.bk120
@@ -218,6 +221,7 @@ blogfa.com##+js(set, showbanner, noopFunc)
 blogfa.com##div[style*="fixed"]:contains(تبلیغات)
 blogsky.com###fesnq
 blogsky.com##[style*="z-index: 10000"][style*="width: 122px"]
+borna.news##.zxc_news
 boursenews.ir##.ozv_col_y
 boyernews.com##[id^="adv"]
 bultannews.com##.parent_txt_adv_container2
@@ -320,10 +324,16 @@ fardanews.com##.mgb-related
 farhangnews.ir##.vitrin_float
 farsnews.com##.advertisement
 farsnews.com##.col-md-2.ads-tile
+farsroid.com###main_content > div[class]:has(.farsroid-ads)
 farsroid.com##.baner_ads_top
+farsroid.com##.below-single-ads
 farsroid.com##.col.post-sabet:nth-of-type(2)
+farsroid.com##.download-link-ads-below
 farsroid.com##.farsroid-ads
 farsroid.com##.row.post-sabets:nth-of-type(1)
+farsroid.com##.single-text-ads
+farsroid.com##.site-middle-banners
+farsroid.com##ul li.menu-item:has(a:contains(تبلیغات))
 fartaknews.com##a[href^="/advertisements/"]
 fastdic.com##div.results__ads
 fibazar.ir##.kornertabligh
@@ -349,6 +359,8 @@ ghatreh.com##.ads
 ghatreh.com##.ads_body
 gooya.com###AutoNumber1
 gooyait.com##.widget.widget_text
+gostaresh.news##.zxc_news
+gostaresh.news##a[href*="/advertisements/triggered"]
 graphiran.com##.textadsa1
 graphiran.com##a[href="https://www.p30day.com/"]
 graphiran.com##center:nth-of-type(2) > a[href="http://filestore.graphiran.com/"]
@@ -391,9 +403,13 @@ ir##[id^="anetwork-"]
 iranart.ir###clickweb-niyu
 iranart.ir##[href^="/advertisements/"]
 iranjib.ir###moba
+iranjib.ir###news_wrapper .center:has(a[target=_blank] img)
+iranjib.ir###news_wrapper .center:has(a[href*=adid])
 iranjib.ir##.biga
+iranjib.ir##.htmlad
 iranjib.ir##.mybox
 iranjib.ir##a[href="//www.iranjib.ir/ra.php"]
+iranjib.ir##ul.navmenu li:has(a:contains(تبلیغات))
 iranjib.ir##DIV[onclick="closea()"]
 irannaz.com###topAdver
 irannaz.com##.CenterBlock.CBS.shopads
@@ -417,10 +433,11 @@ isna.ir###box109
 isna.ir###box114 > div > ul
 isna.ir###box32
 isna.ir##.ads.box
+isna.ir##.main-content .container:has(aside.sidebar .box.ads) [class^=col]:has(#item):style(min-width: 75% !important; max-width: 100% !important;)
 isna.ir##[id^="ad100_"]
-itbazar.com##[class^="col-"]:has(> .box[id^="banner-"])
+itbazar.com##[class*="col-"]:has(> [id^="banner"])
 itbazar.com##[href*="itbazar.com/banner/"]
-itbazar.com##[id^="banner-"]
+itbazar.com##[id^="banner"]
 itiran.com##.addver2
 itna.ir##[id^="advertise"]
 itresan.com###fsml_ff
@@ -450,6 +467,7 @@ khabarfarsi.com##.track-click
 khabarfarsi.com##[class*="banners"]
 khabarfarsi.com##[id^="banners"]
 khabaronline.ir##[id^="ad"]
+khabaronline.ir###mainbody:has(#ads-container) .main-content:style(max-width: 100% !important; flex-grow: 1 !important;)
 khabarpu.com###center_kp2:nth-of-type(10)
 khabarpu.com###center_kp2:nth-of-type(11) > .boxint-kp2:nth-of-type(1)
 khabarpu.com##.ext-col3
@@ -484,6 +502,7 @@ marde-rooz.com##.column-2.columns.entries.grid-4
 mashreghnews.ir##[href*="/redirect/ads/"]
 mashreghnews.ir##[id^="ad"]
 mazandmajles.ir##.ad
+mehrnews.com##.mainbody:has(#ads-container) .main-content:style(max-width: 100% !important; flex-grow: 1 !important;)
 mehrnews.com##[id^="ad"]
 mehrnews.com##a[href^="/redirect/ads/"]
 melipayamak.com##.er-popup-body
@@ -520,6 +539,8 @@ news.kodoom.com###large-ad-widget-slider-5484
 newsfa10.xyz##.ads
 nex1music.ir##[href="https://www.veniz.com/"]
 nextholiday.ir##.carousel-inner
+nicmusic.net##[class^=col][style*=FFFFFF]:has([id*=mediaad])
+nicmusic.net##[class^=col][style*=FFFFFF]:has(center a[target=_blank] img)
 niksalehi.com##.banner_content
 niksalehi.com##.banner_sid_desktop
 niksalehi.com##.block_box_threee
@@ -585,6 +606,7 @@ pesedit.ir##a[href="http://www.pesedit.ir/ads/index.html"]
 picofile.com###ads
 plus.ir##.advBanner.text-center
 rajanews.com##.ads
+rasm.io##.can-be-sticky.show-gt-sm.hide.cb-margin-medium-right.cb-display-inline-block.right-rail-wrapper.hide-print
 ravan.e-teb.com##.ads
 readbook.ir##td:nth-of-type(1) > .sidebar-right:nth-of-type(1)
 rokna.ir##.v_zxc
@@ -638,6 +660,8 @@ setare.com##[id*="_banner_"]
 shahrekhabar.com##.hidden-xs.hidden-sm.col-md-2.col-lg-2 > .row
 shahrsakhtafzar.com##[class*="banner"]
 shatelland.com##div.adds-namava
+shayanews.com##.side_news_adv
+shayanews.com##.zxc
 shop-theme.ir##[style*="position:fixed"][style*="width:122px"]
 shopkeeper.ir###sidebar_container
 shopkeeper.ir##.postbody > div > div > a[href^="http://go.shopkeeper.ir/"]
@@ -934,6 +958,7 @@ zoomtech.ir###text-3
 ||farsnews.com/shares/img/charter.jpg
 ||farsroid.com/file/*.gif
 ||farsroid.com/file/PopM.js
+||farsroid.com/js/?url=
 ||farsroid.com/wp-content/uploads/*-400x391
 ||farstoon.com/cartoons/2015/*.gif
 ||fastdic.com/other/banners/
@@ -1216,8 +1241,10 @@ zoomtech.ir###text-3
 ||ssl.vatanclick.ir^
 ||sstarv.com/wp-content/uploads/*.gif
 ||static.clix.ir/
-||static2.ilna.ir/servev2/
-||static2.rokna.net/servev2/$image
+||static*.ilna.ir/servev*/
+||static*.rokna.net/servev*/$image
+||static*.borna.news/servev*/*.gif
+||static*.*/servev*/*.gif$image
 ||subf2m.co/files/*.gif
 ||subtitlepedia.biz/images/banners/$image
 ||t3l.ir^$popup
