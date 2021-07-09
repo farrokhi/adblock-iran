@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: i2FafaULYy879EXb1fbLyw
+! Checksum: 0BfUYRUwfqColvSC2vpKUA
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   172
+! Version:   173
 ! Download:  https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -127,6 +127,7 @@
 2zaar.ir###topBanner
 6sobh.com###RightAdsBar
 abipic.com###radsfix
+afkarnews.com##.main-zxc
 afkarnews.com##.overview-auto
 afkarnews.ir##.type-resource-swf.type-resource
 afkarnews.ir##IFRAME[src*="adtube"]
@@ -250,6 +251,8 @@ digiboy.ir##.sidebar-digiads
 digiboy.ir##.vertical
 digiboy.ir##li.sponsors-item
 digikala.com###popup-mask
+digikala.com##.c-listing-sidebar a[data-adro-ad-click-id]
+digikala.com##.c-listing__items li:has(.c-product-box .c-adplacement__badge-container--txt:contains(Ads))
 dl4all.ir##.center > .fadeInDown.animated.visible.hidden.body-main:nth-of-type(1)
 dl4all.ir##.left > .fadeInDown.animated.visible.hidden.body-main:nth-of-type(1)
 dlbook.net##.mom_custom_text.widget:nth-of-type(3) > .custom_textwidget
@@ -261,6 +264,7 @@ dlroozane.net##div.static-post:contains(تبلیغات)
 donya-e-eqtesad.com##.mrgtalfiq
 donya-e-eqtesad.com##.overview-auto
 donya-e-eqtesad.com##.position-i0
+doostihaa.com##.lefts_sides:has(.adsf_letfs)
 doostihaa.com##[class^="ads"][class$="box"]
 doostihaa.com##[id*="ADbox-"]
 doradu.com##.flads
@@ -414,7 +418,9 @@ isna.ir###box114 > div > ul
 isna.ir###box32
 isna.ir##.ads.box
 isna.ir##[id^="ad100_"]
+itbazar.com##[href*="itbazar.com/banner/"]
 itbazar.com##[id^="banner-"]
+itbazar.com##[class^="col-"]:has(> .box[id^="banner-"])
 itiran.com##.addver2
 itna.ir##[id^="advertise"]
 itresan.com###fsml_ff
@@ -476,6 +482,7 @@ majalesalamat.com###text-13
 manidl.ir###\33 4591733458887cfbe640d
 marde-rooz.com##.column-2.columns.entries.grid-4
 mashreghnews.ir##[id^="ad"]
+mashreghnews.ir##[href*="/redirect/ads/"]
 mazandmajles.ir##.ad
 mehrnews.com##[id^="ad"]
 mehrnews.com##a[href^="/redirect/ads/"]
@@ -489,6 +496,7 @@ mojnews.com##.propaganda
 momtaznews.com##.b130ads
 moroornews.com##.overview-auto
 mostafa3d.com##.bannergroup, .banneritem
+mostafa3d.com###top-b
 mstiran.com##.fancybox
 mstiran.com##.fancybox-overlay-fixed
 multisearch.ir##.tbox
@@ -582,6 +590,7 @@ readbook.ir##td:nth-of-type(1) > .sidebar-right:nth-of-type(1)
 rokna.ir##.v_zxc
 rokna.ir##.xcon12 > .mb16
 rokna.net##.banner-sabet
+rokna.net##.zxc-padding-custom
 rokna.net##a[href^="/advertisements/"]
 rond.ir##.banner-box
 rond.ir##.grid_6
@@ -635,6 +644,8 @@ shopkeeper.ir##.postbody > div > div > a[href^="http://go.shopkeeper.ir/"]
 skinak.ir###dis_ads > .dadsd
 skinak.ir##.bg > center > .dadsd:nth-of-type(2)
 skinak.ir##header > .ads
+snn.ir##.hidden-ms.hidden-xs.hidden-sm:has([href*="/ads/"])
+snn.ir##.adv_mobile
 soft98.ir###a1d2x-header
 soft98.ir###a7d5x-s1pecial > div.a7d5x__inner
 soft98.ir###kaprila_soft98_ir_related
@@ -658,8 +669,11 @@ soft98.ir##[class^="a1d2x"]
 softgozar.com###advBan
 softgozar.com###backgray-layout
 softgozar.com###dtlAdvertiseRightPan
+softgozar.com###left_panel .Label:has(.adv_text)
 softgozar.com###PopAlert
+softgozar.com##.adv_scr_dwnl
 softgozar.com##.adv_text
+softgozar.com##.btnDonate
 sourcebaran.com##a[href="http://bartaren.ir"]
 sourceiran.com##.text-ads-widget.widget
 static.mailerlite.com##.mailerlite-container
@@ -697,8 +711,8 @@ tgju.org##.side-buttons
 tgju.org##[class*="advertise"]
 tigatravel.com##.fade
 tigatravel.com##.popup_block
-timecity.ir##.banner
 tinn.ir##a[href^="/advertisements/"]
+timecity.ir##.banner
 topnaz.com##.adstmp
 topnaz.com##.b130ads
 topnaz.com##.bxl
@@ -1005,7 +1019,8 @@ zoomtech.ir###text-3
 ||isna.ir/images/shared/*.gif
 ||itbazar.com/UploadFiles/*.gif
 ||itbazar.com/UploadFiles/*ADS
-||itbazar.com/uploadfiles/banners/
+||itbazar.com/uploadfiles/banners/*$image
+@@||itbazar.com/uploadfiles/banners/*.jpg$image
 ||itgheymat.com/uploadFiles/*.gif
 ||itgheymat.com/uploadFiles/app-itgheymat.jpg
 ||itiran.com/sites/default/files/*.gif
