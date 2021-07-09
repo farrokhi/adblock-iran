@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0BfUYRUwfqColvSC2vpKUA
+! Checksum: fLTRsJHdo+qW3rCJBiQjsQ
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   173
+! Version:   174
 ! Download:  https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -418,9 +418,9 @@ isna.ir###box114 > div > ul
 isna.ir###box32
 isna.ir##.ads.box
 isna.ir##[id^="ad100_"]
+itbazar.com##[class^="col-"]:has(> .box[id^="banner-"])
 itbazar.com##[href*="itbazar.com/banner/"]
 itbazar.com##[id^="banner-"]
-itbazar.com##[class^="col-"]:has(> .box[id^="banner-"])
 itiran.com##.addver2
 itna.ir##[id^="advertise"]
 itresan.com###fsml_ff
@@ -481,8 +481,8 @@ m.rozup.ir##.ads
 majalesalamat.com###text-13
 manidl.ir###\33 4591733458887cfbe640d
 marde-rooz.com##.column-2.columns.entries.grid-4
-mashreghnews.ir##[id^="ad"]
 mashreghnews.ir##[href*="/redirect/ads/"]
+mashreghnews.ir##[id^="ad"]
 mazandmajles.ir##.ad
 mehrnews.com##[id^="ad"]
 mehrnews.com##a[href^="/redirect/ads/"]
@@ -495,8 +495,8 @@ mizbanblog.com##[id^="ads"]
 mojnews.com##.propaganda
 momtaznews.com##.b130ads
 moroornews.com##.overview-auto
-mostafa3d.com##.bannergroup, .banneritem
 mostafa3d.com###top-b
+mostafa3d.com##.bannergroup, .banneritem
 mstiran.com##.fancybox
 mstiran.com##.fancybox-overlay-fixed
 multisearch.ir##.tbox
@@ -644,8 +644,8 @@ shopkeeper.ir##.postbody > div > div > a[href^="http://go.shopkeeper.ir/"]
 skinak.ir###dis_ads > .dadsd
 skinak.ir##.bg > center > .dadsd:nth-of-type(2)
 skinak.ir##header > .ads
-snn.ir##.hidden-ms.hidden-xs.hidden-sm:has([href*="/ads/"])
 snn.ir##.adv_mobile
+snn.ir##.hidden-ms.hidden-xs.hidden-sm:has([href*="/ads/"])
 soft98.ir###a1d2x-header
 soft98.ir###a7d5x-s1pecial > div.a7d5x__inner
 soft98.ir###kaprila_soft98_ir_related
@@ -711,8 +711,8 @@ tgju.org##.side-buttons
 tgju.org##[class*="advertise"]
 tigatravel.com##.fade
 tigatravel.com##.popup_block
-tinn.ir##a[href^="/advertisements/"]
 timecity.ir##.banner
+tinn.ir##a[href^="/advertisements/"]
 topnaz.com##.adstmp
 topnaz.com##.b130ads
 topnaz.com##.bxl
@@ -1019,8 +1019,7 @@ zoomtech.ir###text-3
 ||isna.ir/images/shared/*.gif
 ||itbazar.com/UploadFiles/*.gif
 ||itbazar.com/UploadFiles/*ADS
-||itbazar.com/uploadfiles/banners/*$image
-@@||itbazar.com/uploadfiles/banners/*.jpg$image
+||itbazar.com/uploadfiles/banners/$image
 ||itgheymat.com/uploadFiles/*.gif
 ||itgheymat.com/uploadFiles/app-itgheymat.jpg
 ||itiran.com/sites/default/files/*.gif
