@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: upVil4/gLaRf9olc7vUSrQ
+! Checksum: gjwVuHuGMbwXQkKFO0rCXQ
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
@@ -28,7 +28,6 @@
 ###SenCodeLoginBox
 ###takhfifan-widget
 ###Topadver
-##.active.visible.transition.page.modals.dimmer.ui
 ##.ad-container
 ##.ads-head
 ##.ads468_box
