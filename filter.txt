@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gjwVuHuGMbwXQkKFO0rCXQ
+! Checksum: T/HZFABFPAnNUuzohRWkfw
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   175
+! Version:   176
 ! Download:  https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -148,7 +148,6 @@ alamto.com###b130
 alamto.com###text-15
 alamto.com##.custom_textwidget
 alamto.com##.posts.box_outer:nth-of-type(7) > .widget
-androidzoom.ir##.download-link-ads-below
 amadnews.com##.aas_wrapper
 amadnews.com##.aas_zone
 amazing.ir###main > .header > .nav-adsmb:nth-of-type(3)
@@ -158,6 +157,7 @@ androidha.com##.app-inside-post
 androidha.com##a[href^="http://www.eligasht.com/"]
 androidineh.com##.a-1.b-4.g-col > .border-radius.post-ads
 androidineh.com##.a-4.b-4.g-col > .border-radius.post-ads > .post-ads-content
+androidzoom.ir##.download-link-ads-below
 aparat.com##.ad-box
 aparat.com##.aparat-ads-box
 aparat.com##.filimo-banner-wrapper
@@ -402,14 +402,14 @@ ir##[id^="anetwork-"]
 iranart.ir###clickweb-niyu
 iranart.ir##[href^="/advertisements/"]
 iranjib.ir###moba
-iranjib.ir###news_wrapper .center:has(a[target=_blank] img)
 iranjib.ir###news_wrapper .center:has(a[href*=adid])
+iranjib.ir###news_wrapper .center:has(a[target=_blank] img)
 iranjib.ir##.biga
 iranjib.ir##.htmlad
 iranjib.ir##.mybox
 iranjib.ir##a[href="//www.iranjib.ir/ra.php"]
-iranjib.ir##ul.navmenu li:has(a:contains(تبلیغات))
 iranjib.ir##DIV[onclick="closea()"]
+iranjib.ir##ul.navmenu li:has(a:contains(تبلیغات))
 irannaz.com###topAdver
 irannaz.com##.CenterBlock.CBS.shopads
 irannaz.com##.TopAdssss.CBS
@@ -465,8 +465,8 @@ khabarfarsi.com###block-block-7
 khabarfarsi.com##.track-click
 khabarfarsi.com##[class*="banners"]
 khabarfarsi.com##[id^="banners"]
-khabaronline.ir##[id^="ad"]
 khabaronline.ir###mainbody:has(#ads-container) .main-content:style(max-width: 100% !important; flex-grow: 1 !important;)
+khabaronline.ir##[id^="ad"]
 khabarpu.com###center_kp2:nth-of-type(10)
 khabarpu.com###center_kp2:nth-of-type(11) > .boxint-kp2:nth-of-type(1)
 khabarpu.com##.ext-col3
@@ -495,6 +495,7 @@ lineblog.ir##[id^="ads"]
 linemovie.biz##.ads-ronakweb
 linemovie.biz##.category9
 m.rozup.ir##.ads
+mail.google.com#@#.adv
 majalesalamat.com###text-13
 manidl.ir###\33 4591733458887cfbe640d
 marde-rooz.com##.column-2.columns.entries.grid-4
@@ -1239,10 +1240,10 @@ zoomtech.ir###text-3
 ||ssads.net^
 ||ssl.vatanclick.ir^
 ||sstarv.com/wp-content/uploads/*.gif
-||static.clix.ir/
+||static*.borna.news/servev*/*.gif
 ||static*.ilna.ir/servev*/
 ||static*.rokna.net/servev*/$image
-||static*.borna.news/servev*/*.gif
+||static.clix.ir/
 ||subf2m.co/files/*.gif
 ||subtitlepedia.biz/images/banners/$image
 ||t3l.ir^$popup
