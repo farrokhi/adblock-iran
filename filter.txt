@@ -250,6 +250,7 @@ digiato.com##.global-wrap > .margin-top-80.paged.guttered.fixed-width.digi-conta
 digiato.com##.show-for-medium.iframe.hdr.agahi.columns.large-centered.large-8.small-12
 digiato.com##.sticky-side.left-sidebar.main-sidebar.home-col.columns.show-for-medium.medium-4.large-3 > .theiaStickySidebar > .sidebar-widget:nth-of-type(2)
 digiato.com##[class^="agahi"]
+digiato.com##.digiad-video
 digiboy.ir##.sidebar-digiads
 digiboy.ir##.vertical
 digiboy.ir##li.sponsors-item
