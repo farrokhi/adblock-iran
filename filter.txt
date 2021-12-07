@@ -741,6 +741,7 @@ topnaz.com##.adstmp
 topnaz.com##.b130ads
 topnaz.com##.bxl
 toranji.ir###\32 b25e9d2_886e > .ruby-container.ruby-block-inner
+trustseal.enamad.ir
 vajehyab.com##.vyads
 varoone.ir##.fixpost
 varoone.ir##.gsh[style*="120px"][style*="240px"]
