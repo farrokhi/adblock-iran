@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tw7TMpXuJLL1EXuNOKJ0Cw
+! Checksum: h/LBJuYLTy1WaVCbE9TmpA
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   177
+! Version:   178
 ! Download:  https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -232,6 +232,7 @@ cafeapple.net##.tblinks-wrap
 car.ir##.cornerAds
 car.ir##.lastblah
 car.ir##.whiteSpace
+click.digiato.com
 clicksite.org###dark
 clicksite.org###product_gallery
 computeruser.ir###spu-5649
@@ -246,11 +247,11 @@ darunama.com##.LongAdvertise
 developer1.ir##.left-advertise-panel
 dezfun.com###fade
 dezfun.com###light
+digiato.com##.digiad-video
 digiato.com##.global-wrap > .margin-top-80.paged.guttered.fixed-width.digi-container > .white.paper > .row.no-bg.home-sec > .sticky-side.right-sidebar.main-sidebar.home-col.columns.show-for-medium.large-pull-6.medium-4.large-3 > .theiaStickySidebar > .sidebar-widget:nth-of-type(6)
 digiato.com##.show-for-medium.iframe.hdr.agahi.columns.large-centered.large-8.small-12
 digiato.com##.sticky-side.left-sidebar.main-sidebar.home-col.columns.show-for-medium.medium-4.large-3 > .theiaStickySidebar > .sidebar-widget:nth-of-type(2)
 digiato.com##[class^="agahi"]
-digiato.com##.digiad-video
 digiboy.ir##.sidebar-digiads
 digiboy.ir##.vertical
 digiboy.ir##li.sponsors-item
