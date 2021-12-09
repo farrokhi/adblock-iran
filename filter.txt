@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: T/HZFABFPAnNUuzohRWkfw
+! Checksum: tw7TMpXuJLL1EXuNOKJ0Cw
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   176
+! Version:   177
 ! Download:  https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
