@@ -1,4 +1,4 @@
-# update: 09-12-2021
+# update: 11-12-2021
 1000click.ir
 a.clickyab.com
 ad-push.ir
@@ -152,6 +152,7 @@ tapsell.ir
 tavoos.net
 te1.ir
 toppopup.com
+trc.metrix.ir
 ua.yektanet.com
 up.video-learn.net
 uploado.xyz
