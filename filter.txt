@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: h/LBJuYLTy1WaVCbE9TmpA
+! Checksum: sXtRqhNPrfqP5vXvc4zkXw
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   178
+! Version:   179
 ! Download:  https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -275,6 +275,8 @@ doostihaa.com##[id*="ADbox-"]
 doradu.com##.flads
 doustiha.ir##.fixed-ads
 download.ir###hdd_rss_reader-2
+download.ir##.parsi-ads
+download.ir##[href^="https://trc.metrix.ir/"]
 downloadha.com###main > .main-container > .maincontent > .topbanners468
 downloadha.com##.ads
 downloadha.com##.entry-etc
@@ -878,6 +880,7 @@ zoomtech.ir###text-3
 ||cccamiran.net/images/*.gif
 ||cdn.asriran.com^$third-party
 ||cdn.gsm.ir/static/files/image/*/*/*/*.gif
+||cdn.hostdl.com/img/*.gif
 ||cdn.iranweb.click^
 ||cdn.isna.ir/d/*/*/*/*/*.gif
 ||cdn.isna.ir/d/*/*/*/*/*.swf$object
@@ -1192,6 +1195,7 @@ zoomtech.ir###text-3
 ||rajanews.com/sites/default/files/superadmin/*.gif
 ||rajanews.com^$popup
 ||rastannews.ir/servev2/*.gif
+||redliini.ga
 ||ref4.com/userimages/img/*banner
 ||retain.ir/app/
 ||retain.ir/widget/api/
