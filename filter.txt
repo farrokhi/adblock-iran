@@ -1297,7 +1297,6 @@ zoomtech.ir###text-3
 ||up.vbiran.ir/uploads/
 ||up.video-learn.net^$third-party
 ||uploado.xyz^$third-party
-||uupload.ir/files/*.gif
 ||vajehyab.com/img/ads/$image
 ||varzesh3.com/v3/static/img/banner/$image
 ||vbiran.ir/uploads/hit_*.png
