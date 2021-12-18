@@ -1178,7 +1178,6 @@ zoomtech.ir###text-3
 ||persianv.com/wp-content/uploads/*.gif
 ||pgnews.ir/uploads/*.gif
 ||pic.beautyhome.ir/*.gif
-||picofile.com/file/*/*.gif
 ||pishkhaan.net/pishkhaanads/$image
 ||poparya.com^
 ||popbox.skinak.ir^
