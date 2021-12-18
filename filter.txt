@@ -125,6 +125,8 @@
 2zaar.ir###ads
 2zaar.ir###topBanner
 6sobh.com###RightAdsBar
+8pic.ir##.link-button
+8pic.ir##.links_footer
 abipic.com###radsfix
 afkarnews.com##.main-zxc
 afkarnews.com##.overview-auto
@@ -330,6 +332,7 @@ farsnews.com##.col-md-2.ads-tile
 farsroid.com###main_content > div[class]:has(.farsroid-ads)
 farsroid.com##.baner_ads_top
 farsroid.com##.below-single-ads
+farsroid.com##.cas-pubg.cas
 farsroid.com##.col.post-sabet:nth-of-type(2)
 farsroid.com##.download-link-ads-below
 farsroid.com##.farsroid-ads
@@ -400,6 +403,7 @@ ilna.news##.zxc_type_text
 ilna.news##[href^="/advertisements/triggered"]
 ilnanews.com###sticker
 imemar.icivil.ir###snppopup-welcome
+imgurl.ir##.links_footer
 inet.ir###filmnetBox
 ir##.sidebar-box.Ads-Text
 ir##[id^="anetwork-"]
@@ -515,6 +519,7 @@ mepatogh.ir##.tablighs
 mihangame.com##.widget_text.widget
 mihanmarket.com##.spnsor_holder
 mizbanblog.com##[id^="ads"]
+moderndl.com##.m-ads
 mojnews.com##.propaganda
 momtaznews.com##.b130ads
 moroornews.com##.overview-auto
@@ -582,6 +587,7 @@ p30skill.ir##.column.col-md-6 > .row
 p30world.com###ad_global_below_navbar
 p30world.com##.post-ads
 par30game.ir##.top-large-ads
+par30games.net##.fixedbanner
 parsiblog.com##[style="overflow: hidden;font-family:Tahoma;font-size:12px;;width: 121px;height: 278px;border: 1px solid #000;z-index: 1000;position: absolute;left: 0px;top: 0px;background:#fff"]
 parsikhon.ir##.ads
 parsnaz.ir###rayka-PB
@@ -745,6 +751,12 @@ topnaz.com##.adstmp
 topnaz.com##.b130ads
 topnaz.com##.bxl
 toranji.ir###\32 b25e9d2_886e > .ruby-container.ruby-block-inner
+upload-fa.ir##.banners
+upload-fa.ir##.footer_nav
+upload-fa.ir##.tagslist
+uploadboy.com##.litebox
+uplooder.net##.special_links
+uupload.ir##.links_footer
 vajehyab.com##.vyads
 varoone.ir##.fixpost
 varoone.ir##.gsh[style*="120px"][style*="240px"]
@@ -1212,6 +1224,7 @@ zoomtech.ir###text-3
 ||rooziato.com/wp-content/uploads/*.gif
 ||rouzegar.com/wp-content/uploads/*/*/*.gif
 ||rouzegar.com/wp-content/uploads/2016/12/photo_*.jpg
+||rozblog.com/include/rozblog_ads_js.php
 ||rzb.ir^$script
 ||s.hitplus.ir^
 ||s3-us-west-2.amazonaws.com/iranefarda/00test/$image
@@ -1302,6 +1315,7 @@ zoomtech.ir###text-3
 ||up.vbiran.ir/uploads/
 ||up.video-learn.net^$third-party
 ||uploado.xyz^$third-party
+||utopclick.com/b/$image
 ||vajehyab.com/img/ads/$image
 ||varzesh3.com/v3/static/img/banner/$image
 ||vbiran.ir/uploads/hit_*.png
