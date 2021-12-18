@@ -217,6 +217,7 @@ binanews.ir###text-2
 binanews.ir##[class^="top_ads"]
 binanews.ir##[id^="linkcat-"]
 bisms.ir##.ads6
+blogfa.com##+js(set, disableselect, true)
 blogfa.com##+js(set, showbanner, noopFunc)
 blogfa.com##div[style*="fixed"]:contains(تبلیغات)
 blogfa.com#@#+js(abort-on-property-read, document.createElement)
@@ -791,6 +792,8 @@ zoomtech.ir###text-3
 ||1000charge.com/gifbanner/
 ||1000click.ir^
 ||130.185.76.109^
+||1abzaar.ir/abzar/tools/no-rightclick.js
+||1abzaar.ir/abzar/tools/no-selects.js
 ||1abzar.ir/abzar/tools/post-view/
 ||1abzar.ir/abzar/tools/stat/
 ||1fardadl.com/wp-content/*.gif
@@ -970,6 +973,7 @@ zoomtech.ir###text-3
 ||esetupdate.ir/adv/
 ||estekhtam.com/wp-content/uploads/*/*/*.gif
 ||estekhtam.com/wp-content/uploads/2016/11/estekhtam*.jpg
+||fa-tools.ir/code/rightclick/right-click1.js
 ||faaltarin.com/images/*.gif
 ||faaltarin.com/images/*.swf
 ||faceit.ir/banner
@@ -1247,6 +1251,7 @@ zoomtech.ir###text-3
 ||scriptplus.ir/*/uploads/ads-
 ||sena.ir/ShowImages.ashx?Adv$image
 ||sena.ir/Upload/PicGallery/Adver/$object
+||seyedrezabazyar.com/codetools/files/close-right-click.js
 ||shahrekhabar.com/swf/
 ||shahrsakhtafzar.com/fa/images/banners
 ||shenoto.com/dist/banner
@@ -1275,6 +1280,7 @@ zoomtech.ir###text-3
 ||taknaz.net/taknaz/pish2.php$subdocument
 ||taknaz.net/taknaz/test.php$subdocument
 ||taknaz.net/up/
+||takskin.com/abzar/norightclick/norightclick.js
 ||taktemp.com/wp-content/uploads/*/*/*.gif
 ||talab.ir/wp-content/uploads/baner/2/$image
 ||talab.org/talab/m.php
@@ -1297,6 +1303,7 @@ zoomtech.ir###text-3
 ||ticketing-service.com/topTickets/
 ||tinn.ir/servev2/$image
 ||tiwall.com/api/adver/
+||tool.4tools.ir/tools/click-l/click-l.js
 ||tooptarinha.com/uploads/ads-new/$image
 ||top2download.com/wp-content/uploads/*/*/*.gif
 ||topnaz.com/wp-content/themes/topnaz_panab/psimgs/ads/
