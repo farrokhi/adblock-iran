@@ -215,9 +215,9 @@ binanews.ir###text-2
 binanews.ir##[class^="top_ads"]
 binanews.ir##[id^="linkcat-"]
 bisms.ir##.ads6
-blogfa.com##+js(aopr, document.createElement)
 blogfa.com##+js(set, showbanner, noopFunc)
 blogfa.com##div[style*="fixed"]:contains(تبلیغات)
+blogfa.com#@#+js(abort-on-property-read, document.createElement)
 blogsky.com###fesnq
 blogsky.com##[style*="z-index: 10000"][style*="width: 122px"]
 borna.news##.zxc_news
