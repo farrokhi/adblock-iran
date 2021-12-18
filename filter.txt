@@ -779,6 +779,8 @@ zoomtech.ir###text-3
 ||1000charge.com/gifbanner/
 ||1000click.ir^
 ||130.185.76.109^
+||1abzar.ir/abzar/tools/post-view/
+||1abzar.ir/abzar/tools/stat/
 ||1fardadl.com/wp-content/*.gif
 ||1fardadownload.net/wp-content/uploads/*/*/payamgps
 ||1pezeshk.com/wp-content/*/%D9%BE%D9%88%D8%B3%D8%AA%D8%B1-%D8%B3%D9%88%D9%85.jpg
@@ -790,6 +792,7 @@ zoomtech.ir###text-3
 ||4dah.ir/wp-content/uploads/ADS*.gif
 ||6sobh.com/images/elitgashtL4.gif
 ||abipic.com/wp-content/uploads/2016/06/bafterefect-2.gif
+||abzarfa.com/services/minicounter/counter.php
 ||accpress.com/baner/$image
 ||ad.nowaroos.com/images/banner/
 ||ad.utop.ir^
@@ -903,6 +906,7 @@ zoomtech.ir###text-3
 ||cloudirs.
 ||congoro.com/widget
 ||core.clix.ir/bc/$subdocument
+||counter.toolsir.com
 ||dabi.ir/ScriptResource.axd?
 ||dabi.ir/Upload/*.gif
 ||dabi.ir/Upload/*/130x200
@@ -1067,6 +1071,7 @@ zoomtech.ir###text-3
 ||jazzaab.net/baner/
 ||jozveha.com/wp-content/uploads/*/*/*.gif
 ||js.foxpush.com^
+||k2cod.com/statistics/counter.php
 ||kafebook.ir/wp-content/uploads/*.gif
 ||kalakamuz.ir/wp-content/uploads/*.gif
 ||kalakamuz.ir/wp-content/uploads/ad
