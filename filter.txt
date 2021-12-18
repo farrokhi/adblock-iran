@@ -855,6 +855,7 @@ zoomtech.ir###text-3
 ||beytoote.com/shops/
 ||blog.giant.ir/weblink/run/$script
 ||blog.namava.ir/wp-content/uploads/*.gif
+||blogfa.com/a/
 ||blogfa.com/ad/
 ||borna.news/servev2/*.gif
 ||boyernews.com/flash/*.swf$object
