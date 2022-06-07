@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 96PqAFyFtNvvFkOy/kTlGQ
+! Checksum: hBVEc6lv6A4hi4elCXmakw
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   180
+! Version:   181
 ! Download:  https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -871,6 +871,7 @@ zoomtech.ir###text-3
 ||besthaa.ir/wp-content/uploads/*/*/*.gif
 ||beytoote.com/images/banners/
 ||beytoote.com/shops/
+||biz1.varzeshe3.com^$third-party
 ||blog.giant.ir/weblink/run/$script
 ||blog.namava.ir/wp-content/uploads/*.gif
 ||blogfa.com/a/
@@ -979,6 +980,7 @@ zoomtech.ir###text-3
 ||faceit.ir/banner
 ||facenama.com/popup.php
 ||facenama.com/postfix.php
+||farakav.com^$third-party
 ||farnet.ir/*/*/*-300-x-100
 ||farsnews.com/shares/img/*.gif
 ||farsnews.com/shares/img/charter.jpg
