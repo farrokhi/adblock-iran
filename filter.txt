@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: L/JZzszrmfFuypnXPoogag
+! Checksum: 1Mc5xXG2gY3od9FPOfRjHw
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
-! Version:   181
+! Version:   182
 ! Download:  https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt
 ! Homepage:  https://github.com/farrokhi/adblock-iran
 ! Support:   https://github.com/farrokhi/adblock-iran/issues 
@@ -296,6 +296,10 @@ econews.com##.advertise-place
 eghtesadnews.com##.propaganda
 eghtesadnews.com##.zxc
 eghtesadonline.com###mgbox-articles
+eghtesadonline.com##.desktop-banner.noprint.talfighat-View
+eghtesadonline.com##.right.clone.position-g3.type-resource-mp4.type-resource
+eghtesadonline.com##.usingCss.lSSlideWrapper
+eghtesadonline.com##div.lslide.position-g3.type-resource-mp4.type-resource
 eghtesadtimes.com##.fake
 eghtesadtimes.com##[href^="/advertisements/"]
 emalls.ir##.side-bar-wrapper > div
