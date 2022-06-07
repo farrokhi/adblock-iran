@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: hBVEc6lv6A4hi4elCXmakw
+! Checksum: L/JZzszrmfFuypnXPoogag
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   4 days
@@ -86,8 +86,6 @@
 .ir/*/banners/
 .ir/ad/
 .ir/ads/
-.ir/banner/
-.ir/banners/
 .ir/jsir/popup.js
 /320x250/*
 /ads/files/*
