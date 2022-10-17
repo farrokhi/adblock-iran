@@ -186,6 +186,7 @@ asriran.com##.webgardi_main.row
 asriran.com##[class*="neshan_"]
 asriran.com##[class^="mgbox-"]
 asriran.com##[id^="mgbox-"]
+asriran.com##[id^="adv"]
 banki.ir###content_container > table > tbody > tr > td:nth-of-type(3)
 banki.ir##.moduletable:nth-of-type(3) > .bannergroup
 barato.ir##.ads.block
