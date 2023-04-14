@@ -1282,6 +1282,7 @@ zoomtech.ir###text-3
 ||subtitlepedia.biz/images/banners/$image
 ||t3l.ir^$popup
 ||tableaumag.com/wp-content/uploads/sites/*/*banner
+||tabnak.ir/*/adv/
 ||taknaz.net/taknaz/pish2.php$subdocument
 ||taknaz.net/taknaz/test.php$subdocument
 ||taknaz.net/up/
