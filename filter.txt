@@ -309,6 +309,8 @@ ensafnews.com##[id^="shahba_ad-"]
 entekhab.ir##.col-xs-36.attention
 entekhab.ir##.col-xs-36.news-web
 entekhab.ir##.yn-bnr__branding
+entekhab.ir##.tabligh
+entekhab.ir##[id*="ynpos-*"]
 epapers.ir##.widgetleft
 esam.ir##[id$="RightCornerBanner"]
 estekhtam.com###text-2
