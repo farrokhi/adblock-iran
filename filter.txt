@@ -784,6 +784,7 @@ zima.ir##.newslleterPop
 zima.ir##.overlayDiv
 zohur12.ir##.related-posts
 zoomg.ir##.banner
+zoomit.ir##[class^="DisplaySkeleton__"]
 zoomit.ir##.bannercontainer
 zoomit.ir##.showBanner
 zoomit.ir##.text-adv-row
