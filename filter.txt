@@ -76,6 +76,7 @@
 ##[id^="sanjagh"]
 ##[id^="skinak_ads"]
 ##[id^="yektanet-"]
+##[id^="tavoos_*"]
 ##a[href^="http://account.zula.ir/"]
 ##a[href^="http://www.alamto.com/ads/click.php"]
 ##div[style*="position:fixed"][style*="z-index:300"] a[target=_blank]
