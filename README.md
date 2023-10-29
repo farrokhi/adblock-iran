@@ -6,12 +6,11 @@ Ad blocking rules for iranian/persian websites.  Works with ![AdblockPlus](https
 
 If using **uBlock₀**, add following line to your custom filters under `Preferences -> 3rd-party filers -> Custom`:
 
-- https://combinatronics.com/farrokhi/adblock-iran/master/filter.txt
 - https://cdn.statically.io/gh/farrokhi/adblock-iran/master/filter.txt
 
 In case of **Adblock Plus**, the list should be added to `Advanced -> Filter lists -> Add filter list via URL` or simply click the below link to import the filter list into ABP.
 
-- https://subscribe.adblockplus.org/?location=https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt
+- https://subscribe.adblockplus.org/?location=[https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt](https://cdn.statically.io/gh/farrokhi/adblock-iran/master/filter.txt)
 
 ## Notes
 
