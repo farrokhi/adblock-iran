@@ -771,6 +771,7 @@ varzesh3.com##.page-content-bg.hidden-xs.page-content-ads
 vazeh.com##.mainx1
 vbiran.ir##.adbox
 vbiran.ir##.vbiran-ads
+web.bale.ai##[class*="DialogAd"]
 wetravel.ir###myModal
 wetravel.ir##.in.fade.modal-backdrop
 wetravel.ir/wp-content/uploads/*/*/ads
